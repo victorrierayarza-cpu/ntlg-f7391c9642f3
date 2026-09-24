@@ -1,0 +1,6 @@
+# Archivos del sistema
+Thumbs.db
+ehthumb.db
+.DS_Store
+# Dependencias (no las usamos en la web, pero por si acaso)
+node_modules/

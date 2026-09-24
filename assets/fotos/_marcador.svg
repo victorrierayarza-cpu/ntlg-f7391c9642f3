@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Espacio para fotografía">
+  <rect width="1200" height="800" fill="#e9e6e0"/>
+  <rect x="0.5" y="0.5" width="1199" height="799" fill="none" stroke="#c9c4ba" stroke-width="1"/>
+  <line x1="0" y1="0" x2="1200" y2="800" stroke="#d5d0c6" stroke-width="1"/>
+  <line x1="1200" y1="0" x2="0" y2="800" stroke="#d5d0c6" stroke-width="1"/>
+  <text x="600" y="410" text-anchor="middle" font-family="Archivo, Arial, sans-serif" font-size="34" letter-spacing="2" fill="#8a857b">FOTOTECA · PENDIENTE</text>
+</svg>

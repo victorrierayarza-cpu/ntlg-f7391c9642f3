@@ -1,0 +1,10 @@
+{
+  "titulo_periodico": "La Inteligencia",
+  "ediciones": [
+    {
+      "fecha": "2026-09-24",
+      "titulo": "Edición cero",
+      "prueba": false
+    }
+  ]
+}

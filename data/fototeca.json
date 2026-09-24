@@ -1,0 +1,140 @@
+{
+  "actualizado": "2026-09-24",
+  "fotos": [
+    {
+      "slug": "data-center",
+      "tema": "Centro de datos",
+      "archivo": "assets/fotos/data-center.webp",
+      "credito": "Foto: BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons",
+      "licencia": "CC BY-SA 3.0",
+      "autor": "BalticServers.com",
+      "origen": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+    },
+    {
+      "slug": "chip",
+      "tema": "Chip",
+      "archivo": "assets/fotos/chip.webp",
+      "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons",
+      "licencia": "CC BY 3.0",
+      "autor": "Justin Mathews",
+      "origen": "https://commons.wikimedia.org/wiki/File:Intel_Underside_(44256686).jpeg"
+    },
+    {
+      "slug": "oblea",
+      "tema": "Oblea de semiconductor",
+      "archivo": "assets/fotos/oblea.webp",
+      "credito": "Foto: Purdue Engineering · CC BY 4.0 · Wikimedia Commons",
+      "licencia": "CC BY 4.0",
+      "autor": "Purdue Engineering",
+      "origen": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_being_removed_from_processing_equipment.jpg"
+    },
+    {
+      "slug": "parlamento-europeo",
+      "tema": "Parlamento Europeo",
+      "archivo": "assets/fotos/parlamento-europeo.webp",
+      "credito": "Foto: Gzen92 · CC BY-SA 4.0 · Wikimedia Commons",
+      "licencia": "CC BY-SA 4.0",
+      "autor": "Gzen92",
+      "origen": "https://commons.wikimedia.org/wiki/File:Parlement_europ%C3%A9en_-_h%C3%A9micycle_(Strasbourg)_(1).jpg"
+    },
+    {
+      "slug": "capitolio",
+      "tema": "Capitolio de EE. UU.",
+      "archivo": "assets/fotos/capitolio.webp",
+      "credito": "Foto: Noclip · Public domain · Wikimedia Commons",
+      "licencia": "Public domain",
+      "autor": "Noclip",
+      "origen": "https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg"
+    },
+    {
+      "slug": "laboratorio",
+      "tema": "Laboratorio",
+      "archivo": "assets/fotos/laboratorio.webp",
+      "credito": "Foto: Jakub Šlégr · CC BY-SA 4.0 · Wikimedia Commons",
+      "licencia": "CC BY-SA 4.0",
+      "autor": "Jakub Šlégr",
+      "origen": "https://commons.wikimedia.org/wiki/File:Stanoven%C3%AD_obsahu_cukru_v_mouce.jpg"
+    },
+    {
+      "slug": "robot-industrial",
+      "tema": "Robot industrial",
+      "archivo": "assets/fotos/robot-industrial.webp",
+      "credito": "Foto: Shixart1985 · CC BY 2.0 · Wikimedia Commons",
+      "licencia": "CC BY 2.0",
+      "autor": "Shixart1985",
+      "origen": "https://commons.wikimedia.org/wiki/File:Robot_arm_picks_up_cylindrical_objects_in_a_factory_setting.jpg"
+    },
+    {
+      "slug": "ciudad-noche",
+      "tema": "Ciudad de noche",
+      "archivo": "assets/fotos/ciudad-noche.webp",
+      "credito": "Foto: formulanone · CC BY-SA 2.0 · Wikimedia Commons",
+      "licencia": "CC BY-SA 2.0",
+      "autor": "formulanone",
+      "origen": "https://commons.wikimedia.org/wiki/File:Atlanta_City_Night_Lights_And_Traffic_-_December_2015_(42348114472).jpg"
+    },
+    {
+      "slug": "codigo",
+      "tema": "Código en pantalla",
+      "archivo": "assets/fotos/codigo.webp",
+      "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons",
+      "licencia": "CC0",
+      "autor": "Markus Spiske",
+      "origen": "https://commons.wikimedia.org/wiki/File:Code_on_computer_monitor_(Unsplash).jpg"
+    },
+    {
+      "slug": "fibra-optica",
+      "tema": "Fibra óptica",
+      "archivo": "assets/fotos/fibra-optica.webp",
+      "credito": "Foto: Syced · CC0 · Wikimedia Commons",
+      "licencia": "CC0",
+      "autor": "Syced",
+      "origen": "https://commons.wikimedia.org/wiki/File:Fujikura_optic_fiber_at_Science_Museum.jpg"
+    },
+    {
+      "slug": "san-francisco",
+      "tema": "San Francisco",
+      "archivo": "assets/fotos/san-francisco.webp",
+      "credito": "Foto: Daniel L. Lu (user:dllu) · CC BY-SA 4.0 · Wikimedia Commons",
+      "licencia": "CC BY-SA 4.0",
+      "autor": "Daniel L. Lu (user:dllu)",
+      "origen": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_and_San_Francisco_skyline_from_Hawk_Hill_at_Blue_Hour_dllu.jpg"
+    },
+    {
+      "slug": "shanghai",
+      "tema": "Shanghái",
+      "archivo": "assets/fotos/shanghai.webp",
+      "credito": "Foto: King of Hearts · CC BY-SA 4.0 · Wikimedia Commons",
+      "licencia": "CC BY-SA 4.0",
+      "autor": "King of Hearts",
+      "origen": "https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg"
+    },
+    {
+      "slug": "red-electrica",
+      "tema": "Red eléctrica",
+      "archivo": "assets/fotos/red-electrica.webp",
+      "credito": "Foto: Kkiefuik · CC BY 4.0 · Wikimedia Commons",
+      "licencia": "CC BY 4.0",
+      "autor": "Kkiefuik",
+      "origen": "https://commons.wikimedia.org/wiki/File:Transmission_Lines_at_Sunset.jpg"
+    },
+    {
+      "slug": "biblioteca",
+      "tema": "Biblioteca",
+      "archivo": "assets/fotos/biblioteca.webp",
+      "credito": "Foto: MSwierenga · CC0 · Wikimedia Commons",
+      "licencia": "CC0",
+      "autor": "MSwierenga",
+      "origen": "https://commons.wikimedia.org/wiki/File:Simon_Room_mezzanine_bookshelves.jpg"
+    },
+    {
+      "slug": "tierra-espacio",
+      "tema": "La Tierra desde el espacio",
+      "archivo": "assets/fotos/tierra-espacio.webp",
+      "credito": "Foto: NASA images by Reto Stöckli, based on data from NASA and NOAA. Instrument: Terra - MODIS · Public domain · Wikimedia Commons",
+      "licencia": "Public domain",
+      "autor": "NASA images by Reto Stöckli, based on data from NASA and NOAA. Instrument: Terra - MODIS",
+      "origen": "https://commons.wikimedia.org/wiki/File:Blue_Marble_Western_Hemisphere.jpg"
+    }
+  ]
+}

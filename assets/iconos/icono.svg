@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="La Inteligencia">
+  <rect width="512" height="512" fill="#111111"/>
+  <!-- Letra "I" con serifa, construida con rectangulos (sin depender de fuentes) -->
+  <g fill="#ffffff">
+    <rect x="132" y="136" width="168" height="40"/>   <!-- serifa superior -->
+    <rect x="188" y="136" width="56"  height="240"/>  <!-- asta vertical -->
+    <rect x="132" y="336" width="168" height="40"/>   <!-- serifa inferior -->
+  </g>
+  <!-- Punto rojo, como el punto tras "I." de la cabecera -->
+  <circle cx="344" cy="356" r="34" fill="#c8102e"/>
+</svg>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <!-- viewport: hace que la web se adapte al ancho del móvil -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <!-- noindex: pide a Google y otros buscadores que NO indexen la web -->
+  <meta name="robots" content="noindex, nofollow">
+  <title>La Inteligencia</title>
+  <meta name="description" content="Diario personal de la era artificial.">
+
+  <!-- Color de la barra del navegador en el móvil -->
+  <meta name="theme-color" content="#111111">
+
+  <!-- PWA: manifest = ficha que convierte la web en app instalable -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <!-- Icono para la pantalla de inicio del iPhone -->
+  <link rel="apple-touch-icon" href="assets/iconos/icono-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="La Inteligencia">
+
+  <!-- Tipografías de Google: Playfair (cabecera) y Libre Caslon (cuerpo/cursiva) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Archivo:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/css/estilo.css?v=3">
+</head>
+<body>
+  <!-- La cabecera y el contenido se rellenan desde JavaScript (app.js) -->
+  <div id="app" data-vista="portada">
+    <p class="cargando">Cargando la edición…</p>
+  </div>
+
+  <script src="assets/js/app.js?v=3"></script>
+</body>
+</html>

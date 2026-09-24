@@ -1,0 +1,393 @@
+/* ============================================================
+   LA INTELIGENCIA — Hoja de estilo (el "aspecto" del periódico)
+   Estética: diario serio (El País). Serifa, columnas, filetes,
+   blanco y negro + rojo de acento. Esquinas rectas. Sin emojis,
+   sin degradados, sin sombras "de app".
+   ============================================================ */
+
+/* --- Variables: los colores y medidas en un solo sitio --- */
+:root {
+  --negro: #111111;
+  --tinta: #1a1a1a;        /* texto principal */
+  --gris-texto: #444444;   /* texto secundario */
+  --gris-suave: #767676;   /* créditos, fechas */
+  --rojo: #c8102e;         /* único color de acento */
+  --papel: #ffffff;        /* fondo */
+  --papel-2: #f4f2ee;      /* fondo de columnas fijas (tono papel) */
+  --filete: #111111;       /* líneas de separación fuertes */
+  --filete-suave: #d6d2ca; /* líneas finas */
+  --ancho-max: 1180px;
+
+  --serif-titular: "Playfair Display", Georgia, "Times New Roman", serif;
+  --serif-cuerpo: "Libre Caslon Text", Georgia, "Times New Roman", serif;
+  --sans-etiqueta: "Archivo", Arial, sans-serif;
+}
+
+/* La web siempre en claro: un periódico es papel blanco.
+   (No hacemos modo oscuro para no traicionar la estética.) */
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--papel);
+  color: var(--tinta);
+  font-family: var(--serif-cuerpo);
+  font-size: 18px;
+  line-height: 1.6;
+  /* respeta el "notch" del iPhone */
+  padding: 0 env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+
+.cargando {
+  max-width: var(--ancho-max);
+  margin: 40px auto;
+  padding: 0 16px;
+  color: var(--gris-suave);
+  font-style: italic;
+}
+
+/* Contenedor central con margen lateral (16px en móvil) */
+.contenedor {
+  max-width: var(--ancho-max);
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/* ============================================================
+   CABECERA (masthead)
+   ============================================================ */
+.cabecera {
+  border-bottom: 3px solid var(--filete);
+  margin-bottom: 0;
+}
+
+/* Saludo personal (discreto, sobre la cabecera) */
+.saludo {
+  font-family: var(--serif-cuerpo);
+  font-style: italic;
+  font-size: 14px;
+  color: var(--gris-suave);
+  text-align: center;
+  padding: 12px 0 2px;
+  cursor: pointer;
+  user-select: none;
+}
+.saludo .cambia {
+  text-decoration: underline dotted var(--filete-suave);
+  text-underline-offset: 3px;
+}
+
+/* Aparición suave al deslizar (mejora progresiva) */
+.reveal { opacity: 0; transform: translateY(14px); transition: opacity .6s ease, transform .6s ease; }
+.reveal.visible { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  .reveal { opacity: 1 !important; transform: none !important; transition: none; }
+}
+.cabecera-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--sans-etiqueta);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gris-suave);
+  padding: 8px 0;
+  border-bottom: 1px solid var(--filete-suave);
+}
+.cabecera-top a { color: var(--gris-suave); text-decoration: none; }
+.cabecera-top a:hover { color: var(--rojo); }
+
+.masthead {
+  text-align: center;
+  padding: 14px 0 6px;
+}
+.masthead h1 {
+  font-family: var(--serif-titular);
+  font-weight: 900;
+  font-size: clamp(38px, 12vw, 88px);
+  line-height: 0.95;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+.masthead h1 .punto { color: var(--rojo); }
+
+/* Subtítulo entre dos filetes finos */
+.masthead .lema {
+  font-family: var(--serif-cuerpo);
+  font-style: italic;
+  font-size: clamp(12px, 3.4vw, 15px);
+  color: var(--gris-texto);
+  border-top: 1px solid var(--filete);
+  border-bottom: 1px solid var(--filete);
+  margin: 10px 0 0;
+  padding: 6px 0;
+}
+
+/* Aviso de edición de prueba */
+.aviso-prueba {
+  background: var(--negro);
+  color: #fff;
+  font-family: var(--sans-etiqueta);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 6px 12px;
+}
+
+/* ============================================================
+   ETIQUETAS DE SECCIÓN (kicker)
+   ============================================================ */
+.etiqueta {
+  font-family: var(--sans-etiqueta);
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--rojo);
+  margin: 0 0 6px;
+  display: inline-block;
+}
+
+/* ============================================================
+   PORTADA — retícula de noticias
+   ============================================================ */
+.tira-fecha {
+  font-family: var(--sans-etiqueta);
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--gris-suave);
+  padding: 10px 0;
+  border-bottom: 1px solid var(--filete-suave);
+  display: flex;
+  justify-content: space-between;
+}
+
+.rejilla {
+  display: grid;
+  grid-template-columns: 1fr;   /* móvil: una columna */
+  gap: 0;
+}
+
+/* Cada noticia */
+.noticia {
+  padding: 22px 0;
+  border-bottom: 1px solid var(--filete-suave);
+}
+.noticia:last-child { border-bottom: none; }
+
+.noticia h2 {
+  font-family: var(--serif-titular);
+  font-weight: 700;
+  line-height: 1.12;
+  margin: 2px 0 8px;
+  font-size: 26px;
+  letter-spacing: -0.01em;
+}
+.noticia h2 a { color: var(--tinta); text-decoration: none; }
+.noticia h2 a:hover { color: var(--rojo); }
+
+.noticia .entradilla {
+  color: var(--gris-texto);
+  margin: 0 0 12px;
+}
+
+.noticia figure { margin: 0 0 12px; }
+.noticia img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid var(--filete-suave);
+}
+.noticia figcaption {
+  font-family: var(--sans-etiqueta);
+  font-size: 11px;
+  color: var(--gris-suave);
+  padding-top: 4px;
+  line-height: 1.35;
+}
+
+/* Apartados dentro de la noticia */
+.bloque-reaccion, .bloque-porque {
+  margin: 12px 0 0;
+  padding-left: 12px;
+  border-left: 3px solid var(--filete-suave);
+}
+.bloque-porque { border-left-color: var(--rojo); }
+.bloque-reaccion h3, .bloque-porque h3 {
+  font-family: var(--sans-etiqueta);
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--gris-suave);
+  margin: 0 0 4px;
+}
+.bloque-porque h3 { color: var(--rojo); }
+.bloque-reaccion p, .bloque-porque p { margin: 0; }
+
+.fuente {
+  font-family: var(--sans-etiqueta);
+  font-size: 12px;
+  color: var(--gris-suave);
+  margin-top: 12px;
+}
+.fuente a { color: var(--gris-texto); }
+.fuente a:hover { color: var(--rojo); }
+
+/* ============================================================
+   COLUMNAS FIJAS (Posturas, Datos curiosos, Glosario, Fin de semana)
+   ============================================================ */
+.seccion-fija {
+  background: var(--papel-2);
+  border-top: 3px solid var(--filete);
+  margin-top: 26px;
+  padding: 18px 16px;
+}
+.seccion-fija > h2 {
+  font-family: var(--serif-titular);
+  font-weight: 900;
+  font-size: 22px;
+  margin: 0 0 12px;
+  border-bottom: 1px solid var(--filete-suave);
+  padding-bottom: 6px;
+}
+
+.postura {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--filete-suave);
+}
+.postura:last-child { border-bottom: none; }
+.postura .quien {
+  font-weight: 700;
+  font-family: var(--serif-cuerpo);
+}
+.postura .sin-confirmar {
+  font-family: var(--sans-etiqueta);
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #fff;
+  background: var(--gris-suave);
+  padding: 1px 6px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+.postura .meta {
+  font-family: var(--sans-etiqueta);
+  font-size: 12px;
+  color: var(--gris-suave);
+  margin-top: 2px;
+}
+
+.mercados-intro {
+  font-style: italic;
+  color: var(--gris-texto);
+  margin: 0 0 10px;
+}
+.dato-curioso { font-size: 17px; }
+.glosario .termino {
+  font-weight: 700;
+  color: var(--rojo);
+  font-family: var(--serif-cuerpo);
+}
+
+/* ============================================================
+   HEMEROTECA
+   ============================================================ */
+.hemeroteca-lista { list-style: none; margin: 0; padding: 0; }
+.hemeroteca-lista li {
+  border-bottom: 1px solid var(--filete-suave);
+  padding: 14px 0;
+}
+.hemeroteca-lista a {
+  text-decoration: none;
+  color: var(--tinta);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+}
+.hemeroteca-lista a:hover .h-titulo { color: var(--rojo); }
+.h-fecha {
+  font-family: var(--sans-etiqueta);
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--gris-suave);
+  white-space: nowrap;
+}
+.h-titulo {
+  font-family: var(--serif-titular);
+  font-weight: 700;
+  font-size: 19px;
+}
+
+/* ============================================================
+   PIE
+   ============================================================ */
+.pie {
+  border-top: 3px solid var(--filete);
+  margin-top: 30px;
+  padding: 18px 0 40px;
+  font-family: var(--sans-etiqueta);
+  font-size: 12px;
+  color: var(--gris-suave);
+  text-align: center;
+  line-height: 1.6;
+}
+.pie a { color: var(--gris-suave); }
+.pie a:hover { color: var(--rojo); }
+
+.volver {
+  font-family: var(--sans-etiqueta);
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--rojo);
+  text-decoration: none;
+  display: inline-block;
+  margin: 16px 0;
+}
+
+/* ============================================================
+   ESCRITORIO / TABLET — más columnas
+   ============================================================ */
+@media (min-width: 720px) {
+  body { font-size: 19px; }
+
+  /* Noticia destacada (la primera) a lo ancho con foto grande */
+  .rejilla {
+    grid-template-columns: 1fr 1fr;
+    column-gap: 28px;
+  }
+  .noticia { padding: 26px 0; }
+  .noticia.destacada {
+    grid-column: 1 / -1;
+    border-bottom: 3px solid var(--filete);
+    padding-bottom: 26px;
+  }
+  .noticia.destacada h2 { font-size: 40px; }
+
+  /* Las columnas fijas en rejilla de dos */
+  .fijas-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 28px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .rejilla { grid-template-columns: 1fr 1fr 1fr; column-gap: 32px; }
+  .noticia.destacada { grid-column: 1 / -1; }
+  .noticia.destacada .destacada-cols {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 32px;
+    align-items: start;
+  }
+}
