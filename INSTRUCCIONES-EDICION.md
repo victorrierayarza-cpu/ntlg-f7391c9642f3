@@ -3,6 +3,8 @@
 Este documento es el encargo cerrado que sigue la automatización cada vez que crea una edición.
 Objetivo: un periódico veraz, contrastado y con criterio, sobre inteligencia artificial.
 
+> Nota: algunas de estas reglas están también en CLAUDE.md; si cambias una, cámbiala en ambos archivos.
+
 ## 1. Cadencia
 - Se publica **lunes, miércoles y viernes a las 11:00 (hora de Madrid)**.
 - **Solo los lunes** se añade la sección **«El fin de semana»** (lo ocurrido de viernes a lunes).
@@ -55,7 +57,14 @@ Revisar y no publicar si algo falla:
 8. Tono **neutral** y sin sesgo hacia ninguna empresa.
 Si tras corregir sigue habiendo un problema grave, **es preferible publicar menos noticias (bien verificadas) que publicar algo dudoso**.
 
+**Validación automática obligatoria (paso final antes de publicar):** ejecuta
+`node validar-edicion.js data/ediciones/AAAA-MM-DD.json`.
+- Si el resultado es **ERROR**, NO publiques: corrige lo que indique y vuelve a ejecutarlo.
+- Si no consigues dejarlo en **OK**, **no hagas commit ni push**, y deja constancia del error en el resumen final (paso 8 de tu tarea).
+- Los **avisos** (por ejemplo, un enlace que responde con «acceso denegado» a programas automáticos) NO bloquean; conviene revisarlos, pero puedes publicar.
+
 ## 8. Publicación
+- **Solo si la validación ha dado OK:**
 - Guardar la edición y actualizar el índice.
 - Subir los cambios al repositorio (esto reconstruye la web sola).
 - **Avisar** a Víctor con una notificación cuando la edición esté publicada.
