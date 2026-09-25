@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-09-25",
+      "titulo": "OpenAI y Anthropic piden reglas globales en la ONU; Trump las rechaza",
+      "prueba": false
+    },
+    {
       "fecha": "2026-09-24",
       "titulo": "Edición cero",
       "prueba": false
