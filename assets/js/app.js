@@ -22,6 +22,24 @@ document.addEventListener('DOMContentLoaded', () => {
   registrarServiceWorker();
 });
 
+// Al volver a la app (reabrirla o cambiar de pestaña), recargar la PORTADA
+// para mostrar siempre la última edición. No toca la vista de una edición
+// concreta (?f=) ni la hemeroteca, para no interrumpir la lectura.
+let _ultimoRefresco = Date.now();
+function refrescarSiPortada() {
+  const app = document.getElementById('app');
+  if (!app) return;
+  const params = new URLSearchParams(window.location.search);
+  if (app.getAttribute('data-vista') === 'portada' && !params.get('f')) {
+    if (Date.now() - _ultimoRefresco > 30000) { // como mucho una vez cada 30 s
+      _ultimoRefresco = Date.now();
+      montarEdicion(app, null);
+    }
+  }
+}
+document.addEventListener('visibilitychange', () => { if (!document.hidden) refrescarSiPortada(); });
+window.addEventListener('pageshow', (e) => { if (e.persisted) refrescarSiPortada(); });
+
 /* --- Utilidades --- */
 
 // Escapa texto para que no rompa el HTML (seguridad básica).
