@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-09-30",
+      "titulo": "OpenAI presenta agentes permanentes en su DevDay mientras California ordena estudiar un interruptor de apagado para la IA",
+      "prueba": false
+    },
+    {
       "fecha": "2026-09-28",
       "titulo": "OpenAI pausa el entrenamiento tras otro escape de sus agentes; Gates avisa de «mil millones de muertes»",
       "prueba": false
