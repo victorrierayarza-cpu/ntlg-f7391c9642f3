@@ -1,0 +1,142 @@
+{
+  "fecha": "2026-10-02",
+  "numero": "4",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Anthropic lanza Claude Sonnet 5.5: mismo precio que su antecesor pero mucho más rápido programando",
+      "entradilla": "Anthropic publicó el 28 de septiembre Claude Sonnet 5.5, la actualización de su modelo de gama media que mantiene el precio de Sonnet 5 (2 dólares por millón de tokens de entrada, 10 de salida) pero mejora de forma notable sus capacidades agénticas: en la prueba Terminal-Bench 4.0, que mide la autonomía resolviendo tareas en una terminal, pasa de un 10,3% a un 70,6% de acierto, por encima incluso de Opus 5.5 en varias pruebas de trabajo profesional. El modelo amplía su ventana de contexto a un millón de tokens y genera las respuestas un 30% más rápido, con un coste por tarea hasta un 30% menor.",
+      "reaccion": "El lanzamiento llega pocos días después de que OpenAI presentara en su DevDay GPT-6.1 Sol con una rebaja de precios similar, confirmando que la competencia entre los grandes modelos se libra ahora tanto en capacidad como en el coste de cada tarea resuelta.",
+      "por_que_importa": "Que dos laboratorios rivales abaraten el acceso a modelos cada vez más capaces de manejar herramientas y ejecutar código de forma autónoma acelera la adopción de agentes de IA en empresas, pero también multiplica los casos en que un fallo del modelo puede tener consecuencias reales sin supervisión directa.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Líneas de código de colores en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "MarkTechPost", "url": "https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/", "fecha": "28 sep 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "Grandes tecnológicas de la IA pactan con Trump 'autorregularse' en lugar de aceptar una ley",
+      "entradilla": "Más de veinte directivos de las principales empresas de inteligencia artificial —entre ellos Dario Amodei (Anthropic), Greg Brockman (OpenAI) y Jensen Huang (Nvidia)— se reunieron el 29 de septiembre con Donald Trump en la Casa Blanca y firmaron un acuerdo de una página que el presidente calificó de 'moralmente vinculante'. El texto, publicado por Trump en su red Truth Social, compromete a las firmantes a varias medidas de vigilancia interna de sus propios modelos —entre ellas controles técnicos para detectar fallos, revisiones internas de riesgo y auditorías externas— y deja abierta la puerta a convertir estos compromisos en ley 'más adelante'.",
+      "reaccion": "Organizaciones de defensa del consumidor llevan meses advirtiendo de que los compromisos voluntarios de las tecnológicas no sustituyen a una ley: sin sanciones ni supervisión independiente, el cumplimiento del pacto depende de la buena fe de cada empresa.",
+      "por_que_importa": "Es la enésima señal de que la Administración Trump prefiere dejar que el propio sector marque sus límites antes que legislar, una apuesta que traslada a los tribunales —y no al Congreso— la tarea de fijar qué responsabilidad asume una empresa de IA cuando algo sale mal.",
+      "foto": {
+        "archivo": "assets/fotos/capitolio.webp",
+        "alt": "Vista completa del Capitolio de Estados Unidos",
+        "credito": "Foto: Noclip · Public domain · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CNN", "url": "https://www.cnn.com/2026/09/29/business/amodei-huang-karp-trump", "fecha": "29 sep 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "El Gobierno de EE. UU. estrena un buscador con IA que reúne 29.000 páginas oficiales",
+      "entradilla": "La Administración Trump puso en marcha el 29 de septiembre America.gov, un portal que usa inteligencia artificial —con tecnología de Gemini (Google) y Grok (xAI)— para responder preguntas sobre trámites federales: desde solicitar Medicare hasta renovar el pasaporte o buscar empleo público, sin necesidad de crear una cuenta. La Administración de Servicios Generales (GSA), que lo desarrolló junto al National Design Studio, asegura que las respuestas se generan solo a partir de fuentes oficiales y que el sistema integra información de más de 29.000 páginas web del Gobierno.",
+      "reaccion": "La elección de Grok como uno de los motores del portal ha generado dudas entre expertos en políticas públicas, que recuerdan los episodios de respuestas sesgadas y ofensivas que ha protagonizado el chatbot de xAI en el último año.",
+      "por_que_importa": "Es uno de los primeros casos de un gobierno nacional que delega buena parte de su atención al ciudadano en chatbots comerciales; si el sistema da información errónea sobre una prestación social o un trámite migratorio, no está claro quién responde ante el ciudadano afectado.",
+      "foto": {
+        "archivo": "assets/fotos/biblioteca.webp",
+        "alt": "Estanterías de una biblioteca vistas desde la galería superior",
+        "credito": "Foto: MSwierenga · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "FedScoop", "url": "https://fedscoop.com/trump-launches-ai-site-america-gov/", "fecha": "29 sep 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "California prohíbe que una IA despida o vigile en solitario a los trabajadores",
+      "entradilla": "El gobernador Gavin Newsom firmó el 30 de septiembre un paquete de leyes que limita el uso de inteligencia artificial en el trabajo: la 'No Robo Bosses Act' (SB 947) impide que una empresa despida, sancione o degrade a un empleado basándose solo en la decisión de un sistema automático, sin revisión humana; la AB 1883 prohíbe las herramientas de vigilancia que predicen el estado emocional de la plantilla o recogen sus datos 'neuronales'; y la AB 1331 restringe la videovigilancia con IA en baños y vestuarios. Newsom había vetado una ley muy parecida hace un año; las sanciones por incumplimiento llegan a 500 dólares por infracción.",
+      "reaccion": "La patronal californiana, agrupada en la CalChamber, había hecho campaña contra estas normas por considerar que sobrecargan a las empresas con trámites, mientras los sindicatos —con la Federación del Trabajo de California a la cabeza— lo han celebrado como la primera ley estatal que pone límites claros al poder de la IA sobre el empleo.",
+      "por_que_importa": "California concentra buena parte de las empresas que desarrollan estas herramientas de gestión de personal, así que esta ley —con sanciones que pueden perseguirse también por la vía del Código Laboral— puede convertirse en el modelo que copien otros estados a falta de una norma federal.",
+      "foto": {
+        "archivo": "assets/fotos/robot-industrial.webp",
+        "alt": "Brazo robótico industrial manipulando piezas cilíndricas en una fábrica",
+        "credito": "Foto: Shixart1985 · CC BY 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CNBC", "url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html", "fecha": "30 sep 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "La policía griega desarticula una banda que clonaba voces con IA para robar a familias",
+      "entradilla": "La Dirección contra el Crimen Organizado de Grecia desmanteló una red que, desde al menos julio, se hacía pasar por teléfono por empleados de la eléctrica HEDNO o de compañías de telefonía para ganarse la confianza de sus víctimas; cuando la víctima dudaba, los estafadores conseguían el número de un familiar, grababan su voz y usaban inteligencia artificial para clonarla y tranquilizarla antes de presentarse en su domicilio a recoger dinero en efectivo y joyas. Dos presuntos 'cobradores', de 23 y 25 años, fueron detenidos cuando salían de una vivienda con objetos valorados en unos 30.000 euros; la investigación, hecha pública el 18 de septiembre, calcula el botín total de la red en más de un millón de euros.",
+      "reaccion": "El caso griego se suma a una lista creciente de estafas con voces clonadas por IA que ha llevado a varios senadores de EE. UU. a pedir por carta a operadoras y tecnológicas medidas de verificación más estrictas frente a este tipo de fraude.",
+      "por_que_importa": "Clonar una voz ya no exige medios técnicos sofisticados ni grandes sumas de dinero, lo que multiplica el riesgo de fraudes dirigidos a personas mayores y obliga a repensar protocolos tan básicos como fiarse de la voz de un familiar al teléfono.",
+      "foto": {
+        "archivo": "assets/fotos/fibra-optica.webp",
+        "alt": "Detalle de un cable de fibra óptica en un museo de la ciencia",
+        "credito": "Foto: Syced · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Euronews", "url": "https://www.euronews.com/2026/09/18/greece-police-bust-gang-using-ai-to-clone-relatives-voices-for-cash", "fecha": "18 sep 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Broadcom prevé que Anthropic se convierta en su mayor cliente de chips de IA en 2027",
+      "entradilla": "El consejero delegado de Broadcom, Hock Tan, dijo en la presentación de resultados del 2 de septiembre que Anthropic está 'en camino de convertirse en nuestro mayor cliente de XPU en 2027' y de mantener ese puesto en 2028. Broadcom desplegará este año 1 gigavatio de capacidad de sus chips Ironwood para Anthropic, cifra que subirá a 5 gigavatios en 2027 con la siguiente generación (TPU v8i) y que la compañía calcula que podría ampliarse en otros 10 gigavatios en 2028. Los ingresos de Broadcom por semiconductores de IA crecieron un 221% interanual, hasta 16.700 millones de dólares, en el trimestre.",
+      "reaccion": "El anuncio confirma que Anthropic diversifica su infraestructura más allá de Nvidia apoyándose en los chips a medida (XPU) que Google y Broadcom diseñan para cargas de trabajo concretas, en paralelo a la financiación con deuda que la propia Anthropic está levantando para pagar ese despliegue.",
+      "por_que_importa": "El tamaño de estos compromisos de capacidad —varios gigavatios reservados con años de antelación— da una medida de cuánto dinero se está apostando a que la demanda de IA siga creciendo al ritmo actual, y de lo expuesta que queda Anthropic si esa apuesta no sale bien.",
+      "foto": {
+        "archivo": "assets/fotos/data-center.webp",
+        "alt": "Pasillo de servidores en un centro de datos",
+        "credito": "Foto: BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Benzinga", "url": "https://www.benzinga.com/markets/tech/26/09/61594615/broadcom-ceo-hock-tan-anthropic-largest-xpu-customer-google-tpu-orders", "fecha": "2 sep 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Donald Trump · presidente de EE. UU.",
+      "que": "Firma con más de veinte directivos de IA un acuerdo de una página para la 'autorregulación' del sector, que calificó de 'moralmente vinculante', en vez de impulsar una ley.",
+      "cuando": "29 sep 2026",
+      "fuente": "CNN"
+    },
+    {
+      "quien": "Mike Johnson · presidente de la Cámara de Representantes de EE. UU.",
+      "que": "Defiende la autorregulación de las empresas de IA frente a una ley federal, abogando por lo que llama una 'respuesta federal medida'.",
+      "cuando": "29 sep 2026",
+      "fuente": "Axios"
+    },
+    {
+      "quien": "Lorena Gonzalez · presidenta de la Federación del Trabajo de California (AFL-CIO)",
+      "que": "Celebra las nuevas leyes californianas contra los 'jefes robóticos' como un primer paso para poner límites claros a la vigilancia y el despido automatizado con IA en el trabajo.",
+      "cuando": "30 sep 2026",
+      "fuente": "KQED"
+    },
+    {
+      "quien": "CalChamber · patronal de California",
+      "que": "Hace campaña contra la 'No Robo Bosses Act' y leyes similares, alegando que imponen trámites y costes innecesarios a empresas que ya usan sistemas automatizados de gestión de personal.",
+      "cuando": "sep 2026",
+      "fuente": "Law360 / Fisher Phillips"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: Anthropic acelera su salida a bolsa y el gasto en centros de datos empieza a pasar factura a la caja de las tecnológicas.",
+    "items": [
+      {
+        "empresa": "Anthropic",
+        "que": "Desplaza el inicio de la ronda de presentación a inversores para su salida a bolsa a mediados de octubre, con una valoración que algunos bancos sitúan cerca de los 2 billones de dólares; la operación podría cerrarse antes de las elecciones legislativas de noviembre en EE. UU.",
+        "cuando": "sep 2026",
+        "fuente": "Reuters / The Star"
+      },
+      {
+        "empresa": "Alphabet, Amazon, Microsoft, Meta y Oracle",
+        "que": "Emitieron conjuntamente unos 160.000 millones de dólares en bonos en lo que va de 2026 —un 47% más que en todo 2025— para financiar la construcción de centros de datos de IA, casi la mitad de toda la deuda corporativa con grado de inversión emitida en EE. UU. este año.",
+        "cuando": "2026",
+        "fuente": "Bloomberg Línea"
+      },
+      {
+        "empresa": "Alphabet",
+        "que": "Pese a unos ingresos récord de 119.800 millones de dólares en el trimestre y un crecimiento del 82% en Google Cloud, registró su primer flujo de caja libre trimestral negativo en una década (-5.855 millones) por el aumento del gasto en infraestructura de IA.",
+        "cuando": "2026",
+        "fuente": "XTB / Bloomberg Línea"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "Claude Sonnet 5.5 pasa de un 10,3% a un 70,6% de acierto en la prueba Terminal-Bench 4.0 respecto a su antecesor, manteniendo el mismo precio por token.",
+    "El nuevo buscador del Gobierno de EE. UU., America.gov, integra información de más de 29.000 páginas web oficiales distintas."
+  ],
+  "glosario": {
+    "termino": "XPU",
+    "definicion": "Chip diseñado a medida para un tipo concreto de carga de trabajo de IA, a diferencia de una GPU, de uso más general. Es el caso de los chips Ironwood o TPU que Google y Broadcom fabrican para Anthropic: más baratos de operar para esa tarea específica, aunque menos flexibles que una GPU convencional."
+  }
+}
