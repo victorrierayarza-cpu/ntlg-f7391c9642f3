@@ -1,0 +1,143 @@
+{
+  "fecha": "2026-10-05",
+  "numero": "5",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Google lanza Gemini 4 Argon, pero lo raciona: de momento solo lo prueban expertos en ciberseguridad",
+      "entradilla": "Google presentó el 1 de octubre Gemini 4 Argon, su nuevo modelo de referencia, con mejoras especialmente en programación, trabajo de conocimiento y ciberseguridad. A diferencia de lanzamientos anteriores, la empresa no lo abre al público: de momento solo lo ofrece a organizaciones vetadas de su «Programa Fairwind», para que busquen fallos de seguridad y los corrijan antes de una disponibilidad más amplia. Según las pruebas de la propia Google, Argon empata con los modelos de OpenAI en una prueba clave de ciberseguridad y los supera en programación.",
+      "reaccion": "La acogida en Wall Street fue tibia: las acciones de Alphabet cayeron pese a los buenos resultados en las pruebas, porque los inversores ven que el interés del sector se desplaza ya hacia los agentes personales y no solo hacia la potencia bruta de cada modelo nuevo.",
+      "por_que_importa": "Que el laboratorio que marcó el ritmo de los lanzamientos abiertos opte ahora por un acceso restringido y escalonado confirma que los modelos más avanzados preocupan cada vez más por su capacidad ofensiva en ciberseguridad, no solo por sus beneficios.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Líneas de código de colores en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CNBC", "url": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html", "fecha": "1 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "El ingreso anualizado de OpenAI se acerca ya a los 70.000 millones de dólares",
+      "entradilla": "OpenAI ha elevado su ritmo de ingresos anualizados hasta cerca de 70.000 millones de dólares, frente a los 40.000 millones que se le atribuían apenas un mes antes, según reveló Axios el 29 de septiembre citando cifras internas. El salto se explica sobre todo por la venta a empresas, que se ha más que duplicado desde julio; además, lo que ha facturado a particulares solo en este tercer trimestre ya supera lo que ingresó por ese concepto en todo 2025.",
+      "reaccion": "La cifra llega mientras la propia Anthropic retrasa una vez más la presentación de su folleto de salida a bolsa a inversores, y ambas compañías compiten por los mismos clientes corporativos y por el mismo capital, en una carrera que varios analistas advierten depende de que la demanda de IA siga creciendo al ritmo actual.",
+      "por_que_importa": "Un ingreso anualizado que se calcula extrapolando un mes bueno a todo el año puede dar una imagen distorsionada de las cuentas reales de una empresa; aun así, estas cifras alimentan la narrativa de valoración con la que OpenAI negocia nueva financiación y prepara una futura salida a bolsa.",
+      "foto": {
+        "archivo": "assets/fotos/san-francisco.webp",
+        "alt": "Vista del puente Golden Gate y el perfil de San Francisco al atardecer",
+        "credito": "Foto: Daniel L. Lu (user:dllu) · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Axios", "url": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b", "fecha": "29 sep 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Anthropic invierte 100 millones de dólares para formar a 10.000 ingenieros en el uso de Claude",
+      "entradilla": "Anthropic anunció el 2 de octubre la creación de la Claude Frontier Academy, un programa de 100 millones de dólares para formar a 10.000 ingenieros en el despliegue de Claude en entornos empresariales, con las primeras credenciales previstas para principios de 2027. La empresa dice que busca cerrar la brecha entre lo que las empresas ya han invertido en IA y la escasez de personal capaz de convertir esa inversión en resultados reales, apoyándose en el mismo estándar que usa para formar a sus propios «ingenieros desplegados» en clientes grandes.",
+      "reaccion": "El movimiento llega mientras OpenAI y Microsoft impulsan programas de certificación parecidos para sus propias herramientas, en una pugna por quedarse con los presupuestos de formación de las grandes empresas, cada vez más determinantes para decidir qué proveedor de IA se queda con cada cliente.",
+      "por_que_importa": "Anthropic admite así que el freno a la adopción de la IA ya no es la capacidad de sus modelos, sino la falta de personal capaz de implantarlos; a la vez, formar a esos ingenieros con un «sello» propio puede atar más a los clientes a las herramientas de una sola empresa.",
+      "foto": {
+        "archivo": "assets/fotos/biblioteca.webp",
+        "alt": "Estanterías de una biblioteca vistas desde la galería superior",
+        "credito": "Foto: MSwierenga · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Anthropic (comunicado oficial)", "url": "https://claude.com/programs/frontier-academy", "fecha": "2 oct 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "Trump ordena llamar «Super Inteligencia» a la IA en el Gobierno de EE. UU. y crea una fuerza para dirigirla",
+      "entradilla": "Donald Trump firmó el 29 de septiembre una orden ejecutiva, «Inaugurando la era de la Super Inteligencia», que obliga a los departamentos y agencias federales a sustituir el término «inteligencia artificial» por «Super Inteligencia» (SI) en sus documentos oficiales. Días después nombró a los cuatro responsables de la nueva «Fuerza de Super Inteligencia» que coordinará la política del Gobierno en la materia: el director de Inteligencia Nacional, Jay Clayton, al frente, junto al presidente de la Comisión Federal de Comercio, Andrew Ferguson, un alto cargo tecnológico del Pentágono y el director de la Oficina de Gestión de Personal. El grupo debe entregar en 120 días un informe sobre los riesgos y oportunidades de la tecnología.",
+      "reaccion": "El gobernador de California, Gavin Newsom, respondió ordenando a sus agencias estatales seguir usando «inteligencia artificial» y acusó a la Casa Blanca de usar el cambio de nombre para evitar abordar los riesgos de seguridad ya documentados de la tecnología.",
+      "por_que_importa": "Más allá de lo simbólico del nombre, la orden concentra la coordinación de la política de IA del Gobierno de EE. UU. en un pequeño grupo de cargos nombrados por Trump, justo cuando las encuestas muestran que la mayoría de los estadounidenses sigue prefiriendo hablar de «inteligencia artificial» y desconfía de cómo se está gestionando.",
+      "foto": {
+        "archivo": "assets/fotos/capitolio.webp",
+        "alt": "Vista completa del Capitolio de Estados Unidos",
+        "credito": "Foto: Noclip · Public domain · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Casa Blanca (comunicado oficial)", "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/", "fecha": "29 sep 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "La Comisión Federal de Comercio investiga a OpenAI y Anthropic por los riesgos de sus modelos",
+      "entradilla": "La Comisión Federal de Comercio (FTC) de EE. UU. prepara requerimientos formales para obligar a OpenAI, Anthropic y otras empresas de IA a entregar documentos y a que sus directivos testifiquen sobre la seguridad de sus modelos, según adelantó Axios el 30 de septiembre. La investigación, que según varios medios ya llevaba semanas en marcha antes de hacerse pública, indaga si estas empresas han incurrido en prácticas desleales o engañosas que puedan perjudicar a los consumidores.",
+      "reaccion": "La apertura de la investigación resulta llamativa viniendo de un regulador cuyo propio presidente, Andrew Ferguson, ha defendido en público que basta con aplicar las leyes ya existentes y que no hacen falta normas nuevas específicas para la inteligencia artificial.",
+      "por_que_importa": "Es una de las primeras señales de que un regulador federal, y no solo los parlamentos estatales, podría usar las leyes de protección al consumidor para pedir cuentas a los grandes laboratorios de IA sin esperar a una ley nueva del Congreso, algo que sigue bloqueado.",
+      "foto": {
+        "archivo": "assets/fotos/laboratorio.webp",
+        "alt": "Técnico realizando una prueba de laboratorio con instrumentos de medición",
+        "credito": "Foto: Jakub Šlégr · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Axios", "url": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation", "fecha": "30 sep 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Nueva York obliga, por primera vez en EE. UU., a las grandes tecnológicas de IA a declarar bajo juramento",
+      "entradilla": "El Concejo Municipal de Nueva York convocó para hoy, 5 de octubre, una sesión extraordinaria con sus 51 miembros en la que OpenAI, Anthropic, Google y Meta deben declarar bajo juramento sobre cómo evitan que sus agentes de IA actúen fuera de control. La empresa de IA de Elon Musk, SpaceXAI, no respondió a la citación inicial del Concejo y acabó recibiendo una citación judicial para comparecer igualmente. Entre los convocados a testificar figura también un extrabajador de Anthropic que dejó la empresa alegando dudas sobre su seguridad.",
+      "reaccion": "«Si pueden hablar de las amenazas que plantea su tecnología y pedir que se regule, también pueden venir al Ayuntamiento y responder directamente ante los 8,5 millones de habitantes de esta ciudad», defendió la presidenta del Concejo, Julie Menin, al justificar la citación a Musk.",
+      "por_que_importa": "Es la primera vez que un organismo legislativo de EE. UU. logra sentar a estas empresas a declarar bajo juramento, con las consecuencias legales de mentir que eso implica, algo que el Congreso no ha conseguido en sus comparecencias voluntarias; si el precedente cuaja, otras ciudades podrían copiarlo.",
+      "foto": {
+        "archivo": "assets/fotos/ciudad-noche.webp",
+        "alt": "Luces de una ciudad vista desde el aire de noche",
+        "credito": "Foto: formulanone · CC BY-SA 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CBS News Nueva York", "url": "https://www.cbsnews.com/newyork/news/new-york-city-council-artificial-intelligence-hearing/", "fecha": "5 oct 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Jay Clayton · director de Inteligencia Nacional de EE. UU.",
+      "que": "Encabeza la nueva «Fuerza de Super Inteligencia» creada por Trump, con el encargo de entregar en 120 días un informe sobre los riesgos y las oportunidades de la IA para el país.",
+      "cuando": "29 sep-3 oct 2026",
+      "fuente": "TechCrunch / Casa Blanca"
+    },
+    {
+      "quien": "Gavin Newsom · gobernador de California",
+      "que": "Ordena a sus agencias estatales seguir hablando de «inteligencia artificial» y acusa a la Casa Blanca de usar el cambio de nombre para no afrontar los riesgos de seguridad ya conocidos de la tecnología.",
+      "cuando": "oct 2026",
+      "fuente": "SF Standard"
+    },
+    {
+      "quien": "Julie Menin · presidenta del Concejo Municipal de Nueva York",
+      "que": "Convoca a declarar bajo juramento a OpenAI, Anthropic, Google y Meta, y acaba enviando una citación judicial a la empresa de IA de Elon Musk tras no responder a la petición inicial.",
+      "cuando": "29 sep-5 oct 2026",
+      "fuente": "CBS News Nueva York"
+    },
+    {
+      "quien": "Andrew Ferguson · presidente de la Comisión Federal de Comercio (FTC)",
+      "que": "Abre una investigación sobre los riesgos de seguridad de los modelos de OpenAI y Anthropic, aunque sostiene en público que deberían bastar las leyes ya existentes, sin necesidad de normas nuevas para la IA.",
+      "cuando": "30 sep 2026",
+      "fuente": "Axios"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: Wall Street empieza a mirar más allá de los modelos sueltos, mientras OpenAI y Anthropic siguen levantando capital a toda velocidad.",
+    "items": [
+      {
+        "empresa": "Alphabet",
+        "que": "Sus acciones caen tras el lanzamiento restringido de Gemini 4 Argon, mientras la empresa eleva su previsión de gasto en infraestructura de IA para 2026 a entre 195.000 y 205.000 millones de dólares.",
+        "cuando": "1 oct 2026",
+        "fuente": "CNBC"
+      },
+      {
+        "empresa": "OpenAI",
+        "que": "Su ingreso anualizado se acerca a los 70.000 millones de dólares, frente a los 40.000 millones que se le atribuían apenas un mes antes, impulsado sobre todo por la venta a empresas.",
+        "cuando": "29 sep 2026",
+        "fuente": "Axios"
+      },
+      {
+        "empresa": "Anthropic",
+        "que": "Su salida a bolsa sigue retrasándose: la presentación a inversores se desplaza a mediados de octubre, con una posible cotización antes de las elecciones legislativas de noviembre en EE. UU.",
+        "cuando": "sep-oct 2026",
+        "fuente": "Reuters / CNBC"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "Una encuesta de YouGov encontró que solo el 9% de los estadounidenses prefiere llamar «Super Inteligencia» a la IA, frente al 53% que sigue prefiriendo «inteligencia artificial».",
+    "Lo que OpenAI ha facturado a particulares solo en el tercer trimestre de 2026 ya supera lo que ingresó por ese concepto en todo el año 2025."
+  ],
+  "glosario": {
+    "termino": "Acceso escalonado (staged release)",
+    "definicion": "Lanzar un modelo de IA primero a un grupo pequeño y vetado de usuarios -como los expertos en ciberseguridad del «Programa Fairwind» de Google- antes de abrirlo al público general, para poner a prueba sus salvaguardas frente a usos maliciosos. Es lo que ha hecho Google con Gemini 4 Argon."
+  },
+  "fin_de_semana": "Fin de semana de maniobras políticas sobre la IA: tras firmar el viernes la orden que renombra la inteligencia artificial como «Super Inteligencia» en el Gobierno federal, Trump nombró el sábado a los cuatro responsables de la nueva «Fuerza de Super Inteligencia», con el director de Inteligencia Nacional, Jay Clayton, a la cabeza. El gobernador de California, Gavin Newsom, respondió ordenando a sus agencias seguir diciendo «inteligencia artificial» y acusando a la Casa Blanca de usar el cambio de nombre para esquivar los riesgos reales de la tecnología. El domingo, Elon Musk dejó sin respuesta el requerimiento del Concejo de Nueva York para declarar bajo juramento este lunes, lo que le costó una citación judicial horas antes de la vista."
+}

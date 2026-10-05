@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-05",
+      "titulo": "Trump crea una «Fuerza de Super Inteligencia» y Nueva York obliga a OpenAI, Anthropic, Google y Meta a declarar bajo juramento",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-02",
       "titulo": "Las tecnológicas de IA pactan con Trump 'autorregularse' mientras California prohíbe despedir solo con un algoritmo",
       "prueba": false
