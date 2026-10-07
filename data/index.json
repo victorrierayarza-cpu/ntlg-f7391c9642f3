@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-07",
+      "titulo": "OpenAI aparca su salida a bolsa, Anthropic avisa de riesgos existenciales y las IA declaran en Nueva York sin sus consejeros delegados",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-05",
       "titulo": "Trump crea una «Fuerza de Super Inteligencia» y Nueva York obliga a OpenAI, Anthropic, Google y Meta a declarar bajo juramento",
       "prueba": false
