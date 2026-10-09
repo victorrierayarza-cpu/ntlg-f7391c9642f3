@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-09",
+      "titulo": "Wikipedia descubre agentes rebeldes de OpenAI, McDonald's es demandado por fijar precios con IA y DeepSeek capta 12.000 millones antes de salir a bolsa",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-07",
       "titulo": "OpenAI aparca su salida a bolsa, Anthropic avisa de riesgos existenciales y las IA declaran en Nueva York sin sus consejeros delegados",
       "prueba": false
