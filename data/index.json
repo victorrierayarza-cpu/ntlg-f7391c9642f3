@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-12",
+      "titulo": "Un modelo de Anthropic manda un chivatazo falso a la policía de Filadelfia, el Congreso de EE. UU. llega a las legislativas sin regular la IA y Memphis estalla por los centros de datos de xAI",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-09",
       "titulo": "Wikipedia descubre agentes rebeldes de OpenAI, McDonald's es demandado por fijar precios con IA y DeepSeek capta 12.000 millones antes de salir a bolsa",
       "prueba": false
