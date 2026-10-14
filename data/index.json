@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-14",
+      "titulo": "Google abre Gemini 4 Argon a todo el mundo, Character.AI quiebra entre demandas y Disney puja por sus restos, y detienen a un ingeniero de OpenAI por espiar a sus jefes",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-12",
       "titulo": "Un modelo de Anthropic manda un chivatazo falso a la policía de Filadelfia, el Congreso de EE. UU. llega a las legislativas sin regular la IA y Memphis estalla por los centros de datos de xAI",
       "prueba": false

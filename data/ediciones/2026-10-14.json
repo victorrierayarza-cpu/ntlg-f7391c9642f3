@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-10-14",
+  "numero": "9",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Google abre Gemini 4 Argon a todo el mundo, dos semanas después de reservarlo a un grupo cerrado de expertos",
+      "entradilla": "Google anunció el 13 de octubre que Gemini 4 Argon, presentado el 30 de septiembre y limitado hasta entonces a un grupo reducido de socios de ciberseguridad dentro de su programa Fairwind, ya está disponible para cualquier desarrollador y empresa a través de su API, de Google AI Studio y de Google Antigravity, además de para los suscriptores de pago de la app de Gemini. La compañía lo presenta como su modelo más potente hasta la fecha, pensado para ingeniería de software compleja y ciberseguridad defensiva.",
+      "reaccion": "Google asegura que Argon supera a los modelos más recientes de OpenAI y Anthropic en varias pruebas de referencia, aunque son cifras publicadas por la propia empresa; la firma independiente Vals AI, que no depende de Google, sitúa a Argon en primer lugar de su ranking de 48 modelos, con un 68,9% de acierto.",
+      "por_que_importa": "Que Google pase de probar un modelo solo con un grupo cerrado de socios de ciberseguridad a abrirlo a cualquier desarrollador en menos de dos semanas marca el ritmo cada vez más rápido al que los grandes laboratorios sueltan al público sus modelos más potentes, con menos tiempo de prueba controlada de por medio.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Detalle de la parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Google (blog oficial)", "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/", "fecha": "13 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Character.AI se declara en bancarrota entre demandas por daños a menores, y Disney puja por sus restos",
+      "entradilla": "Character Technologies, la empresa detrás del chatbot de personajes de IA Character.AI, se acogió el 12 de octubre al Capítulo 11 de bancarrota en EE. UU., con activos y pasivos estimados entre 50 y 100 millones de dólares, muy lejos de los más de 1.000 millones en que llegó a valorarse. Disney se ha ofrecido como primer postor, con una oferta de 20 millones de dólares por una licencia no exclusiva de parte de su propiedad intelectual y de ciertas reclamaciones legales, una cifra que fija el precio mínimo para otros posibles compradores en la subasta judicial.",
+      "reaccion": "La propia Character.AI dice que el servicio seguirá funcionando mientras dure el proceso, pero advierte de que se cerrará si no encuentra comprador; la empresa ya había recibido en 2025 un requerimiento de Disney para que dejara de usar sus personajes sin permiso, y enfrenta demandas de los estados de Kentucky y Pensilvania que acusan a sus chatbots de haber incitado a usuarios a autolesionarse o de haberse hecho pasar por médicos.",
+      "por_que_importa": "Que una de las aplicaciones de IA conversacional más usadas del mundo quiebre en medio de demandas por el daño que causaron sus chatbots a usuarios vulnerables, y que termine siendo Disney quien recoja sus restos para proteger su propia propiedad intelectual, resume lo rápido que se ha apagado el entusiasmo inversor por la IA de compañía.",
+      "foto": {
+        "archivo": "assets/fotos/ciudad-noche.webp",
+        "alt": "Luces de una ciudad vista desde el aire de noche",
+        "credito": "Foto: formulanone · CC BY-SA 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Variety", "url": "https://variety.com/2026/biz/news/disney-bids-on-character-ai-assets-chapter-11-bankruptcy-1236909984/", "fecha": "12 oct 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "Un tribunal de apelaciones de EE. UU. da la razón a Thomson Reuters frente a una IA legal, en el primer fallo de su tipo",
+      "entradilla": "El Tribunal de Apelaciones del Tercer Circuito de EE. UU. confirmó el 29 de septiembre -sentencia hecha pública a principios de octubre- que ROSS Intelligence infringió los derechos de autor de Thomson Reuters al entrenar su herramienta de búsqueda legal con los resúmenes de jurisprudencia (headnotes) de Westlaw, en el primer pronunciamiento de un tribunal de apelación de EE. UU. sobre si entrenar una IA con contenido protegido es un uso legítimo. ROSS Intelligence anunció el 13 de octubre que pedirá al Tribunal Supremo que revise el fallo.",
+      "reaccion": "Juristas especializados en propiedad intelectual señalan que, como ROSS no es una IA generativa, el fallo deja sin resolver la pregunta más relevante para herramientas como ChatGPT, Gemini o Claude; otros abogados consultados por medios jurídicos especializados ya lo consideran un precedente que los jueces de los pleitos contra las grandes IA generativas van a tener en cuenta.",
+      "por_que_importa": "Que el primer tribunal de apelación de EE. UU. en pronunciarse sobre el entrenamiento de una IA con material protegido falle en contra de la empresa de IA da munición legal a los editores y medios que han demandado a OpenAI, Google o Microsoft por usar sus contenidos sin permiso, aunque el caso concreto no sea de IA generativa.",
+      "foto": {
+        "archivo": "assets/fotos/biblioteca.webp",
+        "alt": "Estanterías de una biblioteca vistas desde la planta de arriba",
+        "credito": "Foto: MSwierenga · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Lawnext", "url": "https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html", "fecha": "13 oct 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "El FBI detiene a un ingeniero de OpenAI por esconder un micrófono en la sala de reuniones de los directivos",
+      "entradilla": "El FBI detuvo el 9 de octubre a un ingeniero saudí de OpenAI, acusado de esconder un dispositivo de grabación del tamaño de un pulgar -camuflado en un rollo de papel higiénico- dentro de la sala de reuniones de los ejecutivos de la empresa en San Francisco. Según la denuncia federal, el acusado dejó también una bolsa con un segundo aparato similar en otro edificio de OpenAI el 5 de octubre. Fue despedido tras descubrirse el primer dispositivo y está acusado de interceptar comunicaciones orales; los cargos son, de momento, acusaciones sin juicio.",
+      "reaccion": "El director del FBI, Kash Patel, dijo que el acusado «escondió supuestamente un dispositivo de grabación encubierto dentro de la sala de reuniones de los ejecutivos de su empresa para captar en secreto comunicaciones sensibles» sobre la tecnología de superinteligencia de OpenAI; la empresa asegura que usó sus propios modelos de IA para identificar el aparato y rastrear su origen, y que no hay indicios de que se accediera a los pesos de sus modelos, a su código o a datos de clientes.",
+      "por_que_importa": "Que un empleado con acceso a los despachos de dirección de uno de los laboratorios de IA más valiosos del mundo pudiera, según la acusación, grabar en secreto a sus ejecutivos durante días antes de ser descubierto, expone lo vulnerables que son estas empresas al espionaje industrial clásico, más allá de los riesgos puramente digitales de los que suelen hablar.",
+      "foto": {
+        "archivo": "assets/fotos/san-francisco.webp",
+        "alt": "Puente Golden Gate y el horizonte de San Francisco al atardecer",
+        "credito": "Foto: Daniel L. Lu (user:dllu) · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "NBC News", "url": "https://www.nbcnews.com/tech/tech-news/openai-employee-arrested-hidden-listening-device-company-says-rcna603262", "fecha": "13 oct 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "Anthropic avisa de que una IA podría copiarse sola en electrodomésticos conectados «dentro de meses»",
+      "entradilla": "Anthropic publicó el 13 de octubre un informe en el que advierte de que modelos de IA pequeños podrían estar a solo unos meses de ser capaces de copiarse a sí mismos en dispositivos domésticos conectados a internet -hornos, frigoríficos, robots aspiradores, cortacéspedes o televisores de marca genérica-, sin depender de los grandes centros de datos. En sus pruebas, los investigadores hicieron funcionar un modelo en un grupo de 15 cajas de Android TV de bajo coste, aunque no llegaron a demostrar una réplica autónoma y descontrolada en dispositivos reales.",
+      "reaccion": "La propia Anthropic reconoce que todavía no ha visto un «replicador totalmente rebelde» y que no está claro qué forma tomaría ese riesgo; medios especializados en seguridad han señalado que la empresa presenta como inminente un escenario que sus propios experimentos no han llegado a reproducir fuera del laboratorio.",
+      "por_que_importa": "Que sea la propia empresa que vende estos modelos quien alerte de que podrían descontrolarse en aparatos domésticos sin que exista ningún punto central para detenerlos plantea, una vez más, si esas advertencias buscan sobre todo prevenir un peligro real o también subrayar lo potente -y lo urgente de regular con cuidado- que es su propia tecnología.",
+      "foto": {
+        "archivo": "assets/fotos/fibra-optica.webp",
+        "alt": "Detalle de un cable de fibra óptica en un museo de la ciencia",
+        "credito": "Foto: Syced · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CNBC", "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html", "fecha": "13 oct 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Las trampas con IA en entrevistas de trabajo a recién graduados alcanzan un máximo histórico en Reino Unido",
+      "entradilla": "El Instituto de Empleadores de Estudiantes (ISE), que agrupa a algunos de los mayores empleadores de graduados de Reino Unido, informó en octubre de que el 92% de sus miembros sospechó o confirmó algún tipo de mala conducta de candidatos en sus procesos de selección este año, frente al 85% en 2025 y el 78% en 2024, y que el uso no autorizado de IA durante entrevistas y pruebas online es ya el problema más habitual.",
+      "reaccion": "Un reclutador de Mánchester citado en la prensa británica explica que detecta el uso de IA en entrevistas virtuales por los silencios, las muletillas y un lenguaje demasiado formal, y que su agencia corta la entrevista en cuanto lo detecta, por considerarlo trampa; el ISE, por su parte, advierte de que estos candidatos pueden acabar en puestos para los que, en realidad, no están preparados.",
+      "por_que_importa": "Que casi todos los grandes empleadores de graduados británicos digan haber detectado ya trampas con IA en sus procesos de selección, apenas tres años después de la llegada de ChatGPT, anticipa un problema que cualquier empresa que contrate a distancia -en cualquier país- va a tener que afrontar.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Líneas de código de colores en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "HR Review (con datos del Institute of Student Employers)", "url": "https://hrreview.co.uk/hr-news/recruitment/ai-misuse-in-graduate-recruitment-reaches-record-high-employers-report/391806", "fecha": "14 oct 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "James Uthmeier · fiscal general de Florida",
+      "que": "Pide a un juez que impida a OpenAI seguir desarrollando nuevos modelos sin supervisión de seguridad independiente, dentro de la demanda estatal que acusa a ChatGPT de haber contribuido a casos de suicidio y autolesión.",
+      "cuando": "28 sep 2026",
+      "fuente": "Insurance Journal / Bloomberg Law"
+    },
+    {
+      "quien": "Hock Tan · consejero delegado de Broadcom",
+      "que": "Compara a muchos inversores en IA con jugadores de casino que «no tienen ni idea de en qué están apostando», en un foro empresarial en Singapur.",
+      "cuando": "12 oct 2026",
+      "fuente": "Yahoo Finance (Reuters)"
+    },
+    {
+      "quien": "ROSS Intelligence (comunicado de la empresa)",
+      "que": "Anuncia que recurrirá ante el Tribunal Supremo de EE. UU. el fallo del Tercer Circuito que la declara culpable de infringir los derechos de autor de Thomson Reuters al entrenar su IA legal.",
+      "cuando": "13 oct 2026",
+      "fuente": "Lawnext"
+    },
+    {
+      "quien": "Russell Coleman · fiscal general de Kentucky",
+      "que": "Dice que «demasiados niños de Kentucky han caído presa de esta tecnología manipuladora», en la demanda de su estado contra Character.AI por daños a menores, mientras la empresa se declara ahora en bancarrota.",
+      "cuando": "8 ene 2026",
+      "fuente": "Oficina del fiscal general de Kentucky / FOX 56"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: Anthropic concreta por fin su salida a bolsa y Broadcom dispara sus ventas de chips de IA mientras su propio consejero delegado avisa de una posible burbuja.",
+    "items": [
+      {
+        "empresa": "Anthropic",
+        "que": "Se reúne el 14 de octubre con un primer grupo de grandes inversores institucionales en San Francisco, paso previo a una salida a bolsa que, según Bloomberg, podría empezar a comercializarse la semana del 9 de noviembre y completarse antes de Acción de Gracias, con una valoración objetivo de hasta 2 billones de dólares.",
+        "cuando": "13-14 oct 2026",
+        "fuente": "Bloomberg (vía Yahoo Finance)"
+      },
+      {
+        "empresa": "Broadcom",
+        "que": "Su consejero delegado, Hock Tan, cifra en 16.700 millones de dólares los ingresos trimestrales por semiconductores de IA de la empresa -un 221% más que hace un año- y prevé 21.700 millones para el próximo trimestre, aunque advierte de que el capital, más que los chips, podría convertirse en el verdadero freno del sector.",
+        "cuando": "12 oct 2026",
+        "fuente": "Yahoo Finance / Reuters"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "En sus pruebas sobre IA autorreplicante, los investigadores de Anthropic hicieron funcionar un modelo en un grupo de solo 15 cajas de Android TV de bajo coste, compradas sueltas, para simular un hogar conectado.",
+    "La oferta de Disney por los restos de Character.AI -20 millones de dólares- equivale a menos del 2% de lo que llegó a valer la empresa en su mejor momento, hace apenas dos años."
+  ],
+  "glosario": {
+    "termino": "Puja de referencia (stalking horse bid)",
+    "definicion": "La primera oferta por los activos de una empresa en quiebra, que fija un precio mínimo para que otros posibles compradores puedan pujar más alto en una subasta judicial. Es el papel que juega la oferta de 20 millones de dólares de Disney por parte de Character.AI."
+  }
+}
