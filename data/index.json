@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-16",
+      "titulo": "Ocho estados demandan a OpenAI y la FTC le exige documentos, Proofpoint compra Varonis por el riesgo de los agentes de IA y ASML no da abasto con los pedidos de chips",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-14",
       "titulo": "Google abre Gemini 4 Argon a todo el mundo, Character.AI quiebra entre demandas y Disney puja por sus restos, y detienen a un ingeniero de OpenAI por espiar a sus jefes",
       "prueba": false
