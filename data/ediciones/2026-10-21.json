@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-10-21",
+  "numero": "12",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "DeepSeek actualiza su modelo ligero Flash y reaviva el miedo a una IA barata entre los inversores en chips",
+      "entradilla": "DeepSeek publicó el sábado 17 de octubre una actualización de su modelo económico V4.1 Flash, llamada V4.1-Flash-1017, con mejores resultados en las pruebas de referencia, respuestas más rápidas y salidas más breves que la versión anterior. No se trata de una familia de modelo nueva, sino de un reentrenamiento del mismo Flash, y la empresa ha publicado sus pesos en abierto, con licencia MIT, en Hugging Face.",
+      "reaccion": "La publicación avivó un temor que ya pesaba sobre el mercado: los índices de fabricantes de chips en Asia -con TSMC, SK Hynix y Advantest a la cabeza- cayeron el lunes 19 de octubre a su nivel más bajo desde julio, entre dudas sobre si los modelos chinos, cada vez más eficientes, necesitarán en el futuro muchos menos chips de Nvidia de los que el mercado da por hecho.",
+      "por_que_importa": "Que DeepSeek siga mejorando su rendimiento sin anunciar una gran escalada de cómputo reabre, cada vez que ocurre, la misma pregunta de fondo para inversores y fabricantes de chips: si la carrera de la inteligencia artificial necesita tanto hardware como el mercado ha apostado, o si una IA más barata y abierta puede ir camino de desinflar esa apuesta.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Líneas de código de colores en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner", "fecha": "17 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Una nueva filtración muestra a Anthropic a la vez dependiendo de sus rivales y compitiendo con ellos en la nube",
+      "entradilla": "Una nueva versión filtrada del borrador de salida a bolsa de Anthropic, revisada por el Wall Street Journal y recogida por TechCrunch el 20 de octubre, describe las dificultades de la empresa para conseguir toda la capacidad de computación que necesita de Amazon, Google y Microsoft, que cada vez la ven más como competidora que como simple cliente. El documento sitúa el objetivo de salida a bolsa en noviembre.",
+      "reaccion": "Una filtración anterior del mismo borrador, adelantada por Reuters a finales de septiembre, ya cifraba en más de 518.000 millones de dólares los compromisos de Anthropic con sus seis socios de computación a diez años vista -sobre todo con Google y Amazon-, casi un 80% de pago obligatorio aunque no llegue a usarlos; solo a través de las plataformas de esos mismos socios llegó en 2025 el 47% de los ingresos anuales de la empresa.",
+      "por_que_importa": "Que el propio documento con el que Anthropic se prepara para cotizar en bolsa describa a sus mayores proveedores de nube como «inversores, clientes, proveedores, distribuidores y competidores» a la vez deja a la vista un conflicto de intereses de fondo: las empresas que le venden la computación que necesita para funcionar son las mismas que compiten con ella por los mismos clientes finales.",
+      "foto": {
+        "archivo": "assets/fotos/data-center.webp",
+        "alt": "Pasillo de servidores en un centro de datos",
+        "credito": "Foto: BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "TechCrunch (con datos del Wall Street Journal)", "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/", "fecha": "20 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "OpenAI compra la startup biotecnológica Orchestra Bio para reforzar su negocio de ciencias de la vida",
+      "entradilla": "OpenAI anunció el 20 de octubre la compra de Orchestra Bio, una startup de San Francisco fundada en 2022 que ha recaudado unos 20 millones de dólares de fondos como Andreessen Horowitz y 8VC, y cuyos agentes de IA ayudan a los laboratorios farmacéuticos a coordinar ensayos clínicos y programas de desarrollo de fármacos. OpenAI no ha revelado las condiciones económicas del acuerdo.",
+      "reaccion": "OpenAI integrará al equipo y la tecnología de Orchestra Bio en Rosalind, su familia de modelos para ciencias de la vida, que ya usan clientes como Moderna y Novo Nordisk; la operación llega pocos meses después de que Anthropic comprara la también biotecnológica Coefficient Bio por 400 millones de dólares.",
+      "por_que_importa": "Que OpenAI y Anthropic compitan ahora también por comprar startups de biotecnología muestra que la carrera de la IA generativa se ha extendido más allá de los chatbots de consumo, hacia un sector tan regulado como el farmacéutico, donde un error de un agente de IA en un ensayo clínico tiene consecuencias muy distintas a las de un fallo en una conversación cualquiera.",
+      "foto": {
+        "archivo": "assets/fotos/laboratorio.webp",
+        "alt": "Investigadora realizando un análisis de laboratorio",
+        "credito": "Foto: Jakub Šlégr · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "OpenAI (comunicado oficial)", "url": "https://openai.com/index/openai-to-acquire-orchestra-bio/", "fecha": "20 oct 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "EE. UU. ordena a sus agencias federales retirar DeepSeek de sus sistemas por riesgo para la seguridad nacional",
+      "entradilla": "El Departamento de Seguridad Nacional de EE. UU. (DHS) hizo pública el 20 de octubre una orden, fechada el 24 de julio, que obliga a las agencias civiles federales a retirar de sus sistemas los productos de la china DeepSeek y cualquier servicio de terceros construido con su tecnología. El DHS justifica la medida en que su uso «puede derivar en la transferencia de datos sensibles a la República Popular China» si lo emplean empleados o proveedores del gobierno.",
+      "reaccion": "La portavoz del Ministerio de Asuntos Exteriores chino, Mao Ning, respondió que Pekín se opone a «forzar el concepto de seguridad nacional y politizar cuestiones tecnológicas y comerciales»; la orden llega después de que el Pentágono, la Marina y varios estados de EE. UU. ya hubieran restringido el uso de DeepSeek a lo largo de 2025.",
+      "por_que_importa": "Que Washington extienda la prohibición más allá del propio DeepSeek, hasta cualquier herramienta de terceros construida con su tecnología, complica la vida a empresas estadounidenses que, sin saberlo, puedan depender de ese software en algún eslabón de su cadena de proveedores, y vuelve a situar la rivalidad tecnológica entre EE. UU. y China en el terreno de la IA cotidiana, no solo de los chips.",
+      "foto": {
+        "archivo": "assets/fotos/capitolio.webp",
+        "alt": "Vista completa del Capitolio de Estados Unidos",
+        "credito": "Foto: Noclip · Public domain · Wikimedia Commons"
+      },
+      "fuente": { "medio": "TechCrunch", "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/", "fecha": "20 oct 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "Un ataque a la herramienta de programación OpenCode deja expuestas claves de pago de OpenAI, Anthropic y Google",
+      "entradilla": "OpenCode, una herramienta de programación con IA de código abierto, confirmó que un atacante entró en un sistema antiguo que la empresa estaba retirando y robó claves API de OpenAI, Anthropic y Google guardadas por algunos usuarios de su consola en la nube, OpenCode Console. La empresa calcula que el incidente, detectado el 17 de octubre, afectó a un 1,4% de los usuarios de esa consola; ni la aplicación de escritorio ni la línea de comandos se vieron afectadas.",
+      "reaccion": "Varios usuarios denunciaron cargos inesperados en sus cuentas de IA, uno de ellos de hasta 1.700 dólares; Anthropic y Google bloquearon las claves que creían expuestas, y OpenAI dijo haber colaborado con OpenCode para restablecer el acceso y devolver a sus clientes los créditos consumidos de forma fraudulenta. El cofundador de OpenCode, Dax Raad, calificó lo ocurrido de «ataque de destilación a gran escala», aunque otros expertos del sector dudan de que se haya demostrado ese uso concreto de las claves robadas.",
+      "por_que_importa": "Que un fallo de seguridad en una herramienta de terceros haya dejado expuestas a la vez las claves de pago de los tres grandes proveedores de modelos de IA recuerda lo frágil que es la cadena de confianza entre una startup pequeña y los gigantes cuya tecnología revende, y el riesgo económico real que corre cualquier usuario que guarde esas claves fuera de los sistemas de OpenAI, Anthropic o Google.",
+      "foto": {
+        "archivo": "assets/fotos/fibra-optica.webp",
+        "alt": "Detalle de un cable de fibra óptica en un museo de la ciencia",
+        "credito": "Foto: Syced · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "TechCrunch", "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/", "fecha": "19 oct 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "La aplicación de compañía de IA de Meta, Muse, supera los 10 millones de descargas en EE. UU. en solo 40 días",
+      "entradilla": "Muse, la aplicación de compañía conversacional de Meta, superó los 10 millones de descargas en Estados Unidos en sus primeros 40 días desde su lanzamiento en septiembre, según estimaciones de la firma de análisis Sensor Tower recogidas el 20 de octubre. Solo otras 11 aplicaciones habían alcanzado antes ese ritmo de adopción desde que la firma empezó a medirlo en 2015; la última había sido Threads, en julio de 2023.",
+      "reaccion": "Según la misma firma, Muse retiene mejor a sus usuarios que sus rivales -un 30% sigue usándola a los siete días, frente a una media del 19% entre aplicaciones como ChatGPT, Grok o Claude-, aunque buena parte de ese impulso inicial se explica porque Meta dedicó hasta el 39% de su gasto publicitario de octubre a promocionarla, frente al 23% de septiembre.",
+      "por_que_importa": "Que una aplicación de compañía conversacional -no un simple asistente de productividad- logre este ritmo de adopción masiva en Estados Unidos, por delante incluso de los primeros meses de ChatGPT en el mercado estadounidense, muestra que buena parte del público ya no distingue con claridad entre usar la IA para trabajar y usarla para generar vínculos personales con ella.",
+      "foto": {
+        "archivo": "assets/fotos/ciudad-noche.webp",
+        "alt": "Luces de tráfico y edificios de una ciudad iluminada de noche",
+        "credito": "Foto: formulanone · CC BY-SA 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "TechCrunch (con datos de Sensor Tower)", "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/", "fecha": "20 oct 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Mao Ning · portavoz del Ministerio de Asuntos Exteriores de China",
+      "que": "Responde a la orden de EE. UU. que retira a DeepSeek de las agencias federales diciendo que Pekín se opone a «forzar el concepto de seguridad nacional y politizar cuestiones tecnológicas y comerciales».",
+      "cuando": "20 oct 2026",
+      "fuente": "Decrypt / CyberScoop"
+    },
+    {
+      "quien": "Departamento de Seguridad Nacional de EE. UU. (DHS)",
+      "que": "Advierte, en la orden que prohíbe DeepSeek en los sistemas federales, de que su uso «puede derivar en la transferencia de datos sensibles a la República Popular China» y podría generar inteligencia útil sobre personas o agencias del gobierno estadounidense.",
+      "cuando": "20 oct 2026",
+      "fuente": "TechCrunch / Decrypt"
+    },
+    {
+      "quien": "Anthropic (portavoz oficial)",
+      "que": "Confirma a Politico que ha presentado al Congreso de EE. UU. un borrador de ley de seguridad de la IA que permitiría bloquear el lanzamiento de un modelo ante un riesgo «previsible e inminente» de más de 50 muertes o 1.000 millones de dólares en daños.",
+      "cuando": "20 oct 2026",
+      "fuente": "TechCrunch (con datos de Politico)"
+    },
+    {
+      "quien": "Dax Raad · cofundador de OpenCode",
+      "que": "Califica el ataque contra su plataforma de «ataque de destilación a gran escala» y dice que los atacantes llevaban al menos 48 horas intentándolo con sus propios agentes de IA.",
+      "cuando": "19 oct 2026",
+      "fuente": "TechCrunch"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: el borrador de salida a bolsa de Anthropic revela compromisos de computación por más de 518.000 millones de dólares, mientras DeepSeek busca una ronda multimillonaria tras el buen recibimiento de su última actualización.",
+    "items": [
+      {
+        "empresa": "Anthropic",
+        "que": "Su borrador de salida a bolsa, filtrado y revisado por Reuters y el Wall Street Journal, cifra en al menos 518.000 millones de dólares sus compromisos de computación en la nube a diez años con seis socios -sobre todo Google (111.100 millones) y Amazon (110.000 millones)-, casi un 80% de pago obligatorio aunque no llegue a usarlos; la empresa prepara ahora una posible salida a bolsa en noviembre.",
+        "cuando": "20 oct 2026",
+        "fuente": "Reuters (vía Khaleej Times) / TechCrunch"
+      },
+      {
+        "empresa": "DeepSeek",
+        "que": "Busca cerrar una ronda de financiación de al menos 12.000 millones de dólares respaldada por Tencent, después de que su actualización del fin de semana, V4.1-Flash-1017, mejorara sus resultados en varias pruebas de referencia frente a la versión anterior.",
+        "cuando": "6 oct 2026",
+        "fuente": "Bloomberg"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "La aplicación de IA Muse, de Meta, ha superado los 10 millones de descargas en EE. UU. en solo 40 días; solo otras 11 aplicaciones lo habían logrado antes desde que existen estas mediciones, la última de ellas Threads, en 2023.",
+    "Un usuario afectado por el ataque a OpenCode denunció cargos de hasta 1.700 dólares en su cuenta de IA, generados por los propios atacantes con las claves que le robaron."
+  ],
+  "glosario": {
+    "termino": "Ataque de destilación",
+    "definicion": "Una técnica con la que alguien usa las respuestas de un modelo de IA ajeno y más potente -a menudo accediendo a él con claves robadas- para entrenar o mejorar un modelo propio más barato, imitando su comportamiento sin acceso a sus datos originales. Es la sospecha que OpenCode planteó tras el robo de claves de sus usuarios en octubre de 2026."
+  }
+}

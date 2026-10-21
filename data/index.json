@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-21",
+      "titulo": "DeepSeek reaviva el miedo a una IA barata entre los inversores en chips, EE. UU. prohíbe DeepSeek en sus agencias federales y un ataque a OpenCode deja expuestas claves de OpenAI, Anthropic y Google",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-19",
       "titulo": "Anthropic destina el 5% de sus acciones a un fondo de beneficio público antes de salir a bolsa, Bruselas pide explicaciones a OpenAI y Anthropic por sus agentes descontrolados, y los semiconductores pierden dos billones de dólares en su peor racha desde 2008",
       "prueba": false
