@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-23",
+      "titulo": "Anthropic prueba su agente Claude Duet, OpenAI lleva sus modelos a Google Cloud, cuatro grupos de prensa canadienses demandan a Anthropic y el miedo a la deuda hunde a Nvidia, AMD, Micron y CoreWeave",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-21",
       "titulo": "DeepSeek reaviva el miedo a una IA barata entre los inversores en chips, EE. UU. prohíbe DeepSeek en sus agencias federales y un ataque a OpenCode deja expuestas claves de OpenAI, Anthropic y Google",
       "prueba": false

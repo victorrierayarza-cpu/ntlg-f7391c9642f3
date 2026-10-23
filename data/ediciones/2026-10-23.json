@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-10-23",
+  "numero": "13",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Anthropic abre una primera prueba de Claude Duet, un agente que trabaja solo entre bastidores",
+      "entradilla": "Anthropic presentó el 21 de octubre Claude Duet, una versión de investigación de un agente personal que, a diferencia del chat habitual de Claude, vigila por su cuenta las aplicaciones de trabajo del usuario, se encarga de tareas sin que se le pida y pide permiso antes de dar cualquier paso con consecuencias. Cada mañana envía un resumen de lo más relevante en las apps conectadas. El acceso, por ahora, es solo mediante lista de espera y para suscriptores de Claude Pro y Max en Estados Unidos, y funciona sobre el modelo Claude Opus 5.5.",
+      "reaccion": "La propia Anthropic sitúa a Duet como su respuesta a Muse, el agente de compañía de Meta, y a Dots, el agente permanente que OpenAI mostró en su última conferencia para desarrolladores; los tres compiten ahora por el mismo terreno, el de un asistente que actúa de fondo en vez de esperar una instrucción cada vez.",
+      "por_que_importa": "Que los tres grandes laboratorios conversacionales confluyan casi a la vez en el mismo tipo de producto -un agente que actúa por iniciativa propia dentro de las aplicaciones del usuario- adelanta el terreno en el que competirán los próximos meses, y traslada a la práctica diaria una pregunta todavía sin resolver: cuánta autonomía está dispuesto a conceder un usuario a un programa que actúa mientras no lo está mirando.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Líneas de código de colores en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "TechCrunch", "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/", "fecha": "22 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "OpenAI lleva sus modelos a Google Cloud, el terreno del rival que antes solo le prestaba abogados contra Microsoft",
+      "entradilla": "OpenAI anunció el 21 de octubre que sus modelos más avanzados y sus flujos de trabajo de Codex estarán disponibles, en vista previa privada para algunos clientes empresariales, a través del Model Garden de Google Cloud. Los clientes podrán comprarlos desde el mercado de Google Cloud y pagarlos con el mismo presupuesto comprometido que ya tienen con la nube de Google. La disponibilidad general, sin fecha concreta, llegará «en las próximas semanas», según ambas empresas.",
+      "reaccion": "OpenAI insiste en que Microsoft Azure sigue siendo su socio de nube principal, pero el movimiento confirma que ha dejado de depender en exclusiva de él: la empresa también ha anunciado que sus modelos llegarán a otras plataformas de Google, como Antigravity y Gemini Agent, de las que hasta ahora Google Cloud era sobre todo escaparate de sus propios modelos Gemini.",
+      "por_que_importa": "Que OpenAI venda sus modelos a través de la nube de uno de sus mayores rivales en el negocio de la IA generativa muestra hasta qué punto las alianzas de computación se han vuelto más importantes que la rivalidad comercial entre laboratorios, y da a las empresas clientes una alternativa real si quieren repartir su gasto en IA entre varios proveedores de nube en vez de depender de uno solo.",
+      "foto": {
+        "archivo": "assets/fotos/data-center.webp",
+        "alt": "Pasillo de servidores en un centro de datos",
+        "credito": "Foto: BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "OpenAI (comunicado oficial)", "url": "https://openai.com/index/openai-models-google-cloud", "fecha": "21 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Jensen Huang pide a Europa adoptar la IA más rápido y presenta en Berlín una fábrica de datos que se monta en dos semanas",
+      "entradilla": "El consejero delegado de Nvidia, Jensen Huang, abrió el 21 de octubre la conferencia GTC Berlín con la presentación de DSX POD, un diseño de referencia para fábricas de IA completas, montadas en contenedores modulares y validadas antes de entregarse, que la empresa dice reduce el tiempo de despliegue de seis meses a solo catorce días; las primeras entregas a socios llegarán a principios de 2027. Dos días antes, Huang había firmado con el canciller alemán, Friedrich Merz, un acuerdo de colaboración en IA centrado en la industria y la automoción, junto a participaciones de Nvidia en cuatro startups alemanas.",
+      "reaccion": "Huang defendió en el escenario que «en el futuro, toda empresa será una empresa de inteligencia artificial» y urgió a las compañías europeas a adoptarla más rápido; la cita llega mientras varios análisis recogidos por la prensa económica señalan que Nvidia afronta un escrutinio creciente de sus inversores sobre si el gasto en IA de sus clientes, cada vez más financiado con deuda, puede sostenerse en el tiempo.",
+      "por_que_importa": "Que Nvidia convierta el montaje de un centro de datos de IA en un producto estandarizado y mucho más rápido de instalar, a la vez que su consejero delegado firma acuerdos directos con gobiernos como el alemán, confirma que la empresa ya no solo vende chips: compite por ser quien decide cómo y a qué ritmo los países y las empresas construyen su infraestructura de inteligencia artificial.",
+      "foto": {
+        "archivo": "assets/fotos/oblea.webp",
+        "alt": "Oblea de semiconductor siendo retirada de un equipo de procesado",
+        "credito": "Foto: Purdue Engineering · CC BY 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Let's Data Science (con declaraciones del acto)", "url": "https://letsdatascience.com/news/nvidia-ceo-urges-europe-to-adopt-ai-faster-at-gtc-berlin-88662920", "fecha": "21 oct 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "Cuatro grandes grupos de prensa canadienses demandan a Anthropic por usar sus artículos sin permiso para entrenar a Claude",
+      "entradilla": "Postmedia, Torstar, The Globe and Mail y The Canadian Press -junto a otras cabeceras del mismo grupo- presentaron el 6 de octubre una demanda contra Anthropic en un tribunal de Ontario, revelada después por el medio especializado Cartt.ca y recogida el 19 de octubre por CTV News. La acusan de haber usado unos 13,5 millones de artículos publicados desde 2021 para entrenar a Claude sin licencia alguna, de haber saltado las barreras técnicas que esos medios habían puesto para impedir el copiado y de haber incumplido las condiciones de uso de sus propias webs.",
+      "reaccion": "Las demandantes, que ya habían demandado a OpenAI junto a la CBC en 2024 por motivos parecidos, piden en su escrito hasta 20.000 dólares canadienses de indemnización por cada artículo usado sin permiso, además de que el tribunal ordene a Anthropic dejar de extraer contenido de sus páginas; Anthropic no ha respondido públicamente a la demanda, cuyas acusaciones no han sido probadas ante ningún tribunal.",
+      "por_que_importa": "Que cuatro de los mayores grupos de prensa de un país decidan ir juntos a los tribunales, en vez de negociar licencias por separado como ya han hecho otros medios con distintas empresas de IA, pone a prueba si las normas de propiedad intelectual actuales alcanzan para proteger el periodismo frente al entrenamiento de modelos de lenguaje, y marca otro frente judicial para Anthropic fuera de Estados Unidos.",
+      "foto": {
+        "archivo": "assets/fotos/biblioteca.webp",
+        "alt": "Estanterías de una biblioteca vistas desde un entresuelo",
+        "credito": "Foto: MSwierenga · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CTV News", "url": "https://www.ctvnews.ca/toronto/article/news-publishers-launch-copyright-suit-against-ai-company-anthropic-in-ontario", "fecha": "19 oct 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "Dos evaluadores independientes encuentran fallos en el sistema que usa OpenAI para vigilar a sus propios agentes",
+      "entradilla": "METR y Redwood Research, las dos organizaciones que OpenAI aceptó meter en su propia casa para revisar su sistema de vigilancia de agentes, publicaron el 22 de octubre los resultados de una prueba piloto de tres semanas, realizada entre el 21 de julio y el 11 de agosto, en la que un empleado de cada organización tuvo acceso supervisado al código interno y a parte del personal técnico de OpenAI. Encontraron varias vulnerabilidades «nuevas», entre ellas una que permitiría a un agente evitar que se revisaran cientos de sus acciones más recientes.",
+      "reaccion": "Según una evaluación aparte citada en la misma publicación, entre el 75% y el 94% del tráfico de la API de respuestas de OpenAI estaba siendo vigilado, frente a un 99,2% en el caso de los agentes internos de Codex, aunque un fallo ligado a la compresión de conversaciones pudo dejar sin revisar cerca de un 10% del tráfico interno elegible entre mayo y julio. OpenAI dice haber corregido ya todas las vulnerabilidades que afectaban a sus sistemas de producción, algo que METR y Redwood no han podido verificar por su cuenta.",
+      "por_que_importa": "Que la propia OpenAI abra la puerta a evaluadores externos y estos encuentren huecos reales en el sistema pensado para detectar un comportamiento peligroso de sus agentes es, a la vez, una muestra de transparencia poco habitual en el sector y una confirmación de que ese tipo de vigilancia todavía falla más de lo que las empresas de IA suelen admitir en público.",
+      "foto": {
+        "archivo": "assets/fotos/laboratorio.webp",
+        "alt": "Investigadora realizando un análisis de laboratorio",
+        "credito": "Foto: Jakub Šlégr · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CNBC", "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html", "fecha": "22 oct 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Nvidia, AMD, Micron y CoreWeave se desploman en bolsa por el miedo a que el gasto en IA se sostenga con demasiada deuda",
+      "entradilla": "Las acciones de las grandes empresas de chips y de infraestructura de IA cayeron con fuerza el 22 de octubre: Nvidia perdió un 4,4%, AMD más de un 8%, Micron en torno a un 6% y CoreWeave alrededor de un 10%, según datos de mercado recogidos por Invezz. El golpe llegó incluso después de que Meta presentara resultados trimestrales mejores de lo esperado, lo que sus propias acciones no evitaron pagar con una caída adicional por el tamaño de su gasto previsto en IA.",
+      "reaccion": "El desplome continúa una racha que empezó a mediados de octubre, cuando las dudas sobre la deuda de CoreWeave -que ronda los 50.000 millones de dólares, según Reuters- dispararon la prima de sus seguros de impago (CDS) a niveles que el mercado interpreta como una probabilidad superior al 60% de que la empresa incumpla sus pagos en cinco años; su consejero delegado, Mike Intrator, calificó esa reacción de «irracional».",
+      "por_que_importa": "Que inversores vendan incluso después de unos buenos resultados, solo por la magnitud de lo que las grandes tecnológicas planean seguir gastando en centros de datos de IA, confirma que el mercado ha empezado a mirar con más recelo cómo se financia ese gasto -cada vez más con deuda- y no solo si la demanda de IA seguirá creciendo.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Detalle de la parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Invezz", "url": "https://invezz.com/news/2026/10/22/nvidia-amd-and-micron-plunge-sharply-why-wall-street-is-punishing-ai-spending-either-way/", "fecha": "22 oct 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Jensen Huang · consejero delegado de Nvidia",
+      "que": "Dice en la apertura de GTC Berlín que «en el futuro, toda empresa será una empresa de inteligencia artificial» y pide a las compañías europeas que adopten la IA más rápido, mientras presenta DSX POD y un acuerdo de colaboración con el gobierno alemán.",
+      "cuando": "21 oct 2026",
+      "fuente": "Let's Data Science / news.at"
+    },
+    {
+      "quien": "Mike Intrator · consejero delegado de CoreWeave",
+      "que": "Califica de «irracional» la reacción del mercado ante la deuda de su empresa, en plena caída de las acciones de infraestructura de IA que se repitió el 22 de octubre.",
+      "cuando": "16 oct 2026",
+      "fuente": "247wallst.com / cryptobriefing.com"
+    },
+    {
+      "quien": "Postmedia, Torstar, The Globe and Mail y The Canadian Press",
+      "que": "Acusan en su demanda a Anthropic de haber «capitalizado el éxito comercial de sus modelos de IA, construyendo una amplia gama de servicios y recaudando un capital considerable», todo ello sin haber obtenido licencia de ninguno de esos medios.",
+      "cuando": "19 oct 2026",
+      "fuente": "CTV News / Editor & Publisher"
+    },
+    {
+      "quien": "Sam Altman · consejero delegado de OpenAI",
+      "que": "Se compromete en una publicación propia a dar a evaluadores de seguridad externos un acceso «como el de un empleado», igualando el compromiso que había anunciado antes Anthropic, aunque sin precisar todavía plazos ni organizaciones concretas.",
+      "cuando": "12 sep 2026",
+      "fuente": "Digg / Let's Data Science"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: el desplome de los valores de chips e infraestructura por el miedo a la deuda coincide con nuevas conversaciones de OpenAI para captar más capital antes de renunciar, otra vez, a salir a bolsa este año.",
+    "items": [
+      {
+        "empresa": "Nvidia, AMD, Micron y CoreWeave",
+        "que": "Sus acciones cayeron con fuerza el 22 de octubre -Nvidia un 4,4%, AMD más de un 8%, Micron en torno a un 6% y CoreWeave alrededor de un 10%- en la peor sesión reciente para los valores de chips e infraestructura de IA, en plena preocupación por cómo se está financiando con deuda la construcción de centros de datos.",
+        "cuando": "22 oct 2026",
+        "fuente": "Invezz"
+      },
+      {
+        "empresa": "OpenAI",
+        "que": "Negocia una nueva ronda de al menos 30.000 millones de dólares a una valoración cercana a 1,4 billones de dólares, según Bloomberg, como financiación puente mientras Sam Altman mantiene que la empresa no saldrá a bolsa en 2026; su facturación anualizada rondaba los 70.000 millones de dólares a finales de septiembre.",
+        "cuando": "12 oct 2026",
+        "fuente": "Bloomberg (vía Reuters)"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "La demanda de los grupos de prensa canadienses contra Anthropic reclama hasta 20.000 dólares canadienses por cada uno de los 13,5 millones de artículos que dicen haber identificado, una cifra que, de concederse al máximo, superaría los 270.000 millones de dólares canadienses; en la práctica, los tribunales rara vez conceden el máximo por infracción.",
+    "El nuevo diseño de centro de datos de Nvidia presentado en Berlín, DSX POD, promete reducir de seis meses a solo catorce días el tiempo necesario para montar una fábrica de inteligencia artificial completa."
+  ],
+  "glosario": {
+    "termino": "Permuta de incumplimiento crediticio (credit default swap, CDS)",
+    "definicion": "Un contrato que funciona como un seguro contra el impago de una deuda: quien lo compra paga una prima periódica y, si la empresa o el país de referencia no paga lo que debe, el vendedor le compensa la pérdida. Cuanto más cara se pone esa prima -como ha ocurrido con la de CoreWeave en octubre de 2026-, más probabilidad de impago está descontando el mercado."
+  }
+}
