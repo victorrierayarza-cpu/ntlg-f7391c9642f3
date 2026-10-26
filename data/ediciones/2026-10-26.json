@@ -1,0 +1,137 @@
+{
+  "fecha": "2026-10-26",
+  "numero": "14",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Anthropic cede el control de su estándar Agent Skills a una fundación neutral de código abierto",
+      "entradilla": "Anthropic anunció el 22 de octubre que dona el nombre, el logotipo, la organización en GitHub y el dominio de Agent Skills -el formato abierto que lanzó en diciembre de 2025 para que los agentes de IA aprendan nuevas tareas mediante carpetas de instrucciones- a la Agentic AI Foundation (AAIF), un proyecto bajo el paraguas de la Linux Foundation al que la propia Anthropic ya había cedido antes el protocolo MCP. La especificación no cambia y seguirá siendo gratuita; a partir de ahora, ingenieros de Anthropic, Google, OpenAI y otras empresas la mantendrán a título individual.",
+      "reaccion": "Según cifras de Anthropic, más de 70 plataformas han integrado ya Agent Skills desde su lanzamiento -entre ellas ChatGPT, Cursor, GitHub Copilot y Visual Studio Code-, con más de un millón de «habilidades» publicadas y cerca de 280 millones de instalaciones; la empresa insiste en que usar o contribuir al estándar no exige unirse a la fundación.",
+      "por_que_importa": "Que Anthropic renuncie al control exclusivo de un estándar que ella misma inventó, y lo deje en manos de una fundación en la que también participan OpenAI y Google, reduce el riesgo de que el formato quede atado a los intereses comerciales de un solo laboratorio; si cuaja como referencia común, facilitaría que agentes de distintos fabricantes compartan habilidades sin que cada empresa tenga que reconstruirlas por su cuenta.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Líneas de código de colores en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Anthropic (comunicado oficial)", "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation", "fecha": "22 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "OpenAI rebaja su objetivo de valoración a 1,25 billones de dólares, 150.000 millones menos de lo que buscaba hace un mes",
+      "entradilla": "OpenAI ha reducido a 1,25 billones de dólares el objetivo de valoración de la ronda de 30.000 millones que negocia como financiación puente antes de una posible salida a bolsa, frente a los 1,4 billones que perseguía en septiembre, según informaron el Financial Times y CNBC el 22 de octubre. Inversores de Emiratos Árabes Unidos y el fondo Coatue encabezan la operación, que según esas informaciones tiene hasta el 30 de octubre para cerrarse, y podría quedarse por debajo de los 30.000 millones si la demanda sigue siendo más floja de lo habitual en rondas anteriores de la empresa.",
+      "reaccion": "Varias fuentes cercanas a la operación citadas por CNBC atribuyen el recorte a una demanda de los inversores más floja de lo esperado, en plena volatilidad de los valores de IA; ni OpenAI ni los inversores han confirmado públicamente el motivo exacto. La cifra sigue siendo un 50% superior a los 852.000 millones de dólares de la ronda de marzo.",
+      "por_que_importa": "Que la empresa más valorada del sector tenga que recortar sus propias pretensiones de precio para encontrar comprador es una señal -más clara que cualquier declaración- de que ni siquiera OpenAI es inmune a las dudas que empiezan a rodear la financiación del gasto en inteligencia artificial, justo cuando la compañía ha aplazado su propia salida a bolsa hasta 2027.",
+      "foto": {
+        "archivo": "assets/fotos/san-francisco.webp",
+        "alt": "Puente Golden Gate y el perfil de San Francisco al atardecer",
+        "credito": "Foto: Daniel L. Lu (user:dllu) · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CNBC (recogido por TheNextWeb)", "url": "https://thenextweb.com/news/openai-funding-round-1-25tn-uae-coatue", "fecha": "22 oct 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "Texas demanda a OpenAI y a Sam Altman por los riesgos de ChatGPT para menores",
+      "entradilla": "El fiscal general de Texas, Ken Paxton, presentó el 23 de octubre una demanda contra OpenAI y contra su consejero delegado, Sam Altman, en un tribunal del condado de Collin, al amparo de la ley estatal de prácticas comerciales engañosas y de la ley de seguridad infantil en internet (SCOPE Act). La demanda, de 67 páginas, acusa a ChatGPT de dar respuestas dañinas o inexactas, de fomentar un uso compulsivo y de recoger datos de menores sin control parental, y responsabiliza a Altman de forma personal por, según el escrito, dirigir esa conducta y hacer declaraciones engañosas.",
+      "reaccion": "El fiscal pide a un tribunal que prohíba el uso de ChatGPT a menores en Texas y que exija revisiones de seguridad independientes, aprobadas por un juez, antes de que la empresa lance nuevos modelos a usuarios del estado; también reclama más de un millón de dólares en concepto de daños y sanciones de hasta 10.000 dólares por infracción. OpenAI no ha respondido públicamente a la demanda, cuyas acusaciones no han sido probadas ante ningún tribunal.",
+      "por_que_importa": "La demanda se suma a una ya larga lista de pleitos contra OpenAI por los efectos de ChatGPT en menores y personas vulnerables, pero es la primera vez que un fiscal estatal pide a un juez que bloquee directamente el acceso de los menores al producto en su territorio; si tiene éxito, abriría la puerta a que otros estados reclamen restricciones parecidas antes de que exista una ley federal que las armonice.",
+      "foto": {
+        "archivo": "assets/fotos/capitolio.webp",
+        "alt": "Vista completa del Capitolio de Estados Unidos",
+        "credito": "Foto: Noclip · Public domain · Wikimedia Commons"
+      },
+      "fuente": { "medio": "The Hill", "url": "https://thehill.com/policy/technology/6169375-paxton-sues-openai-chatgpt/", "fecha": "23 oct 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "Leire Díez se querella contra el PP por un vídeo de campaña hecho con IA que la acusa de contratar «matones»",
+      "entradilla": "La exmilitante socialista Leire Díez presentó el 23 de octubre una querella contra el Partido Popular ante la Audiencia Nacional, por un vídeo generado con inteligencia artificial que el partido publicó el 21 de octubre en su web y sus redes sociales. El vídeo, concebido como parodia de uno anterior del PSOE, le atribuye haber contratado a «matones» para apartar a una jueza, en clara alusión a la magistrada Covadonga Biezma; la querella lo acusa de calumnias con publicidad, delito contra la integridad moral y suplantación de identidad digital.",
+      "reaccion": "La defensa de Díez pide la retirada cautelar del vídeo de las cuentas del PP, que se identifique a quienes gestionan esas redes y aprobaron la publicación, y la entrada y registro de la sede del partido por la Unidad de Delitos Tecnológicos de la Guardia Civil. Las cifras de difusión varían según el medio: unos hablan de más de 21 millones de visualizaciones en 16 horas, mientras otros citan más de dos millones de reproducciones. El PP no ha respondido públicamente a la querella.",
+      "por_que_importa": "El caso llega a un mes de las elecciones autonómicas del 29 de noviembre en España, en una campaña que varios medios ya describen como la primera marcada por el uso masivo de vídeos generados con IA entre partidos, y plantea ante los tribunales españoles una pregunta que todavía no tiene respuesta clara: dónde está el límite entre la parodia política y la difamación cuando el vídeo que la ilustra parece real.",
+      "foto": {
+        "archivo": "assets/fotos/ciudad-noche.webp",
+        "alt": "Luces de tráfico y edificios de una ciudad iluminada de noche",
+        "credito": "Foto: formulanone · CC BY-SA 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "El Español", "url": "https://www.elespanol.com/espana/tribunales/20261023/leire-querella-pp-video-ia-atribuye-contratar-matones-quitar-juez-biedma/1003744432251_0.html", "fecha": "23 oct 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Los anuncios hechos con IA se disparan en las legislativas de EE. UU., casi todos del lado republicano",
+      "entradilla": "Las campañas de las elecciones legislativas de mitad de mandato en EE. UU. han gastado ya más de 137 millones de dólares en anuncios generados o retocados con inteligencia artificial, frente a apenas 50.000 dólares en el ciclo de 2024, según una estimación del Wesleyan Media Project recogida por The Washington Post el 24 de octubre. Los republicanos concentran alrededor del 88% de ese gasto -unos 120 millones de dólares-, con anuncios como uno que presenta al candidato demócrata al Senado por Texas, James Talarico, como un radical que profana la Biblia.",
+      "reaccion": "Según Erika Franklin Fowler, del Wesleyan Media Project, solo el 27% de esos anuncios llevan un aviso de que están hechos con IA, algo que califica de «problemático»; estrategas demócratas consultados por el Post dicen, en cambio, que prefieren no usar ese tipo de vídeos porque creen que el coste de la vida y la desconfianza hacia el contenido sintético pesan más entre los votantes que cualquier ventaja que puedan dar esos anuncios.",
+      "por_que_importa": "Que una campaña electoral en el país con más gasto publicitario del mundo recurra ya de forma masiva, y casi sin avisos, a vídeos generados con inteligencia artificial normaliza una práctica que hasta hace poco se consideraba marginal, y deja a los votantes con la carga de distinguir qué contenido político es real justo en la recta final de una campaña.",
+      "foto": {
+        "archivo": "assets/fotos/fibra-optica.webp",
+        "alt": "Detalle de un cable de fibra óptica en un museo de la ciencia",
+        "credito": "Foto: Syced · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "The Washington Post", "url": "https://www.washingtonpost.com/politics/2026/10/24/why-democrats-are-shunning-ai-videos-ads/", "fecha": "24 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Walmart abre su web a agentes de compra con IA mientras Amazon se los bloquea",
+      "entradilla": "Walmart presentó el 21 de octubre su Agent Gateway, una vía construida sobre el protocolo abierto MCP que permite a agentes de IA externos -como ChatGPT, Gemini o Muse de Meta- consultar existencias y completar compras en su web y en Sam's Club, sin exponerles directamente los datos personales o el historial de compras de cada cliente. La empresa prometió además «Agent Profiles» para el mes siguiente, que permitirán crear un perfil distinto para cada asistente de IA, con límites de gasto o la obligación de aprobar cada compra.",
+      "reaccion": "El movimiento contrasta con el de Amazon, que según TechCrunch ha bloqueado en los últimos meses a agentes externos como Muse, de Meta, o el asistente de compras de Perplexity, mostrando un aviso de que los agentes de IA no autorizados incumplen sus condiciones de uso mientras promueve sus propias herramientas, como Alexa for Shopping. Walmart asegura que sus agentes verán los mismos precios que un comprador humano.",
+      "por_que_importa": "Que las dos mayores cadenas de EE. UU. tomen caminos opuestos ante los agentes de compra -uno abre la puerta, el otro la cierra- anticipa una disputa de fondo sobre quién controla la relación con el cliente a medida que más personas delegan sus compras en un asistente de IA: abrir la tienda a cualquier agente puede ganar cuota de mercado, pero también cede el control sobre qué productos ve primero el comprador.",
+      "foto": {
+        "archivo": "assets/fotos/robot-industrial.webp",
+        "alt": "Brazo robótico recogiendo objetos cilíndricos en una fábrica",
+        "credito": "Foto: Shixart1985 · CC BY 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "TechCrunch", "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/", "fecha": "21 oct 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Ken Paxton · fiscal general de Texas",
+      "que": "Presenta una demanda contra OpenAI y Sam Altman y pide a un tribunal que prohíba el uso de ChatGPT a menores en Texas, además de exigir revisiones de seguridad independientes antes de lanzar nuevos modelos en el estado.",
+      "cuando": "23 oct 2026",
+      "fuente": "The Hill / Houston Chronicle"
+    },
+    {
+      "quien": "Mark Levine · interventor (comptroller) de Nueva York",
+      "que": "Pide en una carta abierta a Dario Amodei que Anthropic pause su salida a bolsa hasta resolver las dudas de seguridad y gobernanza que la propia empresa reconoce en su folleto, con una sección de riesgos de unas 80 páginas.",
+      "cuando": "14 oct 2026",
+      "fuente": "AI-CIO / Oficina del Comptroller de Nueva York"
+    },
+    {
+      "quien": "Erika Franklin Fowler · Wesleyan Media Project",
+      "que": "Advierte de que solo el 27% de los anuncios políticos generados con IA en la campaña de medio mandato de EE. UU. avisan de que están hechos con inteligencia artificial, algo que califica de «problemático».",
+      "cuando": "24 oct 2026",
+      "fuente": "The Washington Post"
+    },
+    {
+      "quien": "Leire Díez · exmilitante socialista",
+      "que": "En su querella contra el PP, denuncia que el partido difundió un vídeo con IA que la acusa de haber contratado a «matones» para apartar a una jueza, y pide su retirada cautelar y la identificación de quién autorizó su publicación.",
+      "cuando": "23 oct 2026",
+      "fuente": "El Español"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: OpenAI rebaja sus pretensiones de precio justo antes de la semana en la que el mercado pondrá a prueba el gasto en inteligencia artificial de las grandes tecnológicas, con los resultados de Alphabet y Microsoft el miércoles y los de Amazon el jueves.",
+    "items": [
+      {
+        "empresa": "OpenAI",
+        "que": "Rebaja a 1,25 billones de dólares el objetivo de valoración de su ronda de 30.000 millones -1,4 billones buscaba en septiembre-, con inversores de Emiratos Árabes Unidos y el fondo Coatue a la cabeza; tienen hasta el 30 de octubre para comprometerse.",
+        "cuando": "22 oct 2026",
+        "fuente": "CNBC / Financial Times"
+      },
+      {
+        "empresa": "Alphabet, Microsoft y Amazon",
+        "que": "Presentan resultados esta semana -miércoles 28 y jueves 29- en lo que varios analistas describen como la gran prueba para el gasto en IA del sector, después de que los valores de chips e infraestructura perdieran más de un billón de dólares combinados la semana pasada.",
+        "cuando": "26 oct 2026",
+        "fuente": "Bloomberg (contexto de mercado)"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "Agent Skills, el estándar que Anthropic acaba de donar a la Agentic AI Foundation, acumula ya más de un millón de «habilidades» publicadas y cerca de 280 millones de instalaciones desde su lanzamiento en diciembre de 2025, según cifras de la propia empresa.",
+    "Las campañas de las legislativas de EE. UU. han gastado más de 137 millones de dólares en anuncios hechos con IA en este ciclo electoral, frente a apenas 50.000 dólares en 2024: casi 2.750 veces más en solo dos años."
+  ],
+  "glosario": {
+    "termino": "Valoración pre-money",
+    "definicion": "El valor que se le asigna a una empresa antes de sumar el dinero de una nueva ronda de inversión; al añadir esa inversión se obtiene la valoración «post-money». Cuando OpenAI dice que busca 1,25 billones de dólares «antes de contar el nuevo dinero», se refiere precisamente a esta cifra."
+  },
+  "fin_de_semana": "El fin de semana lo marcaron, sobre todo, las dudas sobre el precio de la IA: el recorte de la valoración de OpenAI, conocido el jueves y el viernes, llegó justo cuando los mercados digerían la peor semana para los valores de chips e infraestructura en meses. Los futuros bursátiles subían levemente esta mañana de lunes, con las tensiones en Oriente Medio algo más calmadas y los inversores apostando a que la Reserva Federal, que se reúne el martes y el miércoles, mantendrá sin cambios los tipos de interés; la atención de la semana se centra ahora en los resultados de Alphabet, Microsoft y Amazon."
+}

@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-26",
+      "titulo": "Texas demanda a OpenAI por ChatGPT y menores, Leire Díez se querella contra el PP por un vídeo con IA, y OpenAI rebaja a 1,25 billones su valoración antes de la gran semana de resultados",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-23",
       "titulo": "Anthropic prueba su agente Claude Duet, OpenAI lleva sus modelos a Google Cloud, cuatro grupos de prensa canadienses demandan a Anthropic y el miedo a la deuda hunde a Nvidia, AMD, Micron y CoreWeave",
       "prueba": false
