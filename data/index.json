@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-28",
+      "titulo": "Google presenta Genie 4, OpenAI estudiaría comprar TPU de Google, una start-up logra entrar en sistemas internos de Anthropic y Bank of America pide no compartir contraseñas con la IA",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-26",
       "titulo": "Texas demanda a OpenAI por ChatGPT y menores, Leire Díez se querella contra el PP por un vídeo con IA, y OpenAI rebaja a 1,25 billones su valoración antes de la gran semana de resultados",
       "prueba": false
