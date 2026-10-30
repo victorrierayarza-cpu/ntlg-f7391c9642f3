@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-10-30",
+      "titulo": "Mistral lanza un modelo abierto de un billón de parámetros, Microsoft ofrece bajas a 60.000 empleados, EE. UU. recurre el fallo que protegía a Anthropic y Alphabet se desploma pese a que la nube le crece un 103%",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-28",
       "titulo": "Google presenta Genie 4, OpenAI estudiaría comprar TPU de Google, una start-up logra entrar en sistemas internos de Anthropic y Bank of America pide no compartir contraseñas con la IA",
       "prueba": false
