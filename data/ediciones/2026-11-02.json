@@ -1,0 +1,137 @@
+{
+  "fecha": "2026-11-02",
+  "numero": "17",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "OpenAI recorta a la mitad el tamaño de su ronda de financiación, hasta 20.000 millones de dólares",
+      "entradilla": "El Financial Times informó el 30 de octubre de que OpenAI redujo el objetivo de su ronda en curso de 30.000 a unos 20.000 millones de dólares, después de que varios inversores se echaran atrás en plena caída de los valores tecnológicos ligados a la IA. La empresa mantiene la valoración que persigue, 1,25 billones de dólares -ya rebajada desde los 1,4 billones de septiembre-, pero el plazo para comprometer el dinero vencía ese mismo viernes.",
+      "reaccion": "Según el Wall Street Journal, OpenAI solo había asegurado unos 11.000 millones de dólares en compromisos firmes cuando venció el plazo, muy por debajo incluso del nuevo objetivo; la ronda podría cerrarse con una cifra todavía menor, y la empresa estudiaría abrir una ventana a grandes patrimonios privados para cubrir la diferencia.",
+      "por_que_importa": "Que la empresa más valorada del sector tenga que recortar dos veces en una semana sus propias pretensiones -primero el precio, después el tamaño de la ronda- confirma que ni siquiera OpenAI escapa a la desconfianza que empieza a rodear la financiación del gasto en infraestructura de IA.",
+      "foto": {
+        "archivo": "assets/fotos/data-center.webp",
+        "alt": "Pasillo de servidores en un centro de datos",
+        "credito": "Foto: BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "The Next Web (recogido del Financial Times)", "url": "https://thenextweb.com/news/openai-funding-round-20bn-target-cut-ft", "fecha": "30 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Anthropic presenta su folleto público rumbo a bolsa, todavía sin precio ni fecha confirmada",
+      "entradilla": "El folleto (S-1) que Anthropic registró el 26 de octubre ante el regulador bursátil de EE. UU. para cotizar en el Nasdaq bajo el símbolo «ANT» sigue sin incluir, una semana después, ni el precio ni el número de acciones que pondrá en el mercado. Varias informaciones, ninguna confirmada por la empresa, apuntan a una valoración por encima del billón de dólares.",
+      "reaccion": "La normativa de la Securities and Exchange Commission exige esperar al menos 15 días desde el folleto público antes de empezar a presentar la oferta a los grandes inversores, lo que sitúa esa presentación no antes del 10 de noviembre; Bloomberg ha informado de que esa comercialización podría arrancar la semana del 9 de noviembre, aunque ni esa fecha ni la de la cotización figuran en ningún documento de la empresa.",
+      "por_que_importa": "Que el folleto siga en blanco en el dato más esperado -el precio- a semanas de una posible salida a bolsa que varias informaciones sitúan entre las mayores de la historia recuerda que, hasta que no hay un rango de precio sobre el papel, cualquier valoración que circule en la prensa es una estimación ajena a la empresa, no un dato oficial.",
+      "foto": {
+        "archivo": "assets/fotos/san-francisco.webp",
+        "alt": "Puente Golden Gate y el perfil de San Francisco al atardecer",
+        "credito": "Foto: Daniel L. Lu (user:dllu) · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "iTiger News", "url": "https://www.itiger.com/news/2678104317", "fecha": "1 nov 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "Begoña Gómez denuncia al PP por un vídeo hecho con inteligencia artificial que suplanta su imagen",
+      "entradilla": "La esposa del presidente del Gobierno, Begoña Gómez, presentó el 28 de octubre una denuncia contra el Partido Popular por un vídeo generado con IA que recrea su voz y su imagen para hacerla aparecer admitiendo los delitos que le atribuye el juez Juan Carlos Peinado, en plena precampaña de las elecciones autonómicas del 29 de noviembre. En las mismas imágenes aparecen, con igual tratamiento, Pedro Sánchez, José Luis Ábalos, Santos Cerdán, Leire Díez y José Luis Rodríguez Zapatero. Su abogado sostiene que el PP usó su identidad sin consentimiento y pide identificar a los responsables de la cuenta que lo publicó.",
+      "reaccion": "Pedro Sánchez confirmó la denuncia y acusó al PP de recurrir a las mismas técnicas que, según dijo, usan quienes acosan a menores en internet; la portavoz socialista Rebeca Torró calificó el vídeo de «lamentable», y el PSOE estudia, sin haberlo confirmado todavía, emprender además su propia acción legal. El PP no ha respondido públicamente a la denuncia, cuyos hechos no han sido probados ante ningún tribunal.",
+      "por_que_importa": "El caso llega a una campaña que varios medios españoles ya describen como la primera marcada por el uso masivo de vídeos generados con IA entre partidos, y traslada a los tribunales una pregunta todavía sin resolver en España: dónde está el límite legal entre la sátira política y la suplantación de identidad cuando la imitación generada por IA resulta indistinguible de la persona real.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Líneas de código de colores en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "RTVC", "url": "https://rtvc.es/begona-gomez-denuncia-pp-28-octubre-2026/", "fecha": "28 oct 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "El generador de imágenes de ChatGPT crea fotos falsas de candidatos a las legislativas de EE. UU. en 16 de 20 intentos, según NewsGuard",
+      "entradilla": "La organización de verificación NewsGuard pidió el 23 de octubre a ChatGPT Images que generara imágenes falsas y comprometedoras de 20 candidatos a las elecciones legislativas de EE. UU. del 3 de noviembre -diez demócratas y diez republicanos-, y la herramienta accedió en 16 de los 20 casos, cerca de un 80%. Entre los resultados, una imagen sitúa sin base real a la candidata al Senado por Iowa Ashley Hinson junto al fallecido Jeffrey Epstein; la herramienta solo rechazó tres peticiones y, en un caso, representó a la persona equivocada.",
+      "reaccion": "OpenAI aseguró al lanzar esa versión de su generador de imágenes, el 8 de septiembre, que había incorporado «protecciones» contra ese uso indebido, y sus normas prohíben expresamente crear imágenes difamatorias de figuras públicas; la empresa no ha respondido públicamente al informe, que según NewsGuard se hizo sin el consentimiento ni conocimiento de ninguno de los candidatos retratados.",
+      "por_que_importa": "Que una herramienta tan usada falle en cuatro de cada cinco intentos justo en la semana de una votación confirma que las barreras que las empresas de IA anuncian contra la desinformación electoral siguen sin resistir una prueba independiente sencilla, y deja a los propios candidatos expuestos a imágenes falsas que ninguna ley federal de EE. UU. regula todavía de forma específica.",
+      "foto": {
+        "archivo": "assets/fotos/fibra-optica.webp",
+        "alt": "Detalle de un cable de fibra óptica en un museo de la ciencia",
+        "credito": "Foto: Syced · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "NewsGuard", "url": "https://www.newsguardtech.com/special-reports/openai-image-generator-produced-fake-disparaging-images-of-candidates-80-percent-of-the-time/", "fecha": "23 oct 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "OpenAI abre un centro de operaciones electorales antes de las legislativas de EE. UU. del 3 de noviembre",
+      "entradilla": "OpenAI puso en marcha, en la semana del 26 de octubre, un «centro de operaciones electorales» con cientos de empleados dedicados a vigilar en tiempo real un posible mal uso de sus propias herramientas durante las elecciones legislativas de mitad de mandato de EE. UU., según informó Politico. El equipo, dirigido por Josh Lawson -responsable de riesgo cívico y estratégico de la empresa-, seguirá activo hasta que se cuenten todos los votos, y se apoya en las normas electorales que OpenAI publicó en mayo y actualizó el 20 de octubre.",
+      "reaccion": "OpenAI afirma haber desactivado 30 operaciones de influencia encubiertas en los últimos dos años y medio; el mismo día en que trascendía la noticia, cuatro congresistas demócratas -Mark Warner, Alex Padilla, Jim Himes y Joe Morelle- habían pedido por carta a 25 tecnológicas, entre ellas OpenAI, reforzar y no relajar esas salvaguardas en los días previos al voto.",
+      "por_que_importa": "Que la propia OpenAI monte un dispositivo de vigilancia solo para una votación legislativa, no para unas presidenciales, muestra hasta qué punto las empresas de IA asumen ya que sus productos pueden alterar una elección por sí solos, y traslada a compañías privadas una responsabilidad -proteger la integridad del voto- que hasta ahora recaía sobre todo en organismos públicos.",
+      "foto": {
+        "archivo": "assets/fotos/capitolio.webp",
+        "alt": "Vista completa del Capitolio de Estados Unidos",
+        "credito": "Foto: Noclip · Public domain · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CyberScoop", "url": "https://cyberscoop.com/openai-2026-election-security-plans/", "fecha": "28 oct 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Intel se desploma y el Nasdaq pierde más de dos billones de dólares en octubre por el miedo al gasto en IA",
+      "entradilla": "El índice Nasdaq 100 cayó un 3,1% la mañana del 30 de octubre, arrastrado por Intel -que se hundió más de un 25% tras advertir de que quemará caja este año- y por las dudas, ya instaladas desde antes, sobre el gasto en infraestructura de IA de Amazon y Alphabet. Según cálculos recogidos por Reuters, octubre se cerró con más de dos billones de dólares borrados del valor de mercado del Nasdaq 100.",
+      "reaccion": "La preocupación ha empezado a extenderse del mercado de acciones al de crédito, donde varios inversores citados por la prensa económica dicen estar empezando a descontar que el coste de financiar tanto gasto en IA, cada vez más a base de deuda, pueda apretar a empresas hasta ahora consideradas más seguras; el inversor Howard Marks, de Oaktree, dijo el 2 de noviembre que estos «tropiezos» recientes de la IA han aumentado el escepticismo de los inversores, algo que calificó de «sano».",
+      "por_que_importa": "Que el desplome ya no se limite a los fabricantes de chips más expuestos al ciclo de la IA, sino que arrastre también a gigantes como Amazon o Alphabet por el simple tamaño de su gasto previsto, confirma que los inversores han empezado a tratar la inversión en infraestructura de inteligencia artificial como un riesgo compartido por todo el sector tecnológico, no como una apuesta aislada de cada empresa.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Detalle de la parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "The Star (Malaysia, con datos de Reuters)", "url": "https://www.thestar.com.my/tech/tech-news/2026/10/30/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen", "fecha": "30 oct 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Pedro Sánchez · presidente del Gobierno de España",
+      "que": "Confirma la denuncia de Begoña Gómez contra el PP por el vídeo hecho con IA y acusa al partido de recurrir a las mismas técnicas que, según dice, emplean quienes acosan a menores en internet.",
+      "cuando": "28 oct 2026",
+      "fuente": "Demócrata / RTVC"
+    },
+    {
+      "quien": "NewsGuard",
+      "que": "Concluye que el generador de imágenes de ChatGPT creó fotos falsas y comprometedoras de candidatos a las legislativas de EE. UU. en 16 de sus 20 intentos, pese a las normas de OpenAI contra ese uso.",
+      "cuando": "23 oct 2026",
+      "fuente": "NewsGuard"
+    },
+    {
+      "quien": "Mark Warner, Alex Padilla, Jim Himes y Joe Morelle · congresistas demócratas de EE. UU.",
+      "que": "Piden por carta a 25 tecnológicas, entre ellas OpenAI, Google, Microsoft y Meta, reforzar -no relajar- sus salvaguardas electorales en los días previos a las legislativas del 3 de noviembre.",
+      "cuando": "20 oct 2026",
+      "fuente": "Nextgov/FCW"
+    },
+    {
+      "quien": "Howard Marks · cofundador de Oaktree Capital",
+      "que": "Dice que los recientes «tropiezos» de la inteligencia artificial han aumentado el escepticismo de los inversores, algo que considera «sano» para el mercado.",
+      "cuando": "2 nov 2026",
+      "fuente": "Bloomberg"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: OpenAI reduce otra vez sus ambiciones de financiación justo cuando Anthropic empieza la cuenta atrás legal hacia su propia salida a bolsa.",
+    "items": [
+      {
+        "empresa": "OpenAI",
+        "que": "Recorta de 30.000 a unos 20.000 millones de dólares el tamaño de la ronda que negocia a una valoración de 1,25 billones, después de que, según el Wall Street Journal, solo hubiera asegurado unos 11.000 millones en compromisos firmes al cierre del plazo, el 30 de octubre.",
+        "cuando": "30 oct 2026",
+        "fuente": "Financial Times / Wall Street Journal"
+      },
+      {
+        "empresa": "Anthropic",
+        "que": "Su folleto público para cotizar en el Nasdaq bajo el símbolo «ANT», registrado el 26 de octubre, sigue sin precio ni número de acciones; por la normativa de la SEC, la presentación a inversores no podría empezar antes del 10 de noviembre.",
+        "cuando": "26 oct - 2 nov 2026",
+        "fuente": "iTiger / Bloomberg"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "El generador de imágenes de ChatGPT solo rechazó 3 de los 20 intentos de NewsGuard de crear fotos falsas de candidatos a las legislativas de EE. UU.; en otro de los 20 casos, generó la imagen de una persona equivocada.",
+    "Octubre se cerró con más de dos billones de dólares borrados del valor de mercado del Nasdaq 100, el mismo índice que un año antes vivía, en gran parte gracias a esas mismas empresas de IA, una de sus mejores rachas históricas."
+  ],
+  "glosario": {
+    "termino": "Deepfake",
+    "definicion": "Imagen, audio o vídeo creado o alterado con inteligencia artificial para hacer que una persona real parezca decir o hacer algo que nunca dijo ni hizo. El término combina «deep learning» (aprendizaje profundo, la técnica que los hace posibles) y «fake» (falso); el vídeo que suplanta a Begoña Gómez y las imágenes que probó NewsGuard con ChatGPT son dos ejemplos del mismo fenómeno."
+  },
+  "fin_de_semana": "El fin de semana lo marcó la doble vuelta de tuerca de OpenAI a su propia ronda de financiación -conocida el viernes y detallada después por el Wall Street Journal-, justo cuando los mercados digerían la peor sesión de Intel en años y el cierre de un octubre que borró más de dos billones de dólares del Nasdaq 100. En España, la campaña de las autonómicas del 29 de noviembre sigue marcada por el vídeo con IA que llevó a Begoña Gómez a denunciar al PP el miércoles anterior. Y en EE. UU. la atención se traslada ya a las legislativas de mañana, martes 3 de noviembre, con el centro de operaciones electorales de OpenAI en marcha y un informe de NewsGuard, publicado días antes, que deja dudas sobre cuánto puede confiarse en las barreras que las propias empresas de IA dicen haber puesto contra la desinformación."
+}

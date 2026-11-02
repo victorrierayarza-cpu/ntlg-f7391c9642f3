@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-02",
+      "titulo": "OpenAI recorta a la mitad su ronda de financiación, Begoña Gómez denuncia al PP por un vídeo con IA, ChatGPT genera fotos falsas de candidatos a las legislativas de EE. UU. e Intel hunde al Nasdaq con dos billones perdidos en octubre",
+      "prueba": false
+    },
+    {
       "fecha": "2026-10-30",
       "titulo": "Mistral lanza un modelo abierto de un billón de parámetros, Microsoft ofrece bajas a 60.000 empleados, EE. UU. recurre el fallo que protegía a Anthropic y Alphabet se desploma pese a que la nube le crece un 103%",
       "prueba": false
