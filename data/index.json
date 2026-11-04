@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-04",
+      "titulo": "Google lanza Gemini 4 Carbon, AMD firma su mejor trimestre histórico, Bedrock Robotics capta 600 millones para excavadoras autónomas y los demócratas recuperan el Congreso de EE. UU. en una campaña con récord de anuncios hechos con IA",
+      "prueba": false
+    },
+    {
       "fecha": "2026-11-02",
       "titulo": "OpenAI recorta a la mitad su ronda de financiación, Begoña Gómez denuncia al PP por un vídeo con IA, ChatGPT genera fotos falsas de candidatos a las legislativas de EE. UU. e Intel hunde al Nasdaq con dos billones perdidos en octubre",
       "prueba": false

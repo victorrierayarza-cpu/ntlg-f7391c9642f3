@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-11-04",
+  "numero": "18",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Google lanza Gemini 4 Carbon, un modelo centrado en ciberseguridad con acceso todavía muy restringido",
+      "entradilla": "Google presentó el 28 de octubre Gemini 4 Carbon, su modelo más avanzado hasta la fecha, especializado en detectar y corregir vulnerabilidades de software y en tareas de ciberdefensa de larga duración. La empresa afirma que supera claramente a su predecesor, Gemini 4 Argon -lanzado solo dos semanas antes-, en pruebas internas de búsqueda y parcheo de fallos de seguridad.",
+      "reaccion": "Por ahora solo pueden probarlo equipos de ciberseguridad verificados a través del programa Fairwind de Google, antes de que la empresa lo abra -sin fecha concreta- a desarrolladores, empresas y al público general; el precio de salida, 2 dólares por millón de tokens de entrada y 10 por millón de salida, es idéntico al de Argon.",
+      "por_que_importa": "Que la empresa reserve su modelo más potente a un grupo cerrado de defensores antes de abrirlo a cualquiera confirma que las grandes tecnológicas empiezan a tratar la ciberseguridad como un terreno distinto al del resto de usos de la IA, donde el riesgo de que la misma herramienta sirva para atacar pesa más que la prisa por lanzar cuanto antes.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Líneas de código de colores en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Khaleej Times", "url": "https://www.khaleejtimes.com/business/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-2", "fecha": "28 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "AMD firma su mejor trimestre de la historia impulsado por los chips para inteligencia artificial",
+      "entradilla": "AMD presentó el 3 de noviembre unos ingresos de 13.400 millones de dólares en el tercer trimestre, un 45% más que un año antes y una cifra récord para la compañía, con su división de centros de datos creciendo un 97% gracias a la demanda de sus chips gráficos Instinct y sus procesadores EPYC para servidores de IA.",
+      "reaccion": "La consejera delegada, Lisa Su, dijo en la presentación de resultados que espera que ese crecimiento se acelere todavía más en el cuarto trimestre a medida que la empresa amplía la producción de sus futuros chips Helios y «Venice»; el beneficio neto del trimestre fue de 2.400 millones de dólares, con un margen bruto del 54%.",
+      "por_que_importa": "Que el segundo mayor fabricante de chips para IA, no solo Nvidia, logre también su mejor trimestre histórico confirma que la demanda de hardware para entrenar y ejecutar modelos sigue sin dar señales de agotamiento, pese a las dudas que esa misma semana sacudían en bolsa a otras tecnológicas por su gasto en infraestructura.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Detalle de la parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "AMD (comunicado de resultados del tercer trimestre, vía SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm", "fecha": "3 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Bedrock Robotics, la start-up de excavadoras autónomas, capta 600 millones de dólares a una valoración de 4.100 millones",
+      "entradilla": "La compañía californiana Bedrock Robotics, que fabrica kits para convertir excavadoras y otra maquinaria de obra pública en vehículos autónomos, cerró el 26 de octubre una ronda serie C de 600 millones de dólares liderada por CapitalG y Emergence Capital, con Nvidia entre los inversores que repiten, hasta alcanzar una valoración de 4.100 millones de dólares.",
+      "reaccion": "La propia empresa no ha detallado cuántas máquinas tiene ya operando ni qué ingresos genera; según la cobertura del cierre de la ronda, el dinero se destinará a ampliar sus despliegues en obras de construcción de EE. UU., un sector que lleva años de escasez crónica de maquinistas cualificados.",
+      "por_que_importa": "Que una start-up centrada en automatizar maquinaria pesada -lejos de los chatbots y los grandes modelos de lenguaje- logre una de las mayores rondas del año confirma que buena parte del dinero que mueve hoy la IA no persigue solo construir el próximo gran modelo, sino aplicarlo a tareas físicas muy concretas.",
+      "foto": {
+        "archivo": "assets/fotos/robot-industrial.webp",
+        "alt": "Brazo robótico industrial manipulando piezas cilíndricas en una fábrica",
+        "credito": "Foto: Shixart1985 · CC BY 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Let's Data Science", "url": "https://letsdatascience.com/news/bedrock-robotics-raises-600-million-series-c-at-41-billion-1d6bab11", "fecha": "26 oct 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "SK Hynix bate su récord de beneficios y tiene vendida toda su memoria para IA hasta 2029",
+      "entradilla": "El fabricante surcoreano SK Hynix, principal proveedor de memoria de alto ancho de banda (HBM) para los chips de IA de Nvidia, presentó el 28 de octubre un beneficio operativo récord de 83,33 billones de wones en el tercer trimestre -muy por encima de los 77 billones que esperaban los analistas-, con unos ingresos que superaron por primera vez los 100 billones de wones.",
+      "reaccion": "La empresa atribuye el resultado a la subida de precios de la memoria DRAM y NAND y, sobre todo, a la demanda de sus chips HBM4, de los que dice tener vendida toda su producción -junto con buena parte de la memoria convencional- hasta 2029; Samsung, su mayor rival, todavía no había presentado sus propias cuentas del tercer trimestre en esas fechas.",
+      "por_que_importa": "Que un proveedor de un componente tan específico como la memoria para IA registre beneficios récord y agote su capacidad hasta el final de la década traslada el auge de la inteligencia artificial a la cadena de suministro de cualquier aparato electrónico -desde móviles a ordenadores-, que ahora compite por una memoria cada vez más cara y escasa.",
+      "foto": {
+        "archivo": "assets/fotos/oblea.webp",
+        "alt": "Oblea de semiconductor siendo retirada de un equipo de procesado",
+        "credito": "Foto: Purdue Engineering · CC BY 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "TrendForce", "url": "https://www.trendforce.com/news/?p=65818", "fecha": "28 oct 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "Google, Microsoft, OpenAI y Anthropic respaldan un estándar común para bloquear el rastreo de las IA",
+      "entradilla": "Las cuatro empresas anunciaron el 30 de octubre su apoyo a un nuevo estándar de robots.txt -el archivo con el que las webs indican a los rastreadores automáticos qué pueden copiar- que permitirá a los editores bloquear de una sola vez el entrenamiento de varios modelos de IA, en lugar de tener que escribir una línea distinta para cada rastreador, como GPTBot o ClaudeBot.",
+      "reaccion": "El mecanismo, llamado «policy token», lo ha propuesto a la IETF -el organismo que fija los estándares técnicos de internet- el responsable de estándares de Anthropic, Kevin Kelley, que ya lo ha incorporado a sus propios rastreadores; según la cobertura del anuncio, Google y Microsoft lo aplicarán a partir de 2027 y OpenAI «en los próximos meses», mientras que Meta respalda la idea sin fecha confirmada todavía.",
+      "por_que_importa": "Que las mismas empresas que compiten por entrenar los modelos más potentes se pongan de acuerdo en una norma técnica para que los editores puedan frenarlas a todas a la vez reconoce, de forma indirecta, que el sistema actual de bloqueo -disperso entre decenas de rastreadores distintos- no protegía de verdad a quien no quería que sus contenidos entrenaran una IA.",
+      "foto": {
+        "archivo": "assets/fotos/biblioteca.webp",
+        "alt": "Estanterías de una biblioteca vistas desde el entresuelo",
+        "credito": "Foto: MSwierenga · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "SiliconAngle", "url": "https://siliconangle.com/?p=852608", "fecha": "30 oct 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "Los demócratas recuperan el Congreso de EE. UU. tras una campaña con un récord de anuncios políticos generados con IA",
+      "entradilla": "Los demócratas lograron el 3 de noviembre el control tanto de la Cámara de Representantes como del Senado, según las proyecciones de las principales cadenas estadounidenses, en una campaña marcada por el uso masivo de contenido generado con inteligencia artificial: según el Wesleyan Media Project, los partidos y sus comités gastaron más de 137 millones de dólares en al menos 220 anuncios hechos con IA.",
+      "reaccion": "Una base de datos académica de la Universidad Purdue documentó casi 500 piezas de contenido sintético o parcialmente generado con IA en esta campaña, con vídeos manipulados que acusaban falsamente a demócratas como Sherrod Brown, en Ohio, de hechos que nunca ocurrieron; pese a ello, los reguladores electorales de estados con leyes específicas contra estos contenidos, como Maryland, reconocen haber recibido solo un puñado de denuncias formales.",
+      "por_que_importa": "Que el primer gran proceso electoral tras la llegada masiva de generadores de vídeo e imagen con IA deje un récord de anuncios sintéticos, mezclados con los resultados reales, confirma que distinguir la propaganda política verdadera de la fabricada con IA se ha vuelto, por primera vez a esta escala, parte del propio proceso electoral estadounidense.",
+      "foto": {
+        "archivo": "assets/fotos/capitolio.webp",
+        "alt": "Vista completa del Capitolio de Estados Unidos",
+        "credito": "Foto: Noclip · Public domain · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CNN", "url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress", "fecha": "4 nov 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Koray Kavukcuoglu · vicepresidente sénior de Google DeepMind",
+      "que": "Presenta Gemini 4 Carbon como «nuestro modelo más potente, con capacidades de ciberseguridad y de tareas de larga duración de última generación», aunque de acceso restringido a defensores verificados.",
+      "cuando": "28 oct 2026",
+      "fuente": "Google DeepMind / Khaleej Times"
+    },
+    {
+      "quien": "Lisa Su · consejera delegada de AMD",
+      "que": "Tras el mejor trimestre de la historia de la compañía, dice esperar que el crecimiento se acelere aún más en el cuarto trimestre a medida que AMD escala la producción de sus chips Helios y «Venice».",
+      "cuando": "3 nov 2026",
+      "fuente": "AMD (comunicado de resultados)"
+    },
+    {
+      "quien": "Kevin Kelley · responsable de estándares de Anthropic",
+      "que": "Propone a la IETF el «policy token», un estándar común de robots.txt para que los editores puedan bloquear de una sola vez el entrenamiento de varias empresas de IA sobre sus contenidos.",
+      "cuando": "30 oct 2026",
+      "fuente": "SiliconAngle"
+    },
+    {
+      "quien": "Wesleyan Media Project",
+      "que": "Calcula que las campañas de las legislativas de EE. UU. gastaron más de 137 millones de dólares en al menos 220 anuncios generados con IA, varios de ellos con deepfakes de candidatos.",
+      "cuando": "oct 2026",
+      "fuente": "Tech Policy Press"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: la temporada de resultados confirma que la demanda de chips sigue intacta, mientras Anthropic sigue a la espera de poner precio a su salida a bolsa.",
+    "items": [
+      {
+        "empresa": "Anthropic",
+        "que": "Su folleto público, presentado el 26 de octubre, sigue sin precio ni número de acciones; por la norma de la SEC que exige esperar 15 días desde ese folleto, la presentación a inversores no podría arrancar antes del 10 de noviembre.",
+        "cuando": "26 oct - 4 nov 2026",
+        "fuente": "Bloomberg / Leverage Shares"
+      },
+      {
+        "empresa": "AMD y SK Hynix",
+        "que": "Certificaron con sus cuentas del tercer trimestre -ambas publicadas en la misma semana- que la demanda de chips para IA no da señales de frenarse: la primera, con su mejor trimestre histórico; la segunda, con su mayor beneficio operativo de siempre.",
+        "cuando": "28 oct - 3 nov 2026",
+        "fuente": "AMD / TrendForce"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "SK Hynix dice tener vendida toda su producción de memoria HBM y buena parte de su memoria convencional hasta 2029, cuatro años por delante del calendario habitual del sector.",
+    "Hoy, bloquear a los rastreadores de IA obliga a los editores a escribir una línea distinta de robots.txt para cada uno -GPTBot, ClaudeBot, Google-Extended...-; el estándar que propone Anthropic a la IETF quiere resumirlo en una sola."
+  ],
+  "glosario": {
+    "termino": "HBM (memoria de alto ancho de banda)",
+    "definicion": "Tipo de memoria RAM diseñada para mover datos mucho más rápido que la memoria convencional, colocando varias capas de chips apiladas junto al procesador. Es la pieza que, además de las GPU, ha disparado la demanda y el precio de los semiconductores con el auge de la inteligencia artificial."
+  }
+}
