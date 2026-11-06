@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-11-06",
+  "numero": "19",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Los votantes de EE. UU. rechazan los centros de datos de IA en casi todas las papeletas de las elecciones de mitad de mandato",
+      "entradilla": "En las legislativas del 3 de noviembre, los electores de al menos diez estados votaron más de cuarenta medidas locales sobre centros de datos de inteligencia artificial -moratorias, restricciones urbanísticas o nuevos impuestos-, y las papeletas que buscaban limitarlos se impusieron en 43 de 44 votaciones estatales y locales analizadas por Axios. Según Stateline, en Wells (Maine) más del 80% de los votantes respaldó incluso una moratoria retroactiva de 180 días a nuevos proyectos.",
+      "reaccion": "Una encuesta a pie de urna de NBC News halló que el 56% de los votantes consideró que la inteligencia artificial y los centros de datos fueron un factor «crucial o importante» en su voto al Congreso; Semafor señala que la oposición fue transversal, tanto en distritos demócratas como republicanos.",
+      "por_que_importa": "Que el rechazo a los centros de datos se traduzca en votos concretos, y no solo en encuestas, obliga por primera vez a toda la industria de la IA a tratar la resistencia vecinal como un problema político de primer orden, y no como un trámite burocrático que se resuelve ciudad por ciudad.",
+      "foto": {
+        "archivo": "assets/fotos/red-electrica.webp",
+        "alt": "Torres de líneas de alta tensión al atardecer",
+        "credito": "Foto: Kkiefuik · CC BY 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Semafor", "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures", "fecha": "4 nov 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "OpenAI quiere llamar «campus de computación» a sus centros de datos para suavizar el rechazo electoral",
+      "entradilla": "Axios adelantó el 1 de noviembre que OpenAI prepara, para el inicio de la sesión de transición del Congreso de EE. UU. el 9 de noviembre, una campaña de comunicación y presión política liderada por su responsable de asuntos globales, Chris Lehane, que incluye rebautizar sus centros de datos como «AI compute campuses» (campus de computación de IA), una etiqueta que la empresa defiende como más fiel a la escala de esas instalaciones.",
+      "reaccion": "La agenda también propone «límites de velocidad» obligatorios para los sistemas de IA más potentes y leyes estatales que den voz a los vecinos sobre estos proyectos; según recogieron varios medios, la propuesta está siendo acogida con escepticismo incluso entre congresistas, justo la semana en que los votantes castigaron en las urnas a los centros de datos.",
+      "por_que_importa": "Cambiar el nombre de una infraestructura polémica justo después de que los votantes se manifiesten en contra de ella, sin cambiar lo que esa infraestructura hace, es un ejercicio clásico de relaciones públicas que pone a prueba si el problema de fondo -el impacto local de los centros de datos- se puede resolver con palabras o solo con hechos.",
+      "foto": {
+        "archivo": "assets/fotos/data-center.webp",
+        "alt": "Pasillo de servidores en un centro de datos",
+        "credito": "Foto: BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Axios", "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy", "fecha": "1 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Sam Altman firma cuatro acuerdos con Abu Dabi mientras OpenAI negocia una nueva ronda de hasta 30.000 millones de dólares",
+      "entradilla": "El consejero delegado de OpenAI, Sam Altman, firmó el 2 de noviembre cuatro acuerdos en Abu Dabi que abren el gobierno del emirato, su petrolera estatal y un fondo soberano a los modelos de la empresa, en paralelo a unas negociaciones -reveladas antes por CNBC- para cerrar una ronda liderada por inversores de Emiratos Árabes Unidos.",
+      "reaccion": "Las informaciones no coinciden en el tamaño exacto de la operación -entre 20.000 y 30.000 millones de dólares, según el medio-, pero todas sitúan la valoración previa a la inversión en 1,25 billones de dólares, por debajo del 1,4 billones que la empresa buscaba en septiembre.",
+      "por_que_importa": "Que OpenAI dependa cada vez más de capital de fondos soberanos de Oriente Medio para financiar su expansión, justo cuando recorta sus propias aspiraciones de valoración, muestra hasta qué punto el coste de seguir en la cabeza de la carrera por la IA ha dejado de poder cubrirse solo con los inversores tradicionales de Silicon Valley.",
+      "foto": {
+        "archivo": "assets/fotos/fibra-optica.webp",
+        "alt": "Detalle de un cable de fibra óptica en un museo de la ciencia",
+        "credito": "Foto: Syced · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Enterprise AM", "url": "https://enterpriseam.com/ai/2026/11/02/uae-signs-four-new-openai-deals/", "fecha": "2 nov 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Google dejará sin buscador a los colegios de EE. UU. que bloqueen sus herramientas de IA",
+      "entradilla": "Google anunció el 3 de noviembre que a partir de principios de 2027 desactivará por defecto Gemini y el resto de sus funciones de inteligencia artificial en las cuentas escolares de primaria y secundaria, pero advirtió de que los centros que además opten por bloquear esa IA se quedarán, en esas mismas cuentas, sin acceso a su buscador, según informó The New York Times.",
+      "reaccion": "El vicepresidente de educación de Google, Chris Phillips, defendió ante el Times que «la Búsqueda y la IA están profundamente integradas»; la medida llega después de que ciudades como Nueva York y Los Ángeles impusieran restricciones temporales al uso de IA generativa en las aulas de primaria y secundaria.",
+      "por_que_importa": "Obligar a los colegios a elegir entre tener IA o perder el buscador, en lugar de ofrecer de verdad la opción de quedarse solo con lo segundo, traslada a las aulas una tensión que ya se vive en el resto de internet: la de unas herramientas cada vez más entrelazadas con la IA que dificultan optar únicamente por lo que ya se usaba antes.",
+      "foto": {
+        "archivo": "assets/fotos/biblioteca.webp",
+        "alt": "Estanterías de una biblioteca vistas desde el entresuelo",
+        "credito": "Foto: MSwierenga · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "TechCrunch", "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/", "fecha": "3 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "La industria de la IA ofrece dinero y empleo a las comunidades con centros de datos tras el varapalo electoral, tres senadores denuncian que no paga toda la factura",
+      "entradilla": "Tras el rechazo casi unánime del 3 de noviembre, Axios informó el 5 de noviembre de que empresas como Amazon, Microsoft y Google están ampliando sus promesas de cubrir el coste eléctrico de sus centros de datos, financiar mejoras de red y crear empleo local, en un giro hacia el dinero y las concesiones que se suma al cambio de nombre que ya promovía OpenAI.",
+      "reaccion": "Un informe de los senadores demócratas Elizabeth Warren, Richard Blumenthal y Chris Van Hollen, publicado el 9 de octubre bajo el título «Power and Profits», concluye que Amazon, Google, Meta, Microsoft y otras operadoras de centros de datos no cubren el coste completo de las mejoras de red que sus instalaciones obligan a construir, y que esa diferencia termina repercutiendo en la factura de los vecinos; según TechRadar Pro, los senadores acusan a las tecnológicas de haber «pagado de boquilla» sus compromisos anteriores.",
+      "por_que_importa": "Que el propio Senado documente que la factura de los nuevos cables y subestaciones recae en parte sobre los vecinos, y no solo sobre las empresas que construyen los centros de datos, da argumentos concretos a la ola de rechazo electoral y convierte una disputa antes técnica -quién paga la red eléctrica- en un asunto de primer orden político.",
+      "foto": {
+        "archivo": "assets/fotos/ciudad-noche.webp",
+        "alt": "Luces de una ciudad y su tráfico vistas de noche",
+        "credito": "Foto: formulanone · CC BY-SA 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Axios", "url": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions", "fecha": "5 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Un estudio calcula que la IA exigirá en EE. UU. la mayor apuesta económica de su historia: 10,3 billones de dólares hasta 2032",
+      "entradilla": "El profesor de la Columbia Business School Stijn Van Nieuwerburgh, en un trabajo presentado ante la Brookings Institution, calcula que la construcción de infraestructura de IA en EE. UU. absorberá de media un 3,6% del PIB cada año entre 2025 y 2032 -unos 10,3 billones de dólares en total-, una proporción mayor que la que alcanzó el auge del ferrocarril en el siglo XIX (2,24% del PIB). Idealista recogió el estudio el 6 de noviembre al situarlo como la mayor inversión en infraestructura de la historia del país.",
+      "reaccion": "El propio autor advirtió de que sería prematuro concluir que esa infraestructura ya representa un riesgo sistémico, aunque señaló que una parte creciente de la financiación se apoya en deuda privada, titulizaciones y vehículos de propósito especial en lugar de en capital tradicional; según sus cálculos, los ingresos de la IA tendrían que crecer en torno a un 80% al año hasta 2032 para que la inversión compense.",
+      "por_que_importa": "Poner cifra al tamaño de la apuesta -mayor, en proporción al PIB, que la de cualquier otra infraestructura económica de EE. UU.- ayuda a entender por qué un tropiezo serio en la rentabilidad de la IA podría tener consecuencias que van mucho más allá de la cotización de un puñado de tecnológicas.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Detalle de la parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Idealista (citando el estudio de la Columbia Business School para la Brookings Institution)", "url": "https://www.idealista.com/news/inmobiliario/internacional/2026/11/06/922846-la-inversion-en-ia-sera-la-mayor-de-la-historia-de-eeuu", "fecha": "6 nov 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Chris Lehane · responsable de asuntos globales de OpenAI",
+      "que": "Lidera la campaña de comunicación y presión política de OpenAI tras las elecciones, con el cambio de nombre a «campus de computación» y una propuesta de «límites de velocidad» obligatorios para los modelos más potentes.",
+      "cuando": "1 nov 2026",
+      "fuente": "Axios"
+    },
+    {
+      "quien": "Elizabeth Warren, Richard Blumenthal y Chris Van Hollen · senadores demócratas de EE. UU.",
+      "que": "Concluyen en su informe «Power and Profits» que Amazon, Google, Meta y Microsoft no cubren el coste completo de las mejoras de red eléctrica que exigen sus centros de datos, y que parte de esa factura recae en los vecinos.",
+      "cuando": "9 oct 2026",
+      "fuente": "Oficina de la senadora Warren / TechRadar Pro"
+    },
+    {
+      "quien": "Chris Phillips · vicepresidente de educación de Google",
+      "que": "Defiende ante The New York Times que «la Búsqueda y la IA están profundamente integradas», al justificar que los colegios que bloqueen la IA de Google pierdan también el acceso a su buscador.",
+      "cuando": "3 nov 2026",
+      "fuente": "The New York Times / TechCrunch"
+    },
+    {
+      "quien": "NBC News Decision Desk",
+      "que": "Su encuesta a pie de urna halla que el 56% de los votantes de las legislativas de EE. UU. consideró la inteligencia artificial y los centros de datos un factor «crucial o importante» en su voto al Congreso.",
+      "cuando": "3 nov 2026",
+      "fuente": "NBC News / Semafor"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: el peso de la inversión en infraestructura empieza a preocupar tanto como su rentabilidad futura.",
+    "items": [
+      {
+        "empresa": "Alphabet, Microsoft, Amazon, Meta y Oracle",
+        "que": "Sus compromisos de gasto en infraestructura de IA que no figuran en el balance -a través de acuerdos de compra a largo plazo y vehículos de financiación conjunta- suman en torno a 3,2 billones de dólares a finales de septiembre, según una recopilación de Nikkei.",
+        "cuando": "sept-nov 2026",
+        "fuente": "Nikkei"
+      },
+      {
+        "empresa": "Wall Street",
+        "que": "El Dow Jones subió más de 1.500 puntos tras conocerse el resultado de las legislativas del 3 de noviembre, mientras los valores de semiconductores y las grandes tecnológicas ligadas a la IA se movieron con más cautela, en medio de dudas sobre una regulación más dura para los centros de datos.",
+        "cuando": "4 nov 2026",
+        "fuente": "La Nación (Argentina), con datos de agencias"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "De las medidas sobre centros de datos que se votaron el 3 de noviembre en EE. UU., las que buscaban restringirlos se impusieron en 43 de las 44 votaciones estatales y locales que contabilizó Axios; solo una, en Dakota del Norte, no terminó del lado de la industria.",
+    "Según el estudio de la Columbia Business School, la inversión en infraestructura de IA en EE. UU. absorberá hasta 2032 una proporción del PIB mayor que la que alcanzó en su día el auge del ferrocarril en el siglo XIX."
+  ],
+  "glosario": {
+    "termino": "Capex (gasto de capital)",
+    "definicion": "El dinero que una empresa destina a comprar o construir activos de larga duración -como centros de datos, chips o edificios- en lugar de a gastos corrientes del día a día. El capex en infraestructura de IA de las grandes tecnológicas es la cifra que más preocupa a quienes advierten de una posible burbuja."
+  }
+}
