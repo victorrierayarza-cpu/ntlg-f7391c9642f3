@@ -4,3 +4,6 @@ ehthumb.db
 .DS_Store
 # Dependencias (no las usamos en la web, pero por si acaso)
 node_modules/
+
+# Documentación privada (contiene el enlace y datos internos): NO publicar
+DOCUMENTACION.md
