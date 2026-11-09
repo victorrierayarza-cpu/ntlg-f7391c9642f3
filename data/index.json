@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-09",
+      "titulo": "Google y OpenAI son demandados por el papel de sus chatbots en casos graves, el Nasdaq entra en corrección mientras Anthropic se prepara para salir a bolsa, y EE. UU. crea un grupo de trabajo contra la «superinteligencia»",
+      "prueba": false
+    },
+    {
       "fecha": "2026-11-06",
       "titulo": "Los votantes de EE. UU. rechazan los centros de datos de IA en las elecciones de mitad de mandato, OpenAI intenta rebautizarlos como «campus de computación», Sam Altman firma cuatro acuerdos con Abu Dabi y Google dejará sin buscador a los colegios que bloqueen su IA",
       "prueba": false
