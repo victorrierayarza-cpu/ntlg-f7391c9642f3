@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-11",
+      "titulo": "Anthropic lanza Claude Fable 5.2 e inicia el roadshow de su salida a bolsa, SoftBank sufre su primera pérdida trimestral en años por sus apuestas en IA y Nvidia investiga a Jensen Huang por un posible caso de espionaje",
+      "prueba": false
+    },
+    {
       "fecha": "2026-11-09",
       "titulo": "Google y OpenAI son demandados por el papel de sus chatbots en casos graves, el Nasdaq entra en corrección mientras Anthropic se prepara para salir a bolsa, y EE. UU. crea un grupo de trabajo contra la «superinteligencia»",
       "prueba": false

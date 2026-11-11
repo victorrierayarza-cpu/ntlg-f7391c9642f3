@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-11-11",
+  "numero": "21",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Anthropic lanza Claude Fable 5.2 y Mythos 5.2 a las puertas de su salida a bolsa",
+      "entradilla": "Anthropic presentó el 9 de noviembre dos actualizaciones de su familia de modelos: Claude Fable 5.2, disponible para cualquier usuario, y Claude Mythos 5.2, reservado a organizaciones verificadas a través de sus programas de verificación en ciberseguridad y ciencias de la vida. Según la propia empresa, ambos modelos generan sus respuestas hasta un 30% más rápido que sus antecesores Fable 5.1 y Mythos 5.1, y mantienen el mismo precio: 8 dólares por millón de tokens de entrada y 40 por millón de salida.",
+      "reaccion": "Anthropic explica que Fable y Mythos son «el mismo modelo subyacente», y que la versión Mythos se libera sin algunas de las salvaguardas de ciberseguridad y biología que sí lleva la versión pública. La propia compañía afirma que Mythos 5.2 «encontró un 10,2% más de vulnerabilidades que Claude Opus 5.5 y un 14,4% más que Claude Mythos 5.1», una cifra que de momento solo respalda la propia Anthropic.",
+      "por_que_importa": "La actualización llega apenas un día antes de que Anthropic iniciara el proceso de colocación de su salida a bolsa, en un momento en que demostrar avances técnicos frente a sus competidores pesa tanto en la percepción de los inversores como en la de los clientes.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Código fuente en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Anthropic (comunicado oficial)", "url": "https://www.anthropic.com/news/claude-fable-and-mythos-5-2", "fecha": "9 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "SoftBank sufre su primera pérdida trimestral en casi dos años por el coste de sus apuestas en IA",
+      "entradilla": "SoftBank Group comunicó el 10 de noviembre una pérdida neta de unos 1,12 billones de yenes (en torno a 7.000 millones de dólares) entre julio y septiembre, frente a un beneficio de 2,5 billones de yenes en el mismo trimestre del año anterior. El resultado decepcionó ampliamente las previsiones: ocho analistas consultados por Bloomberg esperaban un beneficio de unos 129.000 millones de yenes.",
+      "reaccion": "Buena parte de la pérdida procede de un cargo de unos 3.700 millones de dólares por cambios en los planes de equipos de generación eléctrica para los centros de datos de IA de SoftBank en EE. UU., junto a un fuerte aumento de los costes de financiación. La división Vision Fund, que invierte en cientos de start-ups tecnológicas, aportó además una pérdida de 81.600 millones de yenes. Las acciones de SoftBank acumulan una caída de más de un 50% desde su máximo histórico de junio.",
+      "por_que_importa": "Que el mayor valedor financiero de OpenAI registre pérdidas achacables en gran parte a la factura energética de sus propios centros de datos de IA, justo cuando el mercado ya dudaba de la rentabilidad del sector, añade un argumento concreto a quienes advierten de que el gasto en infraestructura de IA se está adelantando a los ingresos que genera.",
+      "foto": {
+        "archivo": "assets/fotos/data-center.webp",
+        "alt": "Pasillo de servidores en un centro de datos",
+        "credito": "Foto: BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Benzinga", "url": "https://www.benzinga.com/markets/earnings/26/11/63106347/softbanks-profit-reversal-highlights-growing-financial-strain-behind-ai-expansion", "fecha": "10 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "OpenAI corta este jueves el acceso de Cursor a sus modelos, en plena pugna entre Altman y Musk",
+      "entradilla": "OpenAI anunció el 29 de agosto que retiraría a Cursor el acceso a sus modelos después de que SpaceX comprara ese editor de código asistido por IA, y fijó el 12 de noviembre de 2026 -este jueves- como fecha límite, el máximo plazo de preaviso permitido por su contrato. OpenAI alega que no puede confiar en que SpaceX respete sus condiciones de uso, citando «incumplimientos de contrato anteriores» de otras empresas de Elon Musk.",
+      "reaccion": "El consejero delegado de Cursor sostiene que los modelos de OpenAI representan solo alrededor del 5% del tráfico de sus usuarios, una cifra que varios comentaristas han puesto en duda. A partir del jueves, los desarrolladores que dependan específicamente de los modelos de OpenAI dentro de Cursor tendrán que usar su propia clave de API o recurrir a otros proveedores, como Anthropic o pasarelas como Amazon Bedrock o Azure.",
+      "por_que_importa": "El corte formaliza en forma de contrato comercial la rivalidad personal entre Sam Altman y Elon Musk, y deja a la vista cómo el creciente entramado de alianzas y adquisiciones cruzadas en la industria de la IA puede alterar, de un día para otro, qué modelo usa una herramienta que millones de programadores dan por hecho que seguirá funcionando igual.",
+      "foto": {
+        "archivo": "assets/fotos/san-francisco.webp",
+        "alt": "El puente Golden Gate y el perfil de San Francisco al atardecer",
+        "credito": "Foto: Daniel L. Lu (user:dllu) · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Business Today", "url": "https://businesstoday.in/technology/story/openai-vs-elon-musk-why-cursor-is-losing-access-to-openai-models-from-november-12-552049-2026-08-29", "fecha": "29 ago 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "Nvidia abre una investigación sobre su propio consejero delegado por un posible caso de espionaje chino",
+      "entradilla": "El consejo de administración de Nvidia anunció el 8 de noviembre una investigación independiente, a cargo de un comité de consejeros externos, tras informaciones de prensa según las cuales Jensen Huang habría sido objeto de una operación de inteligencia extranjera. Los informes señalan a Alice Huang, ejecutiva de la empresa Megaspeed con sede en Singapur -sin relación de parentesco con el consejero delegado-, a quien algunos funcionarios de inteligencia estadounidenses sospechan de pasar información a Pekín.",
+      "reaccion": "El propio consejo afirma que no tiene motivos para creer que se haya comprometido la seguridad nacional, y la empresa ha confirmado que Huang seguirá al frente mientras dura la investigación. En un mensaje interno a la plantilla, Huang reconoció haber sido «infiel» a su esposa, dijo que cooperará plenamente y pidió privacidad para su familia.",
+      "por_que_importa": "Que el consejo de la empresa más valiosa de la industria de la IA investigue a su propio fundador por un posible vínculo con espionaje extranjero, justo cuando Washington y Pekín libran una disputa abierta por el acceso a sus chips más avanzados, añade una capa de incertidumbre personal a una compañía que los mercados tratan como el termómetro de todo el sector.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Detalle de la parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Nvidia (comunicado oficial del consejo)", "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors", "fecha": "8 nov 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "China somete a consulta pública un control de exportación que afectaría a sus modelos de IA más potentes",
+      "entradilla": "Los ministerios de Comercio y de Ciencia y Tecnología de China publicaron el 16 de octubre un borrador que añade 40 tecnologías a su catálogo de exportaciones controladas, 23 de ellas relacionadas con la inteligencia artificial: grandes modelos de lenguaje, agentes de IA, clústeres de computación y el diseño de chips de 14 nanómetros o menos. La consulta pública permanece abierta hasta el 15 de noviembre, y ya existe un registro previo a la exportación obligatorio con carácter provisional para esas tecnologías.",
+      "reaccion": "Según la cobertura especializada, el borrador restringiría la exportación de modelos de más de dos billones de parámetros y de aquellos entrenados con los llamados «datos núcleo» del país -información considerada sensible para la seguridad nacional o la economía-. No está claro si una eventual norma final afectaría solo a futuros modelos o también a los que ya están disponibles fuera de China, algo que, en la práctica, sería imposible revertir una vez publicados sus pesos.",
+      "por_que_importa": "Si Pekín formaliza estos controles, Estados Unidos y China tendrían en vigor, por primera vez de forma simétrica, restricciones a la exportación de sus modelos de IA más avanzados, lo que endurecería aún más la fragmentación tecnológica entre ambos bloques.",
+      "foto": {
+        "archivo": "assets/fotos/shanghai.webp",
+        "alt": "Vista panorámica de los rascacielos de Shanghái",
+        "credito": "Foto: King of Hearts · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "ITV News", "url": "https://www.itv.com/news/2026-10-16/china-moves-to-curb-tech-exports-including-for-ai-and-solar", "fecha": "16 oct 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Un sistema de IA de Microsoft diagnostica correctamente más del doble de casos complejos que los médicos",
+      "entradilla": "Microsoft publicó a finales de octubre en la revista Science los resultados de MAI-DxO, un sistema que coordina varios agentes de IA para preguntar al paciente, pedir pruebas y sopesar un diagnóstico. En una simulación con casos clínicos complejos, identificó correctamente el 83% de los casos, frente al 36% de médicos generalistas que podían consultar material de referencia, y lo hizo gastando menos en pruebas diagnósticas.",
+      "reaccion": "Los propios autores matizan que buena parte de la mejora procede de los modelos de IA subyacentes -que incluyen a Claude, Gemini y Grok, además de modelos de OpenAI-, y no solo del sistema de Microsoft que los coordina. Los autores insisten en que el resultado no justifica sustituir a los médicos: se trata de una simulación con información escrita de casos ya resueltos, no de una prueba en pacientes reales.",
+      "por_que_importa": "Un diagnóstico equivocado o tardío puede costar la vida, así que una mejora de esta magnitud en un entorno controlado -aunque todavía lejos de la práctica clínica real- apunta a que la IA podría convertirse antes en una herramienta médica que en casi cualquier otro oficio de alta cualificación.",
+      "foto": {
+        "archivo": "assets/fotos/laboratorio.webp",
+        "alt": "Persona realizando un análisis de laboratorio",
+        "credito": "Foto: Jakub Šlégr · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Singularity Hub", "url": "https://singularityhub.com/2026/11/04/microsofts-medical-ai-is-over-twice-as-good-diagnosing-diseases-as-doctors/", "fecha": "4 nov 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Jensen Huang · consejero delegado de Nvidia",
+      "que": "En un mensaje interno a la plantilla, reconoce haber sido infiel a su esposa, dice que apoya la investigación del consejo y pide privacidad para su familia.",
+      "cuando": "8 nov 2026",
+      "fuente": "Nvidia (comunicado oficial) / cobertura recogida por letsdatascience"
+    },
+    {
+      "quien": "Tres presidentes de comités de la Cámara de Representantes de EE. UU.",
+      "que": "Solicitan una sesión informativa a puerta cerrada con Jensen Huang, fijada para el 18 de noviembre, sobre los vínculos reportados con una operación de inteligencia extranjera.",
+      "cuando": "información conocida la semana del 9 nov 2026",
+      "fuente": "Tech Insider"
+    },
+    {
+      "quien": "Ministerio de Comercio de China",
+      "que": "Justifica el borrador de controles a la exportación de tecnología de IA por motivos de seguridad nacional, dentro de una revisión más amplia que también afecta a biotecnología y energía solar.",
+      "cuando": "16 oct 2026",
+      "fuente": "ITV News / Cybernews"
+    },
+    {
+      "quien": "OpenAI (comunicado oficial)",
+      "que": "Explica que corta el acceso de Cursor a sus modelos porque no puede confiar en que SpaceX, tras comprar la empresa, respete sus condiciones de uso, citando incumplimientos de contrato anteriores de otras empresas de Elon Musk.",
+      "cuando": "29 ago 2026",
+      "fuente": "Business Today"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: Anthropic ya está en la carretera de su salida a bolsa y Wall Street respira tras el susto de la semana pasada.",
+    "items": [
+      {
+        "empresa": "Anthropic",
+        "que": "Inició el 10 de noviembre la ronda de presentaciones a inversores («roadshow») de su salida a bolsa en el Nasdaq, el paso previo a fijar el precio y el número de acciones que ofrecerá bajo el símbolo ANT.",
+        "cuando": "10 nov 2026",
+        "fuente": "Anthropic (comunicado oficial)"
+      },
+      {
+        "empresa": "Nasdaq y fabricantes de chips",
+        "que": "El índice Nasdaq 100 subió un 3,3% el 10 de noviembre y el índice de semiconductores Philadelphia (SOX) recuperó un 6,6%, tras la peor semana del sector desde marzo de 2025; Nvidia, sin embargo, siguió cayendo, lastrada por la investigación sobre Jensen Huang.",
+        "cuando": "9-10 nov 2026",
+        "fuente": "StockAnalysis.com"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "La pérdida trimestral de SoftBank fue tan inesperada que los analistas consultados por Bloomberg habían pronosticado, de media, un beneficio de unos 129.000 millones de yenes, no una pérdida de 1,12 billones.",
+    "Según Anthropic, su nuevo modelo Mythos 5.2 encontró un 10,2% más de vulnerabilidades de seguridad que el propio Claude Opus 5.5, el modelo insignia de la compañía hasta ahora."
+  ],
+  "glosario": {
+    "termino": "Roadshow (salida a bolsa)",
+    "definicion": "La ronda de presentaciones que los directivos de una empresa hacen ante grandes inversores institucionales justo antes de salir a bolsa, para generar interés y calibrar cuánto estarían dispuestos a pagar por sus acciones. Suele durar una o dos semanas y termina con la fijación del precio final de la oferta."
+  }
+}
