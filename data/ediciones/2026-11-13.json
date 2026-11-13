@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-11-13",
+  "numero": "22",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Anthropic fija el precio de su salida a bolsa: entre 70 y 78 dólares por acción, con el debut previsto para el 19 de noviembre",
+      "entradilla": "Anthropic inició el 10 de noviembre el tramo final de su oferta pública inicial: ofrecerá 825 millones de acciones de clase A, con un precio orientativo de entre 70 y 78 dólares cada una, de las que 801,3 millones las vende la propia compañía y el resto accionistas ya existentes. Según su propio comunicado, cotizará en el Nasdaq bajo el símbolo «ANT»; varios medios económicos, citando fuentes cercanas a la operación, sitúan la fijación final del precio el 18 de noviembre y el inicio de la cotización al día siguiente.",
+      "reaccion": "La operación incluye una colocación privada paralela de 26.000 millones de dólares en acciones de clase N, sin derecho a voto, reservada a socios tecnológicos de la empresa. Con ese rango de precios, varias casas de análisis calculan que Anthropic buscaría una valoración algo superior a 1,3 billones de dólares, cifra que la compañía no ha confirmado de forma oficial.",
+      "por_que_importa": "Si se confirma, sería una de las mayores salidas a bolsa tecnológicas de los últimos años, y su acogida en el Nasdaq —en plena desconfianza inversora hacia el gasto en infraestructura de IA— se leerá como un termómetro de si Wall Street sigue dispuesta a pagar valoraciones tan altas por empresas de inteligencia artificial que todavía no son rentables.",
+      "foto": {
+        "archivo": "assets/fotos/ciudad-noche.webp",
+        "alt": "Luces de una ciudad y su tráfico vistas de noche",
+        "credito": "Foto: formulanone · CC BY-SA 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Anthropic (comunicado oficial)", "url": "https://www.anthropic.com/news/roadshow-launch", "fecha": "10 nov 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "Una función de Claude Code para «no preguntar más» deja miles de contraseñas y claves expuestas en GitHub",
+      "entradilla": "La firma de seguridad Apiiro reveló a comienzos de noviembre que la opción «Yes, and don't ask again» de Claude Code, el asistente de programación de Anthropic, guarda el comando aprobado en un archivo de configuración del proyecto, contraseñas y claves incluidas si estaban escritas en él. Apiiro dice haber hallado secretos reales en más de mil copias públicas de ese archivo en GitHub, repartidas en casi dos mil repositorios.",
+      "reaccion": "Boris Cherny, responsable de Claude Code en Anthropic, reconoció en el foro Hacker News que la herramienta «históricamente no ha hecho limpieza de secretos» y dijo que el equipo estudia cómo evitarlo, por ejemplo con un escaneo básico antes de guardar el archivo. Apiiro sostiene, por su parte, que ya se habían reportado casos similares desde agosto de 2025 sin respuesta de la compañía, algo que no hemos podido verificar de forma independiente.",
+      "por_que_importa": "Borrar el archivo después no retira los secretos ya subidos al historial de git ni a posibles copias del repositorio, así que cualquier credencial expuesta debe darse por comprometida y renovarse; el caso recuerda que las comodidades de los asistentes de IA para programar pueden abrir vías de fuga de seguridad poco visibles para quien las activa.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Código fuente en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "iTnews", "url": "https://www.itnews.com.au/news/dont-ask-again-in-anthropics-claude-code-leaks-developer-secrets-630203", "fecha": "10 nov 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "El Reino Unido cierra hoy la consulta sobre si Microsoft domina el software empresarial y la IA de oficina",
+      "entradilla": "La Autoridad de Competencia y Mercados británica (CMA) recibe hasta hoy, 13 de noviembre, las respuestas a su consulta sobre si debe declarar a Microsoft con «estatus de mercado estratégico» en software empresarial, un proceso abierto en mayo bajo el nuevo régimen de mercados digitales del país. La investigación abarca su suite de productividad, los sistemas operativos de PC y servidor, las bases de datos y el software de seguridad de la empresa, y examina también si los servicios de IA de la competencia pueden integrarse en su software de oficina.",
+      "reaccion": "La CMA ya había concluido en una investigación previa sobre la nube que las condiciones de licencia de Microsoft reducían la competencia en ese mercado en el Reino Unido; una declaración de estatus estratégico le permitiría actuar sobre esa conclusión. Microsoft sostiene que afronta una competencia intensa en software empresarial y que su integración de IA beneficia a los clientes.",
+      "por_que_importa": "La decisión final, esperada para febrero de 2027, podría obligar a Microsoft a abrir su ecosistema de oficina y nube a rivales de IA en el Reino Unido, justo cuando Bruselas y Washington examinan por vías distintas el mismo nudo: hasta qué punto las grandes plataformas pueden atar sus servicios de IA a su software dominante.",
+      "foto": {
+        "archivo": "assets/fotos/fibra-optica.webp",
+        "alt": "Fibra óptica expuesta en un museo de la ciencia",
+        "credito": "Foto: Syced · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "GOV.UK (CMA, comunicado oficial)", "url": "https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software", "fecha": "14 may 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Un análisis de Goldman Sachs halla que los despidos más ligados a la IA tardan un mes más en resolverse",
+      "entradilla": "El economista Pierfrancesco Mei, de Goldman Sachs, analizó más de 15.000 despidos ocurridos en EE. UU. entre 2016 y 2025 y encontró que las personas cuyo puesto encajaba con perfiles más expuestos a la IA —según su ocupación, el ritmo de adopción de la IA en su sector y si la plaza se eliminó del todo— tardaron, de media, un mes más en encontrar un nuevo empleo que el resto de despedidos.",
+      "reaccion": "Los propios economistas de Goldman Sachs reconocen que «todavía es demasiado pronto para evaluar el impacto» en todas sus dimensiones. Otros datos apuntan en la misma dirección por una vía distinta: la consultora de empleo Challenger, Gray & Christmas atribuye a la IA en torno al 17-22% de los recortes de plantilla anunciados en EE. UU. este año, aunque una encuesta de Gallup solo identificó la IA como causa principal en el 1% de los despidos entre los parados que perdieron su empleo por un cese de personal.",
+      "por_que_importa": "La brecha entre lo que sienten los trabajadores y lo que miden los economistas sugiere que, de momento, la IA presiona el mercado laboral menos a través de despidos masivos y más alargando la búsqueda de empleo y endureciendo la contratación, un efecto más difícil de ver en los titulares pero igual de real para quien lo sufre.",
+      "foto": {
+        "archivo": "assets/fotos/robot-industrial.webp",
+        "alt": "Brazo robótico industrial manipulando piezas en una fábrica",
+        "credito": "Foto: Shixart1985 · CC BY 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Axios", "url": "https://www.axios.com/2026/11/03/ai-employment-technology-goldman-sachs", "fecha": "3 nov 2026" }
+    },
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Meta lanza Muse Ember, su modelo de IA más barato, pensado para tareas repetitivas de agentes",
+      "entradilla": "Meta Superintelligence Labs presentó el 9 de noviembre Muse Ember, el miembro más ligero y económico de su familia de modelos Muse, pensado para el trabajo de gran volumen de los agentes de IA —llamadas a herramientas, subtareas de programación, extracción de datos— mientras el modelo mayor de la familia, Muse Wonder, se reserva para la planificación más compleja.",
+      "reaccion": "Meta afirma que Ember rinde mejor por dólar gastado que Claude Haiku 5.5 y GPT-6 Luna, y la firma independiente Artificial Analysis calcula su coste en 0,14 dólares por tarea de su índice de inteligencia, frente a los 2,39 dólares que atribuye al propio Muse Spark de Meta; estas comparativas de rendimiento, no obstante, no han sido verificadas por evaluadores totalmente independientes de la industria. Como en el resto de la familia Muse, Meta no publica los pesos del modelo en abierto.",
+      "por_que_importa": "La carrera por la IA ya no se libra solo por quién tiene el modelo más potente, sino también por quién ofrece el más barato para las tareas repetitivas que, multiplicadas por millones de llamadas, determinan el coste real de operar agentes de IA a gran escala.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Detalle de la parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "TechCrunch (recogido por letsdatascience)", "url": "https://letsdatascience.com/news/meta-releases-muse-ember-a-low-cost-model-for-agent-executio-7b564cff", "fecha": "9 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Huawei estrecha la distancia con Nvidia en el mercado chino de chips de IA, y DeepSeek recurriría a sus procesadores para entrenar su próximo modelo",
+      "entradilla": "La ventaja de Nvidia sobre Huawei en el mercado chino de aceleradores de IA se ha reducido en torno a un 80% en el último año, según datos de Digitimes, en un contexto en el que Washington restringe la venta de los chips más avanzados a China y Pekín demora la aprobación de importaciones de los que sí se permiten. Por separado, Digitimes informó el 4 de noviembre de que DeepSeek planea usar los chips Ascend 950 de Huawei como hardware principal para entrenar su próximo modelo, V5, lo que ampliaría su colaboración del uso en inferencia al entrenamiento completo.",
+      "reaccion": "El presidente rotatorio de Huawei, Eric Xu, sostiene que los chips Ascend ya superan a Nvidia en cuota de mercado en China, aunque no ha presentado cifras que lo respalden y la propia demanda interna china, según reconoce la empresa, todavía no está cubierta del todo. Mientras tanto, cerca de 600.000 chips H200 de Nvidia permanecen almacenados en Hong Kong a la espera de que Pekín autorice su importación a gran escala, según Reuters.",
+      "por_que_importa": "Si DeepSeek confirma que entrenará con hardware chino en vez de con chips de Nvidia, sería una señal de que al menos una parte de la industria de IA china avanza hacia independizarse de la tecnología estadounidense, justo cuando los controles a la exportación llevan dos años intentando frenar precisamente eso.",
+      "foto": {
+        "archivo": "assets/fotos/oblea.webp",
+        "alt": "Una oblea de semiconductor siendo retirada de un equipo de procesado",
+        "credito": "Foto: Purdue Engineering · CC BY 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Digitimes", "url": "https://www.digitimes.com/tag/ascend/00113504.html", "fecha": "4 nov 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Boris Cherny · responsable de Claude Code en Anthropic",
+      "que": "Reconoce en el foro Hacker News que la herramienta «históricamente no ha hecho limpieza de secretos» en sus archivos de configuración, y dice que el equipo estudia soluciones, como un escaneo básico antes de guardarlos.",
+      "cuando": "en torno al 10 nov 2026",
+      "fuente": "Hacker News, recogido por iTnews y devops.com"
+    },
+    {
+      "quien": "Cloudflare (comunicado)",
+      "que": "Anuncia que bloqueará, en nombre de sus clientes, a los rastreadores de IA que no se identifiquen con claridad en las webs que ya veten el entrenamiento, para reforzar la señal común en robots.txt que Anthropic, OpenAI, Google y Microsoft dijeron en octubre que empezarían a respetar, cada una con un plazo distinto.",
+      "cuando": "finales oct / principios nov 2026",
+      "fuente": "ppc.land"
+    },
+    {
+      "quien": "Microsoft (comunicado)",
+      "que": "Responde a la investigación de competencia del Reino Unido defendiendo que afronta una competencia intensa en software empresarial y que su integración de IA beneficia a los clientes.",
+      "cuando": "13 nov 2026",
+      "fuente": "TechRadar Pro"
+    },
+    {
+      "quien": "Encuesta de Resume Genius a trabajadores despedidos en EE. UU.",
+      "que": "El 53% de los encuestados cree que la IA o la automatización influyó en su despido, frente a solo el 1% de los parados por un cese de personal que, según una encuesta distinta de Gallup, señaló a la IA como causa principal. Tratamos ambas cifras como un indicio, no como una medición definitiva.",
+      "cuando": "nov 2026",
+      "fuente": "Resume Genius / Gallup, recogido por Axios"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: Anthropic ultima el precio de su opv y Nvidia espera sus resultados con la lupa puesta en su consejero delegado.",
+    "items": [
+      {
+        "empresa": "Anthropic",
+        "que": "Busca una valoración algo superior a 1,3 billones de dólares en su salida a bolsa, con una colocación privada paralela de 26.000 millones de dólares en acciones de clase N reservada a socios tecnológicos de la empresa.",
+        "cuando": "10 nov 2026",
+        "fuente": "Anthropic (comunicado oficial) / cobertura económica"
+      },
+      {
+        "empresa": "Nvidia",
+        "que": "Sus acciones siguen presionadas por la investigación sobre vínculos de Jensen Huang con una operación de inteligencia extranjera; la empresa presenta resultados de su tercer trimestre fiscal el 17 de noviembre, con el mercado pendiente de si el episodio ha afectado a la demanda de sus chips.",
+        "cuando": "semana del 9 nov 2026",
+        "fuente": "Al Jazeera"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "Apiiro analizó 104.185 copias públicas del archivo de configuración de Claude Code en GitHub y halló secretos reales en más de mil de ellas; según la propia firma, algunos desarrolladores habían reportado el problema desde agosto de 2025 sin respuesta de Anthropic.",
+    "El nuevo modelo más barato de Meta, Muse Ember, cuesta 0,10 dólares por millón de tokens de entrada; Artificial Analysis calcula que el propio modelo insignia de Meta, Muse Spark, cuesta 2,39 dólares por tarea de su índice de inteligencia."
+  ],
+  "glosario": {
+    "termino": "robots.txt",
+    "definicion": "Un archivo de texto que cualquier web puede colocar en su dirección principal para indicar a los rastreadores automáticos —de buscadores o, cada vez más, de IA— qué partes del sitio pueden recorrer y para qué. Anthropic, OpenAI, Google y Microsoft anunciaron en octubre que respetarán en él una misma instrucción para que los editores veten con una sola línea el entrenamiento de sus modelos, aunque cada empresa prevé empezar a cumplirlo en un plazo distinto."
+  }
+}

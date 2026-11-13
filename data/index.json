@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-13",
+      "titulo": "Anthropic fija el precio de su salida a bolsa entre 70 y 78 dólares, una función de Claude Code deja miles de contraseñas expuestas en GitHub y el Reino Unido cierra la consulta sobre si Microsoft domina el software empresarial y la IA",
+      "prueba": false
+    },
+    {
       "fecha": "2026-11-11",
       "titulo": "Anthropic lanza Claude Fable 5.2 e inicia el roadshow de su salida a bolsa, SoftBank sufre su primera pérdida trimestral en años por sus apuestas en IA y Nvidia investiga a Jensen Huang por un posible caso de espionaje",
       "prueba": false
