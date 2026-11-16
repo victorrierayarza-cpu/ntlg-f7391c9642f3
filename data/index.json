@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-16",
+      "titulo": "Google DeepMind presenta un robot que triunfa en una fábrica de Mercedes-Benz y un modelo de ADN, Mistral libera en abierto su modelo insignia europeo, CoreWeave y Oracle disparan su deuda para financiar la IA, y Bruselas cierra la consulta sobre cómo sancionará la Ley de IA",
+      "prueba": false
+    },
+    {
       "fecha": "2026-11-13",
       "titulo": "Anthropic fija el precio de su salida a bolsa entre 70 y 78 dólares, una función de Claude Code deja miles de contraseñas expuestas en GitHub y el Reino Unido cierra la consulta sobre si Microsoft domina el software empresarial y la IA",
       "prueba": false

@@ -1,0 +1,137 @@
+{
+  "fecha": "2026-11-16",
+  "numero": "23",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Google DeepMind presenta un robot que empaqueta piezas en una fábrica real de Mercedes-Benz y un modelo que predice el efecto de las mutaciones genéticas",
+      "entradilla": "Google DeepMind anunció el 10 y el 11 de noviembre dos modelos distintos: Gemini Robotics 2.5, su sistema de visión-lenguaje-acción más avanzado hasta ahora para controlar robots físicos, y AlphaGenome 2, que predice cómo una variante del ADN altera la actividad de un gen en un tipo concreto de célula humana. En una prueba piloto en plantas de Mercedes-Benz en Alemania y Hungría, un robot humanoide equipado con el nuevo modelo logró un 96% de aciertos empaquetando piezas del automóvil, y la compañía asegura que el sistema completa sus tareas entre un 20% y un 30% más rápido que la versión anterior.",
+      "reaccion": "Según la propia Google, el sistema todavía no está disponible de forma general: por ahora solo llega a socios de robótica como Apptronik, Agile Robots y Boston Dynamics, y las cifras de rendimiento proceden de pruebas internas de la empresa, sin verificación independiente por ahora. AlphaGenome 2, entrenado con más de 100 millones de perfiles de células individuales, es gratuito para investigación no comercial, pero DeepMind insiste en que no está validado para uso clínico ni diagnóstico.",
+      "por_que_importa": "Combinar en los mismos días un robot que manipula piezas reales y un modelo que lee el ADN resume hacia dónde quiere llevar Google la inteligencia artificial: de generar texto e imágenes a intervenir directamente en fábricas y en la investigación biomédica, dos terrenos donde un fallo tiene consecuencias físicas y no solo una respuesta equivocada en un chat.",
+      "foto": {
+        "archivo": "assets/fotos/robot-industrial.webp",
+        "alt": "Brazo robótico industrial manipulando piezas en una fábrica",
+        "credito": "Foto: Shixart1985 · CC BY 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Google DeepMind (blog oficial)", "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/", "fecha": "10 nov 2026" }
+    },
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Mistral libera en abierto los pesos de su modelo insignia, de un billón de parámetros, como apuesta europea por la soberanía en IA",
+      "entradilla": "La start-up francesa Mistral AI publicó el 29 de octubre los pesos abiertos de Mistral Large 4, su modelo insignia, de alrededor de un billón de parámetros y entrenado en infraestructura europea, tres semanas después de ofrecer una vista previa pública del mismo modelo. Solo unos 52.000 millones de esos parámetros se activan a la vez para generar cada respuesta, lo que según la empresa abarata su uso frente a modelos de tamaño similar.",
+      "reaccion": "Mistral afirma que es el mejor modelo abierto del mundo en tareas de programación y ciberseguridad, aunque esa comparación procede de sus propias pruebas internas y no ha sido confirmada por laboratorios independientes. La empresa lo distribuye con una licencia propia -una adaptación de la licencia abierta MIT- y lo presenta como parte de su estrategia de ofrecer «soberanía» tecnológica a gobiernos y empresas europeas.",
+      "por_que_importa": "Que un modelo de este tamaño se publique en abierto da a Europa una alternativa real a depender de infraestructura estadounidense o china para sus sistemas de IA, justo cuando la soberanía tecnológica se ha convertido en un argumento político tanto en Bruselas como en París.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Código fuente en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Mistral AI (comunicado oficial)", "url": "https://mistral.ai/news/mistral-large-4-oss/", "fecha": "29 oct 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "CoreWeave dispara sus ingresos un 168% y bate su récord de contratos, pero su pérdida trimestral también se amplía",
+      "entradilla": "CoreWeave, uno de los mayores proveedores de infraestructura en la nube especializada en IA, presentó el 10 de noviembre unos ingresos trimestrales de unos 3.660 millones de dólares -un 168% más que hace un año- y elevó su previsión de ingresos para todo 2026 a entre 13.000 y 13.300 millones. Su cartera de contratos ya firmados (su «backlog») alcanzó un récord de 132.500 millones de dólares, frente a los cerca de 104.000 millones del trimestre anterior.",
+      "reaccion": "La otra cara de esos números es que la pérdida neta del trimestre se amplió a unos 709 millones de dólares, frente a 110 millones en el mismo periodo del año anterior, mientras la empresa sigue acumulando deuda para financiar la construcción de sus centros de datos. Su consejero delegado, Michael Intrator, destacó que el margen operativo ajustado alcanzó cifras de dos dígitos «un trimestre antes de lo previsto».",
+      "por_que_importa": "CoreWeave es uno de los termómetros más vigilados por los inversores para medir si la demanda real de computación para IA justifica el ritmo de gasto en centros de datos, o si las grandes cifras de contratos firmados esconden una dependencia cada vez mayor de la deuda para sostener un negocio que todavía no es rentable.",
+      "foto": {
+        "archivo": "assets/fotos/data-center.webp",
+        "alt": "Pasillo de servidores en un centro de datos",
+        "credito": "Foto: BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CoreWeave (comunicado oficial)", "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx", "fecha": "10 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Oracle coloca 20.000 millones de dólares en deuda y acciones para seguir financiando su expansión en infraestructura de IA",
+      "entradilla": "Oracle anunció el 2 de noviembre la colocación de 20.000 millones de dólares en acciones y bonos -unos 9.900 millones en acciones ordinarias a 116 dólares cada una, y unos 10.000 millones repartidos en cinco tramos de bonos a distintos plazos, con intereses de entre el 7% y el 8,65%- para seguir financiando su expansión en infraestructura de IA.",
+      "reaccion": "Las acciones de Oracle llegaron a caer más de un 6% el día del anuncio. La compañía ya arrastraba una deuda total cercana a los 125.000 millones de dólares a finales de agosto, y desde enero afronta una demanda de un grupo de bonistas -liderado por un fondo de pensiones- que acusa a la empresa y a su fundador, Larry Ellison, de haber ocultado en una emisión de deuda anterior que ya planeaba pedir más préstamos para financiar su contrato de computación con OpenAI.",
+      "por_que_importa": "Oracle se ha convertido en una de las grandes apuestas por la infraestructura de IA gracias a su contrato de 300.000 millones de dólares con OpenAI, pero cada nueva ronda de deuda alimenta la pregunta de si el gasto de las tecnológicas en centros de datos se está adelantando demasiado a los ingresos reales que genera la IA.",
+      "foto": {
+        "archivo": "assets/fotos/fibra-optica.webp",
+        "alt": "Fibra óptica expuesta en un museo de la ciencia",
+        "credito": "Foto: Syced · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Oracle (comunicado oficial)", "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Pricing-of-20-Billion-of-Common-Stock-and-Senior-Notes/default.aspx", "fecha": "2 nov 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "La Comisión Europea cierra la consulta sobre cómo sancionará el incumplimiento de la Ley de IA, mientras el «ómnibus digital» retrasa sus exigencias más duras",
+      "entradilla": "La Comisión Europea cerró el 9 de noviembre la consulta pública sobre un reglamento de ejecución que fija cómo tramitará sus propios procedimientos sancionadores contra incumplimientos graves de la Ley de IA -los artículos 75c y 75d del reglamento-, incluyendo el acceso al expediente, las garantías procesales de las empresas investigadas y los plazos de prescripción de las multas.",
+      "reaccion": "El trámite se enmarca en el paquete de simplificación conocido como «ómnibus digital sobre IA», adoptado por la UE en julio, que entre otros cambios retrasa el calendario de obligaciones para los sistemas de IA de alto riesgo hasta seis meses después de que Bruselas confirme que existen las herramientas necesarias para cumplirlas. Varias organizaciones de derechos digitales han advertido de que esa flexibilización puede diluir la vigilancia sobre los sistemas de mayor riesgo antes de que entre en vigor.",
+      "por_que_importa": "El resultado de este trámite técnico determinará cuánto margen de defensa tienen las empresas investigadas por Bruselas y cuánto tarda la UE en poder imponer sanciones reales por incumplir la Ley de IA, justo en el tramo final de su entrada en vigor, cuando el equilibrio entre protección y competitividad se ha convertido en el debate central de la política tecnológica europea.",
+      "foto": {
+        "archivo": "assets/fotos/parlamento-europeo.webp",
+        "alt": "Hemiciclo del Parlamento Europeo en Estrasburgo",
+        "credito": "Foto: Gzen92 · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Regulations.ai, sobre la consulta de la Comisión Europea", "url": "https://regulations.ai/news/eu-ai-enforcement-draft-feedback-closes-9-november", "fecha": "9 nov 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Los centros de datos de IA presionan al alza la factura eléctrica en EE. UU., aunque los expertos discrepan sobre cuánta culpa tienen",
+      "entradilla": "Un análisis publicado el 9 de noviembre, apoyado en datos del Laboratorio Nacional Lawrence Berkeley y de la Reserva Federal de Dallas, confirma que la factura eléctrica en EE. UU. sube con fuerza en paralelo a la construcción acelerada de centros de datos para IA: el regulador independiente de la red PJM -que sirve a 67 millones de personas en 13 estados- registró una subida interanual del 75,5% en los precios mayoristas durante el primer trimestre de 2026, y la atribuyó sobre todo a la demanda de esos centros.",
+      "reaccion": "No todos los estudios coinciden en la magnitud del efecto: la Reserva Federal de Dallas calcula que, a escala nacional, los centros de datos ya existentes han elevado los precios mayoristas de la electricidad entre un 2% y un 6% de media, mientras que una investigación del instituto EPRI con un método distinto concluye que, entre 2015 y 2024, los centros de datos hicieron bajar ligeramente la tarifa media al por menor. Goldman Sachs, por su parte, prevé que el actual boom de centros de datos añada en torno a un 6% más a la factura entre 2026 y 2027.",
+      "por_que_importa": "Si los hogares perciben que pagan más por su electricidad para sostener una industria cuya rentabilidad aún se debate, la construcción de nuevos centros de datos -que ya ha topado con rechazo ciudadano en varias encuestas- corre el riesgo de convertirse en el punto de fricción social más visible del auge de la inteligencia artificial.",
+      "foto": {
+        "archivo": "assets/fotos/red-electrica.webp",
+        "alt": "Torres de alta tensión de una red eléctrica al atardecer",
+        "credito": "Foto: Kkiefuik · CC BY 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Stacker (economía), recogido por KRDO", "url": "https://krdo.com/stacker-business-economy/2026/11/09/how-data-center-demand-is-reshaping-electricity-costs-across-the-us/", "fecha": "9 nov 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Google DeepMind (comunicado oficial)",
+      "que": "Presenta Gemini Robotics 2.5 como su modelo de visión-lenguaje-acción más avanzado hasta ahora, con un 96% de aciertos en una prueba real en una fábrica de Mercedes-Benz, aunque la cifra procede de sus propias pruebas internas.",
+      "cuando": "10 nov 2026",
+      "fuente": "DeepMind (blog oficial)"
+    },
+    {
+      "quien": "Michael Intrator · consejero delegado de CoreWeave",
+      "que": "Destaca que el margen operativo ajustado de su empresa alcanzó cifras de dos dígitos «un trimestre antes de lo previsto», pese a que la pérdida neta trimestral se amplió a unos 709 millones de dólares.",
+      "cuando": "10 nov 2026",
+      "fuente": "CoreWeave (comunicado oficial) / cobertura económica"
+    },
+    {
+      "quien": "Comisión Europea",
+      "que": "Cierra la consulta pública sobre cómo tramitará sus propios procedimientos sancionadores bajo la Ley de IA, un paso técnico dentro del paquete de simplificación («ómnibus digital») que ya retrasa el calendario de obligaciones para la IA de alto riesgo.",
+      "cuando": "9 nov 2026",
+      "fuente": "Regulations.ai, sobre la consulta de la Comisión Europea"
+    },
+    {
+      "quien": "Goldman Sachs (nota a clientes)",
+      "que": "Calcula que el boom de centros de datos de IA añadirá en torno a un 6% más a la factura eléctrica de los hogares estadounidenses entre 2026 y 2027, pero sostiene que las ganancias de productividad de la propia IA compensarían el frenazo económico que eso provocaría.",
+      "cuando": "recogido en 2026",
+      "fuente": "Fortune, con datos de Goldman Sachs"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: la salida a bolsa de Anthropic entra en su recta final y Nvidia se prepara para presentar resultados en plena desconfianza por el gasto en infraestructura.",
+    "items": [
+      {
+        "empresa": "Anthropic",
+        "que": "Varias informaciones económicas, sin una cifra oficial confirmada por la propia empresa, señalan que la demanda durante el roadshow de su salida a bolsa superó varias veces el número de acciones ofrecidas; la fijación del precio se espera el 18 de noviembre y el debut en el Nasdaq, bajo el símbolo «ANT», el 19 de noviembre.",
+        "cuando": "semana del 10 nov 2026",
+        "fuente": "Cobertura económica (CNN, Semafor y otros)"
+      },
+      {
+        "empresa": "Nvidia",
+        "que": "Presenta los resultados de su tercer trimestre fiscal esta semana -distintas fuentes sitúan la fecha entre el 17 y el 19 de noviembre, sin confirmación oficial definitiva-, con el mercado pendiente de si el ritmo de gasto en infraestructura de IA, visible en los números de CoreWeave y Oracle, empieza a pasar factura a la demanda de sus chips.",
+        "cuando": "semana del 16 nov 2026",
+        "fuente": "Cobertura financiera (previsiones de consenso)"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "El robot de Google DeepMind logró un 96% de aciertos empaquetando piezas de automóvil en una prueba real en una fábrica de Mercedes-Benz, y la compañía asegura que completa sus tareas entre un 20% y un 30% más rápido que su modelo anterior.",
+    "Mistral Large 4, el modelo insignia europeo publicado en abierto, tiene alrededor de un billón de parámetros, pero solo activa unos 52.000 millones de ellos para generar cada respuesta."
+  ],
+  "glosario": {
+    "termino": "Backlog (cartera de contratos)",
+    "definicion": "El valor total de los contratos ya firmados que una empresa aún no ha facturado porque el servicio no se ha prestado todavía. En compañías de infraestructura de IA como CoreWeave es la cifra que más se cita para demostrar que la demanda es real, aunque no garantiza que esos contratos acaben cobrándose según lo previsto."
+  },
+  "fin_de_semana": "Entre el viernes y este lunes, la actualidad de la IA se movió sobre todo en el terreno económico: la demanda por la salida a bolsa de Anthropic siguió creciendo mientras se acerca la fijación del precio, prevista para el 18 de noviembre, y el mercado empezó a mirar con más cautela los compromisos de deuda de empresas como CoreWeave y Oracle para financiar la expansión de centros de datos. Google DeepMind aprovechó estos días para presentar dos modelos técnicos, uno para robots físicos y otro para genética, lejos del ruido bursátil. De fondo, sigue sin resolverse cuánto de la subida de las facturas eléctricas en EE. UU. es realmente atribuible a los centros de datos de IA."
+}
