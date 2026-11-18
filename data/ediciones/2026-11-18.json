@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-11-18",
+  "numero": "24",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Alibaba lanza Qwen4-Max, su modelo insignia, pero esta vez no libera los pesos",
+      "entradilla": "Alibaba presentó el 16 de noviembre Qwen4-Max, el buque insignia de su familia de modelos Qwen, con unos 2,4 billones de parámetros en total. A diferencia de lanzamientos recientes de la propia Alibaba y de otras empresas como Mistral, esta vez la compañía no ha publicado los pesos del modelo: solo está disponible a través de su API de pago. Alibaba presenta como su mayor baza el abaratamiento del coste por tarea frente a su modelo anterior.",
+      "reaccion": "Según las propias cifras de Alibaba, el coste medio en su prueba interna «Work360» cayó de 4,43 a 1,67 dólares por tarea frente a Qwen3.8-Max, una comparación que no ha verificado ningún laboratorio independiente. En evaluaciones de terceros, como el índice de Vals AI, Qwen4-Max queda por detrás de rivales como Claude Opus 5.5 o Kimi K3.1 Pro en varias pruebas de programación, aunque por delante en otras, así que el panorama de rendimiento real es desigual.",
+      "por_que_importa": "Que el mayor gigante tecnológico chino dé marcha atrás en su apuesta por el código abierto -su principal argumento frente a OpenAI y Anthropic durante el último año- sugiere que la carrera por el liderazgo en IA empieza a pesar más que la estrategia de abrir los modelos, justo cuando Washington y Pekín se disputan también el control sobre la tecnología que los entrena.",
+      "foto": {
+        "archivo": "assets/fotos/shanghai.webp",
+        "alt": "Horizonte de rascacielos de Shanghái",
+        "credito": "Foto: King of Hearts · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "The Next Web", "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights", "fecha": "16 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Microsoft presenta en su conferencia Ignite siete modelos propios para depender menos de OpenAI y Anthropic",
+      "entradilla": "Microsoft presentó el 17 de noviembre, en su conferencia Ignite, una familia de hasta siete modelos de IA desarrollados internamente por su división Microsoft AI, que cubren programación, ciberseguridad, generación de imágenes, voz y transcripción. El consejero delegado, Satya Nadella, presentó personalmente los modelos de programación, MAI Code 2 y MAI Code 2 Flash, ya disponibles en GitHub Copilot.",
+      "reaccion": "Microsoft asegura que MAI Code 2 alcanza un 96% del rendimiento de Claude Opus 5.5 de Anthropic por apenas un 5% de su coste, una comparación que procede de la propia empresa y no ha confirmado ningún evaluador independiente. La compañía matiza, además, que estos modelos de código «todavía no están afinados» para investigación científica compleja ni para tareas agénticas muy largas, y sigue vendiendo modelos de OpenAI y de Anthropic a través de Copilot y de su plataforma Foundry.",
+      "por_que_importa": "Cada tarea que Microsoft traslada a sus propios modelos es una tarea por la que deja de pagar a sus socios, así que esta segunda familia de modelos propios -tras la presentada en su conferencia Build de junio- mide hasta qué punto uno de los mayores clientes de OpenAI y Anthropic quiere independizarse de ellos sin romper la relación comercial que sigue vendiéndolos.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Código fuente en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Axios", "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite", "fecha": "17 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "La salida a bolsa de Anthropic multiplica por seis la demanda antes de fijar hoy su precio definitivo",
+      "entradilla": "La oferta pública de Anthropic -825 millones de acciones de clase A, con un rango orientativo de entre 70 y 78 dólares- había recibido, para el jueves 12 de noviembre, peticiones por unas seis veces el número de títulos ofrecidos, según informó Bloomberg. La compañía prevé fijar hoy, 18 de noviembre, el precio definitivo de la operación, con el debut en el Nasdaq bajo el símbolo «ANT» previsto para mañana.",
+      "reaccion": "Según informaciones del Financial Times recogidas por varios medios económicos, la intensidad de la demanda ha llevado a algunos de los bancos colocadores a estudiar fijar el precio por encima del rango anunciado, lo que podría elevar la valoración de la compañía hasta 1,5 billones de dólares o más. Anthropic no ha confirmado estas cifras, que proceden de fuentes no identificadas y podrían variar hasta el cierre definitivo de la operación.",
+      "por_que_importa": "El resultado final de esta salida a bolsa -la mayor hasta la fecha de una empresa de inteligencia artificial- servirá de referencia para calibrar si los inversores siguen dispuestos a pagar valoraciones récord por compañías de IA que, como la propia Anthropic, todavía no son rentables.",
+      "foto": {
+        "archivo": "assets/fotos/san-francisco.webp",
+        "alt": "Puente Golden Gate y horizonte de San Francisco",
+        "credito": "Foto: Daniel L. Lu (user:dllu) · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Stock Analysis, con datos de Bloomberg", "url": "https://stockanalysis.com/news/anthropic-ipo-six-times-oversubscribed/", "fecha": "14 nov 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "El consejo de Nvidia descarta reincorporar a Jensen Huang como consejero delegado",
+      "entradilla": "Una semana después de que Jensen Huang dimitiera como presidente, consejero delegado y miembro del consejo de Nvidia -según consta en un comunicado de la propia empresa a la SEC con fecha del 12 de noviembre-, el consejo de administración decidió el 17 de noviembre, por unanimidad, no reincorporarlo al cargo, según informó la cadena pública NPR. La dimisión llegó después de conocerse varias relaciones extramatrimoniales de Huang, una de ellas con una persona señalada en informaciones periodísticas como posible espía vinculada a China. Colette Kress, hasta entonces directora financiera, ocupa el puesto de consejera delegada interina.",
+      "reaccion": "Huang había dicho públicamente que se sentiría «honrado» de volver al puesto si el consejo se lo permitía, y se comprometió a cooperar con la investigación independiente que la propia Nvidia abrió sobre su conducta. Días antes, el secretario del Tesoro de EE. UU., Scott Bessent, pidió públicamente a Nvidia que explicara si había permitido, a sabiendas, que sus chips de IA más avanzados llegaran a China.",
+      "por_que_importa": "La salida del fundador de la empresa más valiosa del mundo, en pleno auge de la inversión en infraestructura de IA, deja a Nvidia sin la figura que ha dirigido su estrategia durante más de tres décadas, justo cuando el control de las exportaciones de sus chips a China se ha convertido en una cuestión de seguridad nacional para Washington.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "NPR", "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress", "fecha": "17 nov 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "Washington cierra a Pekín el acceso remoto a chips de IA a través del Sudeste Asiático, mientras China ultima su propio control de exportación",
+      "entradilla": "El Departamento de Comercio de EE. UU. publicó el 16 de noviembre una norma que exige licencia para enviar chips y servidores de IA avanzados a Singapur, Malasia, Tailandia, Indonesia y Brasil, con el objetivo declarado de cerrar una vía por la que empresas chinas accedían de forma remota a capacidad de cómputo estadounidense alojada en centros de datos de esos países. La medida llega días antes de la reunión prevista entre el presidente Donald Trump y su homólogo chino, Xi Jinping, el 19 de noviembre.",
+      "reaccion": "Pekín, por su parte, cerró el 15 de noviembre el plazo de consulta pública de su propia propuesta, presentada en octubre, para añadir 40 tecnologías -23 de ellas relacionadas con la IA, incluidos los grandes modelos de lenguaje y sus pesos- a su lista de control de exportaciones; el texto final todavía no se ha publicado. En EE. UU., el propio secretario del Tesoro, Scott Bessent, exigió días antes a Nvidia explicaciones sobre si sus chips más avanzados habían llegado a China pese a las restricciones vigentes.",
+      "por_que_importa": "Las dos mayores potencias en IA se mueven en paralelo hacia un mayor control sobre la tecnología que la sostiene -de un lado el hardware, del otro los propios modelos-, lo que anticipa que el acceso a chips y modelos de IA seguirá siendo moneda de cambio en la relación entre Washington y Pekín, al margen de lo que se acuerde en la cumbre del 19 de noviembre.",
+      "foto": {
+        "archivo": "assets/fotos/capitolio.webp",
+        "alt": "Vista completa del Capitolio de EE. UU.",
+        "credito": "Foto: Noclip · Public domain · Wikimedia Commons"
+      },
+      "fuente": { "medio": "South China Morning Post", "url": "https://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole", "fecha": "16 nov 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Las denuncias de abuso sexual infantil generado con IA se multiplican por 85 en dos años, según un informe global",
+      "entradilla": "El Childlight Global Child Safety Institute, con sede en la Universidad de Edimburgo, presentó el 16 de noviembre una actualización de su informe «Into the Light», según la cual las denuncias de material de abuso sexual infantil generado con inteligencia artificial recibidas por el Centro Nacional estadounidense para Niños Desaparecidos y Explotados pasaron de unas 4.700 en 2023 a más de 400.000 en 2025, un aumento de alrededor del 8.400%.",
+      "reaccion": "El propio informe reconoce limitaciones metodológicas importantes: solo 22 de los 103 países analizados cuentan con encuestas representativas sobre abuso tanto online como presencial, lo que dificulta comparar cifras entre países. Por separado, la organización británica Internet Watch Foundation contabilizó un récord de 3.440 vídeos de abuso infantil generados con IA en 2025, frente a 13 el año anterior; es una cifra que mide algo distinto y no debe sumarse a la del Childlight.",
+      "por_que_importa": "El informe calcula en más de 300 millones los menores que sufren cada año en el mundo explotación o abuso sexual facilitado por la tecnología, y pide a los gobiernos que cierren los vacíos legales que dejan fuera de sus leyes el material generado o virtual hecho con IA: es uno de los costes sociales más graves del acceso creciente a herramientas de generación de imagen y vídeo, y una prueba de que la seguridad infantil no avanza al mismo ritmo que la potencia de esas herramientas.",
+      "foto": {
+        "archivo": "assets/fotos/fibra-optica.webp",
+        "alt": "Fibra óptica expuesta en un museo de la ciencia",
+        "credito": "Foto: Syced · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Childlight Global Child Safety Institute", "url": "https://www.childlight.org/reports/itl-interim-update-2026", "fecha": "16 nov 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Jensen Huang · exconsejero delegado de Nvidia",
+      "que": "Dijo sentirse «honrado» de volver al cargo si el consejo se lo permitía, y se comprometió a cooperar con la investigación independiente abierta sobre su conducta.",
+      "cuando": "17 nov 2026",
+      "fuente": "NPR"
+    },
+    {
+      "quien": "Consejo de administración de Nvidia",
+      "que": "Decidió por unanimidad no reincorporar a Jensen Huang como consejero delegado tras aceptar su dimisión.",
+      "cuando": "17 nov 2026",
+      "fuente": "NPR"
+    },
+    {
+      "quien": "Scott Bessent · secretario del Tesoro de EE. UU.",
+      "que": "Pidió públicamente a Nvidia que explicara si había dejado llegar, a sabiendas, sus chips de IA más avanzados a China.",
+      "cuando": "15 nov 2026",
+      "fuente": "Cobertura de prensa (AFP)"
+    },
+    {
+      "quien": "Ministerio de Comercio de China",
+      "que": "Propone añadir 40 tecnologías -23 de ellas de IA- a su lista de control de exportaciones; cerrada la consulta pública, el texto final «sin confirmar» todavía no se ha publicado.",
+      "cuando": "propuesta de octubre, consulta cerrada el 15 nov 2026",
+      "fuente": "Cobertura especializada (Caixin y otros)"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: Nvidia bate su récord de ingresos trimestrales en plena crisis de liderazgo, y Anthropic se encamina a fijar hoy el precio de la mayor salida a bolsa de una empresa de inteligencia artificial.",
+    "items": [
+      {
+        "empresa": "Nvidia",
+        "que": "Ingresos trimestrales de 115.800 millones de dólares (+103% interanual), de los que 107.600 millones correspondieron a centros de datos (+110%); para el próximo trimestre prevé unos 130.000 millones, con un margen de error del 3%, y asume que no habrá ingresos por venta de chips a China.",
+        "cuando": "17 nov 2026",
+        "fuente": "Comunicado oficial de Nvidia, recogido por varios medios financieros"
+      },
+      {
+        "empresa": "Anthropic",
+        "que": "En su salida a bolsa, Nvidia y Alphabet se han comprometido a invertir 10.000 millones de dólares cada uno mediante una colocación privada de 26.000 millones en acciones de clase N al precio de la oferta pública.",
+        "cuando": "semana del 10 nov 2026",
+        "fuente": "Cobertura económica (Bloomberg y otros)"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "El coste medio por tarea de Qwen4-Max, según las pruebas internas de Alibaba, bajó de 4,43 a 1,67 dólares frente a su modelo anterior, Qwen3.8-Max.",
+    "El informe de Childlight calcula que más de 300 millones de menores en el mundo sufren cada año algún tipo de explotación o abuso sexual facilitado por la tecnología, aunque solo 22 de los 103 países estudiados cuentan con datos representativos."
+  ],
+  "glosario": {
+    "termino": "Pesos abiertos / pesos cerrados",
+    "definicion": "Los «pesos» son los parámetros numéricos que un modelo de IA aprende durante su entrenamiento. Cuando una empresa los publica («pesos abiertos», como hizo Mistral con su modelo insignia hace unas semanas), cualquiera puede descargar y ejecutar el modelo; cuando no lo hace («pesos cerrados», como ahora Qwen4-Max de Alibaba), solo puede usarse a través de la API de la empresa, que mantiene el control total sobre él."
+  }
+}

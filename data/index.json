@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-18",
+      "titulo": "Alibaba lanza Qwen4-Max sin pesos abiertos, Microsoft presenta sus propios modelos para depender menos de OpenAI y Anthropic, el consejo de Nvidia descarta reincorporar a Jensen Huang, EE. UU. y China se endurecen mutuamente en la exportación de IA, y un informe global alerta de un aumento del 8.400% en el abuso infantil generado con IA",
+      "prueba": false
+    },
+    {
       "fecha": "2026-11-16",
       "titulo": "Google DeepMind presenta un robot que triunfa en una fábrica de Mercedes-Benz y un modelo de ADN, Mistral libera en abierto su modelo insignia europeo, CoreWeave y Oracle disparan su deuda para financiar la IA, y Bruselas cierra la consulta sobre cómo sancionará la Ley de IA",
       "prueba": false
