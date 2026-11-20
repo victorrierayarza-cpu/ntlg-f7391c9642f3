@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-11-20",
+  "numero": "25",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "OpenAI lanza GPT-6.2 Astra y Sol, sus nuevos modelos insignia, siete semanas después de cancelar la versión anterior",
+      "entradilla": "OpenAI presentó el 17 de noviembre dos modelos nuevos: GPT-6.2 Astra, su buque insignia para tareas profesionales exigentes, y GPT-6.2 Sol, pensado para el uso diario. Ambos ya están disponibles para los suscriptores de pago de ChatGPT (Plus, Pro, Enterprise y Edu) a través de sus herramientas de trabajo y de Codex, y también mediante la API de la compañía. El lanzamiento llega siete semanas después de que OpenAI descartara, ya avanzado su desarrollo, la versión anterior de Astra.",
+      "reaccion": "OpenAI afirma que Sol roza el rendimiento de Astra en su prueba interna de programación «FrontierCode 2.0» -con menos de un punto de diferencia- por apenas una quinta parte de su coste, aunque esa comparación procede de la propia empresa y no la ha confirmado ningún laboratorio independiente. Astra, además, es el primer modelo de OpenAI en alcanzar el nivel «crítico» de capacidad ciberofensiva de su propio marco de seguridad, por lo que el acceso a sus funciones más avanzadas de ciberseguridad se limita, por ahora, a un grupo reducido de evaluadores externos.",
+      "por_que_importa": "Astra abarata en un 20% el precio de su anterior buque insignia y llega justo cuando Google y Anthropic preparan sus propias respuestas, en una carrera donde cada nueva versión reduce el coste por tarea a la vez que aumenta el riesgo de que estos modelos se usen para encontrar y explotar vulnerabilidades informáticas reales.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Código fuente en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Digit", "url": "https://www.digit.in/news/general/openai-launches-gpt-62-astra-and-sol-ai-models-with-improved-cyber-capabilities-check-availability-and-other-details.html", "fecha": "17 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Anthropic debuta en el Nasdaq con una subida del 17% y cierra su primer día cotizando muy por encima de su precio de salida",
+      "entradilla": "Las acciones de Anthropic, bajo el símbolo «ANT», comenzaron a cotizar en el Nasdaq el 19 de noviembre, un día después de que la compañía fijara el precio de su oferta pública en 83 dólares por acción, por encima del rango orientativo de entre 70 y 78 dólares. El valor cerró su primera sesión en 97,17 dólares, un 17% por encima del precio de salida, lo que sitúa su capitalización bursátil -según la forma de contar las acciones- entre 1,27 y 1,8 billones de dólares.",
+      "reaccion": "La operación había recibido peticiones de compra por unas seis veces el número de acciones ofrecidas, y Nvidia y Alphabet se comprometieron a invertir 10.000 millones de dólares cada uno en una colocación privada paralela. El debut, sin embargo, coincidió con una caída generalizada del Nasdaq de más de un 2% ese mismo jueves, en medio de la creciente cautela de los inversores sobre las valoraciones del sector de la IA.",
+      "por_que_importa": "Es la mayor salida a bolsa de una empresa de inteligencia artificial hasta la fecha, y su comportamiento en los próximos meses -no solo el primer día- servirá de referencia para saber si los mercados siguen dispuestos a sostener valoraciones astronómicas para compañías que, como la propia Anthropic, todavía no son rentables.",
+      "foto": {
+        "archivo": "assets/fotos/san-francisco.webp",
+        "alt": "Puente Golden Gate y horizonte de San Francisco",
+        "credito": "Foto: Daniel L. Lu (user:dllu) · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Forbes", "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/", "fecha": "19 nov 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "Nvidia deja de enviar a China sus chips Hopper con licencia, sin explicar por qué, mientras 600.000 unidades esperan en Hong Kong",
+      "entradilla": "Colette Kress, consejera delegada interina de Nvidia, confirmó el 17 de noviembre, en su primera presentación de resultados en el cargo, que la compañía ha dejado de enviar a China sus chips H200 y otros productos Hopper con licencia de exportación, y que sus previsiones para el próximo trimestre ya no incluyen ingresos por ese concepto. Kress no explicó si la decisión responde a nuevas exigencias de Washington, a la resistencia de Pekín a aprobar las importaciones, o a ambas cosas.",
+      "reaccion": "Según había informado Reuters, unos 600.000 chips H200 permanecen almacenados en Hong Kong a la espera de la aprobación china para entrar en el continente, después de que Pekín frenara las importaciones a gran escala. Nvidia, que vendió 2.400 millones de dólares en productos Hopper con licencia a China durante el trimestre -apenas un 2% de sus ingresos totales-, no ha aclarado si el parón será permanente.",
+      "por_que_importa": "El parón confirma que, más allá de lo que autorice Washington, el propio Gobierno chino está dispuesto a bloquear la entrada de chips estadounidenses para proteger a sus fabricantes nacionales, como Huawei, lo que reduce aún más el ya exiguo margen de Nvidia para vender en el segundo mercado de semiconductores del mundo.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CBS News", "url": "https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china", "fecha": "18 nov 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "Jensen Huang acepta testificar ante el Congreso de EE. UU. por su relación con una empresaria señalada como presunta espía china",
+      "entradilla": "Jensen Huang, que dimitió el 12 de noviembre como consejero delegado de Nvidia, aceptó el 17 de noviembre comparecer públicamente ante el Comité Bancario del Senado, según confirmó la oficina de su presidente, Tim Scott, que había amenazado con citarlo por la fuerza. Huang declarará también ante varias comisiones de la Cámara de Representantes, previsiblemente a principios de diciembre, sobre su relación con Alice Huang, una ejecutiva de la empresa Megaspeed a quien fuentes de inteligencia estadounidenses señalan como posible activo de China; ninguno de los dos ha sido acusado formalmente.",
+      "reaccion": "El secretario del Tesoro, Scott Bessent, había pedido días antes a Nvidia que explicara si, a sabiendas, había dejado llegar a China sus chips más avanzados, y China ha calificado las acusaciones de espionaje de «especulación infundada». El consejo de Nvidia ya decidió la semana pasada no reincorporar a Huang al cargo, que ocupa de forma interina la hasta entonces directora financiera, Colette Kress.",
+      "por_que_importa": "Que el fundador de la empresa más valiosa del mundo acepte declarar ante el Congreso, en lugar de rechazar la citación como hizo en ocasiones anteriores, muestra hasta qué punto el caso ha escapado al control de Nvidia y amenaza con poner bajo escrutinio público sus propios protocolos de seguridad frente al espionaje extranjero.",
+      "foto": {
+        "archivo": "assets/fotos/capitolio.webp",
+        "alt": "Vista completa del Capitolio de EE. UU.",
+        "credito": "Foto: Noclip · Public domain · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month", "fecha": "17 nov 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "El regulador británico obliga a las plataformas a usar herramientas automáticas contra el abuso infantil generado con IA",
+      "entradilla": "Ofcom, el regulador de comunicaciones del Reino Unido, anunció el 16 de noviembre nuevas obligaciones bajo la Online Safety Act: las redes sociales, los servicios de intercambio de archivos, las páginas pornográficas y otros servicios en línea deberán usar tecnología de «hash-matching» para detectar material ya identificado de abuso sexual infantil, y herramientas automáticas para localizar el que todavía no esté catalogado, una categoría que, según el propio regulador, ha crecido «significativamente» por la IA generativa. Las plataformas también deberán expulsar y bloquear a los usuarios que generen o compartan ese material.",
+      "reaccion": "Ofcom puede imponer multas de hasta el 10% de la facturación mundial de la empresa que incumpla, y su responsable de cumplimiento advirtió de que las compañías que no actúen «deben esperar consecuencias serias». El propio regulador ha sido acusado por organizaciones de derechos digitales de aplicar la ley de forma demasiado laxa hasta ahora, algo que Ofcom rechaza.",
+      "por_que_importa": "La medida llega pocos días después de que un informe global calculara un aumento del 8.400% en las denuncias de abuso infantil generado con IA en solo dos años, y convierte al Reino Unido en uno de los primeros grandes mercados que exige por ley a las plataformas adaptar sus sistemas de detección a esta forma de explotación infantil.",
+      "foto": {
+        "archivo": "assets/fotos/biblioteca.webp",
+        "alt": "Estanterías de una biblioteca vistas desde el entresuelo",
+        "credito": "Foto: MSwierenga · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Ofcom (comunicado oficial)", "url": "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/platforms-must-take-stronger-action-to-combat-child-sexual-abuse-material-online-under-new-ofcom-rules", "fecha": "16 nov 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "JPMorgan y Hyundai Card prueban agentes de IA capaces de ejecutar una operación de divisas sin intervención humana",
+      "entradilla": "JPMorgan, a través de su plataforma de pagos Kinexys, y la financiera surcoreana Hyundai Card completaron una prueba simulada en la que un agente de IA de Hyundai Card -actuando bajo un mandato firmado digitalmente- solicitó una operación de cambio de divisa para gestionar liquidez en euros, y un segundo agente de Kinexys la ejecutó de forma automática sin que ningún empleado interviniera en el proceso, según confirmaron ambas compañías el 17 de noviembre.",
+      "reaccion": "Según Kinexys, cada agente opera dentro de límites predefinidos y rechaza cualquier operación que se salga de ellos; la plataforma ya mueve unos 7.000 millones de dólares al día, aunque en esta prueba no llegó a moverse dinero real. Su responsable, Wee Kee Toh, reconoció que desarrollar la tecnología «no fue lo difícil»: el reto está en decidir quién responde cuando algo sale mal. Las empresas planean probar, a partir de la primera mitad de 2027, que varios agentes negocien y paguen entre sí sin supervisión directa.",
+      "por_que_importa": "Si los bancos empiezan a fiar operaciones financieras reales a agentes autónomos, la pregunta que plantea Kinexys -quién asume la responsabilidad legal cuando un agente se equivoca- dejará de ser teórica, justo cuando el propio consejero delegado de JPMorgan, Jamie Dimon, ha dicho que no permitirá que agentes de IA externos operen directamente sobre las cuentas de sus clientes.",
+      "foto": {
+        "archivo": "assets/fotos/ciudad-noche.webp",
+        "alt": "Horizonte de una ciudad iluminada por la noche",
+        "credito": "Foto: formulanone · CC BY-SA 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "JPMorgan (comunicado oficial)", "url": "https://www.jpmorgan.com/payments/newsroom/hyundai-card-kinexys-agentic-payments", "fecha": "17 nov 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Colette Kress · consejera delegada interina de Nvidia",
+      "que": "Confirmó que Nvidia ha dejado de enviar chips Hopper con licencia a China, sin explicar si la decisión será permanente ni a qué responde exactamente.",
+      "cuando": "17 nov 2026",
+      "fuente": "CBS News"
+    },
+    {
+      "quien": "Tim Scott · presidente del Comité Bancario del Senado de EE. UU.",
+      "que": "Confirmó que Jensen Huang aceptó testificar públicamente ante su comité, tras haber amenazado con citarlo por la fuerza si se negaba.",
+      "cuando": "17 nov 2026",
+      "fuente": "Al Jazeera"
+    },
+    {
+      "quien": "Ministerio de Asuntos Exteriores de China",
+      "que": "Calificó de «especulación infundada» las acusaciones de espionaje contra la empresaria vinculada a Jensen Huang; «sin confirmar» por organismos independientes.",
+      "cuando": "recogido en cobertura internacional, semana del 17 nov 2026",
+      "fuente": "Cobertura internacional (BBC y otros)"
+    },
+    {
+      "quien": "Ofcom · regulador de comunicaciones del Reino Unido",
+      "que": "Advirtió de que las plataformas que no refuercen sus herramientas contra el abuso infantil generado con IA «deben esperar consecuencias serias».",
+      "cuando": "16 nov 2026",
+      "fuente": "Ofcom (comunicado oficial)"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: el debut bursátil de Anthropic eclipsa, de momento, las dudas sobre la burbuja de la IA que ya habían golpeado al Nasdaq esta misma semana.",
+    "items": [
+      {
+        "empresa": "Anthropic",
+        "que": "Cerró su primer día cotizando en el Nasdaq en 97,17 dólares, un 17% por encima de su precio de salida de 83 dólares, con una capitalización que varía -según cómo se cuenten las acciones- entre 1,27 y 1,8 billones de dólares.",
+        "cuando": "19 nov 2026",
+        "fuente": "Forbes / CNBC"
+      },
+      {
+        "empresa": "OpenAI",
+        "que": "Varios medios económicos informan, sin confirmación oficial de la empresa, de que OpenAI negocia una nueva ronda de financiación de unos 15.000 millones de dólares a una valoración de 1,25 billones.",
+        "cuando": "semana del 16 nov 2026",
+        "fuente": "Cobertura económica (Bloomberg y otros)"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "Unos 600.000 chips H200 de Nvidia, valorados en miles de millones de dólares, permanecen almacenados en Hong Kong a la espera de que Pekín apruebe su entrada en China continental.",
+    "Kinexys, la plataforma de pagos con blockchain de JPMorgan usada en la prueba con agentes de IA, procesa ya unos 7.000 millones de dólares en transacciones cada día."
+  ],
+  "glosario": {
+    "termino": "Hash-matching",
+    "definicion": "Una técnica que convierte cada imagen o vídeo en un código único (su «hash») y lo compara con una base de datos de material ya identificado como ilegal, sin que una persona tenga que revisar el contenido. El Reino Unido la exige ahora también frente al material de abuso infantil generado con IA."
+  }
+}

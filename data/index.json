@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-20",
+      "titulo": "OpenAI lanza GPT-6.2 Astra y Sol, Anthropic debuta en el Nasdaq con una subida del 17%, Nvidia deja de enviar chips a China mientras Jensen Huang acepta testificar ante el Congreso, y el Reino Unido obliga a las plataformas a frenar el abuso infantil generado con IA",
+      "prueba": false
+    },
+    {
       "fecha": "2026-11-18",
       "titulo": "Alibaba lanza Qwen4-Max sin pesos abiertos, Microsoft presenta sus propios modelos para depender menos de OpenAI y Anthropic, el consejo de Nvidia descarta reincorporar a Jensen Huang, EE. UU. y China se endurecen mutuamente en la exportación de IA, y un informe global alerta de un aumento del 8.400% en el abuso infantil generado con IA",
       "prueba": false
