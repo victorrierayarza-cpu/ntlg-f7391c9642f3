@@ -1,0 +1,137 @@
+{
+  "fecha": "2026-11-23",
+  "numero": "26",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Microsoft convierte Copilot en una «superapp» de trabajo: lleva Word, Excel y PowerPoint dentro de la IA y reserva su agente autónomo a clientes selectos",
+      "entradilla": "Microsoft anunció el 17 de noviembre, en su conferencia Ignite, la disponibilidad general de Copilot Home -que fusiona el chat y la herramienta colaborativa Cowork- y de «Office en Copilot», que integra Word, Excel y PowerPoint dentro de la propia aplicación de Copilot sin coste adicional sobre la licencia ya contratada. Dos piezas más ambiciosas, el agente autónomo Autopilot y los espacios de trabajo Copilot Workspaces, quedan por ahora limitadas a los clientes de su programa de acceso anticipado, Frontier.",
+      "reaccion": "Microsoft presenta el cambio como un paso hacia un «sistema operativo de trabajo» construido alrededor de la IA, algo que varios medios leen como una respuesta directa a Claude de Anthropic y a las herramientas de oficina de Google. La propia compañía reconoce que buena parte de las novedades anunciadas en Ignite no está disponible todavía: solo una fracción puede usarse desde ya, y el resto llegará de forma escalonada, incluido Copilot Code, cuya disponibilidad general Microsoft promete para diciembre.",
+      "por_que_importa": "Que Microsoft empaquete sus programas de oficina más usados dentro de un asistente de IA, en lugar de ofrecerlo como un complemento aparte, acerca el día en que abrir Word o Excel por separado deje de ser la forma habitual de trabajar para cientos de millones de usuarios de Microsoft 365, justo cuando Anthropic y Google compiten por ese mismo terreno.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Código fuente en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Microsoft (blog oficial de Copilot)", "url": "https://microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work", "fecha": "17 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "EE. UU. prepara una lista de «campeones nacionales» de la IA con Nvidia, Microsoft, Amazon, OpenAI y Anthropic entre los elegidos",
+      "entradilla": "La Administración Trump planea designar a más de dos docenas de empresas estadounidenses de IA como «campeones nacionales», un programa que según el Wall Street Journal correría a cargo del secretario de Comercio, Howard Lutnick, y que incluiría, según varios medios, a Nvidia, Microsoft, Amazon, OpenAI y Anthropic. Hasta el 16 de noviembre, ni la lista definitiva ni la fecha exacta del anuncio eran oficiales.",
+      "reaccion": "Según esos mismos medios, la designación daría a las empresas elegidas licencias de exportación más rápidas para sus chips, respaldo del Gobierno en sus operaciones en el extranjero y acceso a financiación pública, pensado para ayudarlas a ganar clientes fuera de EE. UU. frente a rivales chinos como Huawei. Varios analistas citados en la cobertura señalan una tensión de fondo: el mismo Gobierno que restringe por seguridad nacional la venta de chips avanzados a terceros países querría ahora facilitar que esas mismas empresas vendan su tecnología en el exterior.",
+      "por_que_importa": "Si se confirma, Washington pasaría de solo limitar a quién puede comprar IA estadounidense a también elegir activamente a quién ayuda a vender, un giro que podría inclinar la competencia global por los contratos de IA a favor de las empresas señaladas y dejar en desventaja a las que no entren en la lista.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Yahoo Finance, con datos de The Wall Street Journal", "url": "https://finance.yahoo.com/technology/ai/articles/us-administration-plans-ai-national-110727618.html", "fecha": "16 nov 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "El Pentágono cambia el nombre de su oficina de IA a «Oficina de Superinteligencia», por orden de Trump",
+      "entradilla": "El Departamento de Defensa de EE. UU. confirmó el 13 de noviembre que ha rebautizado su Oficina Digital y de Inteligencia Artificial (CDAO) como «Oficina de Superinteligencia» (SIO), y ha trasladado su web de GenAI.mil a SI.mil. El cambio aplica un decreto que el presidente Trump firmó en septiembre, por el que ordena a toda la Administración sustituir, siempre que la ley lo permita, las referencias a «IA» por «superinteligencia» en sus comunicaciones oficiales.",
+      "reaccion": "El propio Departamento de Defensa insiste en que el cambio es puramente nominal: la misión, los programas operativos en marcha, las licitaciones a la industria y los acuerdos de colaboración existentes continúan sin alteraciones bajo el nuevo nombre. La medida llega apenas una semana después de que el Departamento de Justicia anunciara su propio «grupo de trabajo de superinteligencia», y mientras el director de Inteligencia Nacional, Jay Clayton, coordina desde octubre una «Fuerza de Superinteligencia» que abarca a toda la Administración.",
+      "por_que_importa": "Más allá del cambio de etiqueta, confirma que la Casa Blanca ha convertido la palabra «superinteligencia» en la bandera oficial de su política de IA en todas las agencias federales, una señal política que sus críticos interpretan como una forma de alimentar expectativas sobre una tecnología que la propia Administración todavía no puede garantizar.",
+      "foto": {
+        "archivo": "assets/fotos/capitolio.webp",
+        "alt": "Vista completa del Capitolio de EE. UU.",
+        "credito": "Foto: Noclip · Public domain · Wikimedia Commons"
+      },
+      "fuente": { "medio": "SecurityWeek", "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/", "fecha": "13 nov 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "La jueza del pleito que agrupa las demandas por derechos de autor contra OpenAI admite 56 escritos de terceros, con el Gobierno de EE. UU. del lado de la empresa",
+      "entradilla": "La jueza Sidney Stein, que lleva en un tribunal federal de Manhattan el litigio que agrupa desde 2025 una docena de demandas por derechos de autor contra OpenAI -entre ellas la de The New York Times, presentada en diciembre de 2023-, aprobó el 6 de noviembre la presentación de 56 escritos de «amicus curiae» de organizaciones ajenas al pleito, según informó Tech Policy Press. Entre ellos figura el propio Departamento de Justicia de EE. UU., que en septiembre había presentado un escrito de interés respaldando la postura de OpenAI de que entrenar modelos con obras protegidas es un uso legítimo.",
+      "reaccion": "The New York Times pidió al tribunal que no diera «ningún peso» al escrito del Departamento de Justicia, al considerar que refleja la postura política de la Administración y no un análisis jurídico neutral. OpenAI, por su parte, sostiene en su propio blog que tratar la competencia de sus productos frente a los de los demandantes como un daño amparado por derechos de autor iría más allá de lo que la ley protege.",
+      "por_que_importa": "El elevado número de organizaciones que han pedido opinar -desde editoriales hasta el propio Gobierno- muestra que el resultado de este pleito, uno de los más seguidos del sector, podría fijar el criterio legal sobre si entrenar IA con textos protegidos sin permiso es un uso legítimo o una infracción, con consecuencias para todos los grandes modelos de lenguaje entrenados con contenido de internet.",
+      "foto": {
+        "archivo": "assets/fotos/biblioteca.webp",
+        "alt": "Estanterías de una biblioteca vistas desde el entresuelo",
+        "credito": "Foto: MSwierenga · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Tech Policy Press", "url": "https://www.techpolicy.press/friends-of-the-court-flock-to-the-openai-copyright-fight/", "fecha": "11 nov 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "El agua, no los chips ni el dinero, amenaza con frenar la expansión de los centros de datos de IA en el golfo Pérsico",
+      "entradilla": "Un análisis publicado el 19 de noviembre advierte de que el principal obstáculo para los planes de Arabia Saudí y Emiratos Árabes Unidos de multiplicar sus centros de datos de IA podría no ser el acceso a chips ni al capital, sino el agua necesaria para refrigerarlos. Según las estimaciones citadas, solo el sector de IA de EAU podría necesitar unos 61.000 millones de litros de agua al año de aquí a 2030, y el conjunto del golfo Pérsico podría superar los 426.000 millones de litros anuales en la misma fecha.",
+      "reaccion": "Varios especialistas en infraestructura citados en la cobertura apuntan a que la mayoría de los centros de datos de la región siguen usando sistemas de refrigeración por aire que consumen mucha agua, aunque señalan alternativas ya en marcha, como la reutilización de aguas tratadas o el proyecto saudí en NEOM, pensado para funcionar enteramente con energías renovables. Ni Arabia Saudí ni EAU han publicado todavía un plan oficial para limitar o gestionar el consumo de agua de sus centros de datos de IA, según la propia cobertura.",
+      "por_que_importa": "La carrera del golfo Pérsico por convertirse en un polo mundial de computación de IA choca con una región que ya depende en gran medida de la desalinización para beber, así que cada nuevo centro de datos que se construya ahí compite, directa o indirectamente, por un recurso que esos mismos países necesitan para su propia población.",
+      "foto": {
+        "archivo": "assets/fotos/data-center.webp",
+        "alt": "Interior de un centro de datos con pasillos de servidores",
+        "credito": "Foto: BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Enterprise (EnterpriseAM)", "url": "https://enterpriseam.com/ai/2026/11/19/water-not-chips-or-capital-may-be-the-biggest-barrier-to-the-gulfs-ai-ambitions/", "fecha": "19 nov 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "La banca mundial teme que pagar por los «tokens» de sus agentes de IA llegue a pesar como una quinta parte de su gasto en personal",
+      "entradilla": "Un informe de McKinsey difundido en torno al 10 de noviembre advierte de que el coste de operar agentes de inteligencia artificial en la banca podría llegar a equivaler al 20% del gasto laboral de las entidades, a medida que esos agentes dejan de limitarse a resolver consultas sencillas y empiezan a comunicarse entre sí para completar tareas más largas.",
+      "reaccion": "Según uno de los socios de McKinsey citado en la cobertura, los sistemas antiguos que derivaban las preguntas más simples a modelos más baratos dejan de funcionar bien en cuanto varios agentes empiezan a conversar entre ellos, lo que dispara el gasto en cómputo. Algunos bancos han creado ya equipos internos de «AI FinOps» dedicados solo a vigilar y limitar ese consumo, y la propia encuesta reflejada en la cobertura encuentra que, aunque un 72% de los usuarios dejaría a un agente bancario completar una gestión financiera por su cuenta, la mayoría pondría un límite de 500 dólares a lo que puede aprobar sin supervisión humana.",
+      "por_que_importa": "El hallazgo traslada a números concretos una preocupación hasta ahora más bien intuitiva: cuanta más autonomía y capacidad de «hablar entre sí» se da a los agentes de IA, más caro y más difícil de controlar resulta su funcionamiento, justo cuando la banca los presenta como la vía principal para recortar costes operativos en los próximos años.",
+      "foto": {
+        "archivo": "assets/fotos/ciudad-noche.webp",
+        "alt": "Horizonte de una ciudad iluminada por la noche",
+        "credito": "Foto: formulanone · CC BY-SA 2.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "The Standard (Hong Kong), con datos de Reuters", "url": "https://www.thestandard.com.hk/finance/article/348107/Banks-seek-to-rein-in-soaring-AI-agent-costs-McKinsey-says", "fecha": "10 nov 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "John Moolenaar · presidente del Comité de Asuntos Exteriores de la Cámara de EE. UU.",
+      "que": "Anunció que Jensen Huang, exconsejero delegado de Nvidia, acordó una entrevista a puerta cerrada el 1 de diciembre ante tres comités de la Cámara por sus vínculos con la empresa Megaspeed.",
+      "cuando": "15 nov 2026",
+      "fuente": "Axios"
+    },
+    {
+      "quien": "The New York Times",
+      "que": "Pidió al tribunal que lleva el litigio agrupado contra OpenAI que no diera «ningún peso» al escrito de interés presentado por el Departamento de Justicia en apoyo de la empresa.",
+      "cuando": "escrito judicial, nov 2026",
+      "fuente": "Bloomberg Law"
+    },
+    {
+      "quien": "Departamento de Defensa de EE. UU.",
+      "que": "Aseguró que el cambio de nombre de su oficina de IA a «Oficina de Superinteligencia» es puramente cosmético y que la misión y los programas en marcha no cambian.",
+      "cuando": "13 nov 2026",
+      "fuente": "SecurityWeek / GovCIO Media"
+    },
+    {
+      "quien": "Casa Blanca y Departamento de Comercio de EE. UU.",
+      "que": "Defienden, según fuentes citadas por la prensa, que el programa de «campeones nacionales» ayudará a las empresas estadounidenses de IA a ganar clientes frente a China; «sin confirmar» todavía la lista final ni la fecha exacta del anuncio.",
+      "cuando": "16 nov 2026",
+      "fuente": "The Wall Street Journal, recogido por varios medios"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: AMD certifica que su negocio de centros de datos ya pesa más que su división tradicional de servidores, y una start-up de robots físicos capta 500 millones justo cuando los inversores siguen divididos sobre la salud del sector.",
+    "items": [
+      {
+        "empresa": "AMD",
+        "que": "Ingresos trimestrales de 13.400 millones de dólares (+45% interanual), con un negocio de centros de datos que casi se duplicó hasta 8.500 millones gracias a sus chips Instinct MI455X, que ya usan Meta y OpenAI; prevé unos 17.000 millones para el cuarto trimestre.",
+        "cuando": "3 nov 2026",
+        "fuente": "Comunicado oficial de AMD, recogido por varios medios financieros"
+      },
+      {
+        "empresa": "Genesis AI",
+        "que": "Capta 500 millones de dólares en una ronda serie A liderada por Premji Invest, Khosla Ventures y Eclipse, que valora en 3.500 millones a esta start-up de robótica física dedicada a su robot de uso general, Eno.",
+        "cuando": "17 nov 2026",
+        "fuente": "Robotics 247"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "La jueza Sidney Stein aprobó el 6 de noviembre la presentación de 56 escritos de «amicus curiae» de terceros en el pleito que agrupa las demandas por derechos de autor contra OpenAI, uno de los mayores números vistos hasta ahora en un litigio sobre IA.",
+    "Arabia Saudí obtiene en torno al 70% de su agua potable de la desalinización, y Kuwait casi el 90%, lo que encarece aún más enfriar con agua los centros de datos de IA que ambos países quieren multiplicar en el golfo Pérsico."
+  ],
+  "glosario": {
+    "termino": "Campeones nacionales",
+    "definicion": "Empresas que un gobierno designa oficialmente como punta de lanza de su industria en el extranjero, dándoles un trato preferente -licencias de exportación más rápidas, respaldo diplomático o financiación pública- para que compitan mejor fuera de sus fronteras. EE. UU. prepara una lista de este tipo para la IA, con Nvidia, Microsoft, Amazon, OpenAI y Anthropic entre los nombres citados por la prensa."
+  },
+  "fin_de_semana": "El fin de semana transcurrió sin grandes sobresaltos pero con el mercado todavía dividido: las acciones de Anthropic cerraron la semana por encima de su precio de salida a bolsa del 19 de noviembre, aunque lejos de los máximos de su primer día, mientras Wall Street sigue sin decidir si las valoraciones del sector de la IA están infladas. El viernes, la start-up de robótica física Genesis AI anunció su ronda de 500 millones de dólares, y esta semana corta por el Día de Acción de Gracias en EE. UU. (jueves 26 de noviembre) se acerca ya al 1 de diciembre, fecha en la que Jensen Huang declarará a puerta cerrada ante el Congreso por sus vínculos con una presunta espía china."
+}

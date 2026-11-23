@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-23",
+      "titulo": "Microsoft lleva Word, Excel y PowerPoint dentro de Copilot, EE. UU. prepara una lista de «campeones nacionales» de IA, el Pentágono rebautiza su oficina de IA como «Oficina de Superinteligencia», 56 escritos de terceros entran en el pleito por derechos de autor contra OpenAI, y el agua amenaza con frenar los centros de datos del golfo Pérsico",
+      "prueba": false
+    },
+    {
       "fecha": "2026-11-20",
       "titulo": "OpenAI lanza GPT-6.2 Astra y Sol, Anthropic debuta en el Nasdaq con una subida del 17%, Nvidia deja de enviar chips a China mientras Jensen Huang acepta testificar ante el Congreso, y el Reino Unido obliga a las plataformas a frenar el abuso infantil generado con IA",
       "prueba": false
