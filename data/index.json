@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-25",
+      "titulo": "Nvidia reincorpora a Jensen Huang como consejero delegado tras la presión de Trump y desata la ira bipartidista del Congreso, Virginia y Oregón demandan a xAI por las imágenes sexuales de Grok, la china Z.ai presenta su modelo «Loop Transformer» GLM-5.4, el Congreso revela que EE. UU. aprobó 879.868 chips de IA para China, un estudio de Enverus halla que el 90% de la huella hídrica de la IA se gasta en las centrales eléctricas, y las acciones de Anthropic caen por primera vez por debajo de su precio de salida a bolsa",
+      "prueba": false
+    },
+    {
       "fecha": "2026-11-23",
       "titulo": "Microsoft lleva Word, Excel y PowerPoint dentro de Copilot, EE. UU. prepara una lista de «campeones nacionales» de IA, el Pentágono rebautiza su oficina de IA como «Oficina de Superinteligencia», 56 escritos de terceros entran en el pleito por derechos de autor contra OpenAI, y el agua amenaza con frenar los centros de datos del golfo Pérsico",
       "prueba": false

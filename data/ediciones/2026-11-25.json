@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-11-25",
+  "numero": "27",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Nvidia reincorpora a Jensen Huang como consejero delegado tras la presión de Trump, y el Congreso estalla en críticas de ambos partidos",
+      "entradilla": "El consejo de administración de Nvidia votó por unanimidad el lunes 23 de noviembre reincorporar a Jensen Huang como presidente, consejero delegado y miembro del consejo, apenas dos semanas después de que dimitiera por la revelación de varias aventuras extramatrimoniales, una de ellas con una mujer que los servicios de inteligencia de EE. UU. consideran vinculada al espionaje chino. La empresa dijo que la decisión llegó tras «aportaciones de altos niveles del Gobierno de Estados Unidos», y el propio presidente Donald Trump confirmó que intervino personalmente. Según información del Wall Street Journal recogida por Forbes, Huang reveló al consejo aventuras adicionales el domingo, antes de la votación.",
+      "reaccion": "Las acciones de Nvidia subieron un 31% el lunes tras el anuncio, para caer un 7% al día siguiente en medio de la incertidumbre. La reacción política fue inmediata y bipartidista: el líder demócrata Hakeem Jeffries prometió una investigación «rápida y exhaustiva», la senadora Elizabeth Warren insistió en que Huang y la junta «todavía deben respuestas al Congreso», y el republicano Don Bacon calificó la decisión de «inexplicable». Nvidia mantiene que su investigación interna sigue abierta y que Huang declarará como estaba previsto ante varios comités de la Cámara el 1 de diciembre y ante el Senado poco después.",
+      "por_que_importa": "La marcha atrás del consejo, seis días después de que su propio presidente descartara la reincorporación, y la confirmación de que la Casa Blanca presionó para lograrla, abren un precedente sobre hasta qué punto un Gobierno puede influir en el gobierno corporativo de la empresa más valiosa del mundo en semiconductores de IA, justo cuando el Congreso investiga sus licencias de exportación a China.",
+      "foto": {
+        "archivo": "assets/fotos/chip.webp",
+        "alt": "Parte inferior de un chip de ordenador",
+        "credito": "Foto: Justin Mathews · CC BY 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CNBC", "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html", "fecha": "23 nov 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "Virginia y Oregón, primeros estados en demandar a SpaceX y xAI por las imágenes sexuales de Grok, incluido material de abuso infantil",
+      "entradilla": "Los fiscales generales de Virginia (Jay Jones) y Oregón (Dan Rayfield) presentaron el lunes 23 de noviembre demandas separadas -en los tribunales de Richmond y del condado de Multnomah- contra SpaceX, su filial de IA y X Corp, por las imágenes sexualizadas que genera el chatbot Grok, algunas de ellas de menores. Son las primeras demandas estatales sobre este asunto, después de que varios fiscales generales llevaran meses exigiendo por carta a xAI que corrigiera el problema.",
+      "reaccion": "«Cuando xAI permitió que los creadores de Grok dejaran de lado el consentimiento para generar beneficios, priorizaron el crecimiento y el compromiso por encima de la seguridad, y engañaron al público al respecto», afirmó Jones. Rayfield calificó los fallos de seguridad de Grok de «absolutamente inaceptables» y dijo que la falta de salvaguardas parecía «una característica, no un error». Las empresas de Musk respondieron que quienes generaron ese material violaron deliberadamente sus condiciones de uso. California y Arizona ya habían abierto investigaciones sobre Grok.",
+      "por_que_importa": "Es el primer intento de aplicar las leyes estatales de protección al consumidor a un generador de imágenes de IA por este tipo de contenido, y puede marcar hasta qué punto los fiscales estatales -y no solo los reguladores federales- pueden exigir responsabilidades a las empresas de IA generativa por los daños a menores.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Código fuente en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Departamento de Justicia de Oregón (comunicado oficial)", "url": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-takes-legal-action-against-grok-for-failing-to-block-child-exploitation/", "fecha": "23 nov 2026" }
+    },
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "La china Z.ai presenta GLM-5.4, su primer modelo «Loop Transformer», con visión y aplicado a vídeo, juegos y diseño 3D",
+      "entradilla": "Z.ai lanzó el 23 de noviembre GLM-5.4, su primer modelo construido sobre una arquitectura que la empresa llama «Loop Transformer»: en vez de añadir más capas para hacerlo más grande, reutiliza dos veces las mismas capas de su modelo base GLM-5 para razonar con más profundidad. La compañía lo presenta como una herramienta de «programación generalizada», con demostraciones que van de un vídeo musical autonarrado al diseño de un brazo robótico en FreeCAD, una escena en 3D con sombreado personalizado o un videojuego completo. Es la primera vez que añade visión nativa a su modelo principal de programación.",
+      "reaccion": "Z.ai no ha publicado todavía puntuaciones de referencia independientes para GLM-5.4 -dijo que llegarán más adelante-, por lo que su promesa de igualar a modelos de dos o tres billones de parámetros sigue sin confirmarse. El acceso por API y la publicación de sus pesos, que la empresa se ha comprometido a hacer «de forma responsable», quedan pendientes de una evaluación de seguridad todavía sin fecha.",
+      "por_que_importa": "La apuesta por reutilizar capas en lugar de hacer los modelos más grandes es relevante en un momento en que las empresas chinas de IA, Z.ai entre ellas, enfrentan limitaciones de acceso a los chips más avanzados por los controles de exportación de EE. UU.: si la técnica funciona, podría permitir modelos más potentes sin depender de tanta potencia de cómputo.",
+      "foto": {
+        "archivo": "assets/fotos/shanghai.webp",
+        "alt": "Vista panorámica de los rascacielos de Shanghái",
+        "credito": "Foto: King of Hearts · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "TestingCatalog", "url": "https://www.testingcatalog.com/z-ai-launches-glm-5-4-its-first-loop-transformer-model/", "fecha": "23 nov 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "El Congreso de EE. UU. revela que Washington aprobó 879.868 chips de IA para compradores chinos, algunos vinculados al Ejército, y exige respuestas a Lutnick",
+      "entradilla": "El presidente del Comité de Asuntos Exteriores de la Cámara, Brian Mast, hizo públicos el 19 de noviembre registros de licencias de exportación que muestran que compradores chinos solicitaron 3,4 millones de chips de IA de Nvidia y AMD, de los que el Departamento de Comercio aprobó 879.868 repartidos en 21 solicitudes hasta mayo de 2026. Entre los beneficiarios figuran 75.000 chips para Alibaba, 150.000 para Tencent, 43.000 para Baidu y 4.000 para el fabricante de coches eléctricos BYD; algunas de las licencias aprobadas correspondían a empresas que el Pentágono considera vinculadas al Ejército chino.",
+      "reaccion": "El demócrata Gregory Meeks afirmó que «la Oficina de Industria y Seguridad ha fallado en hacer cumplir las normas», y junto con la representante Sydney Kamlager-Dove exigió al secretario de Comercio, Howard Lutnick, respuestas antes del 1 de diciembre. El republicano John Kennedy preguntó en televisión si el Departamento de Comercio «permitió esto a sabiendas». Comercio defendió su historial de transparencia con el Congreso y señaló que sus licencias se rigen por una norma de enero de 2026 que sustituyó la presunción de denegación por una revisión caso por caso; el mismo lunes 23 anunció una norma que cierra el acceso remoto a sus chips a través de centros de datos en terceros países.",
+      "por_que_importa": "La disputa, que cruza a demócratas y republicanos, pone en duda si los controles de exportación pensados para frenar el acceso militar chino a la IA avanzada se están aplicando de verdad, justo cuando la Administración Trump también quiere facilitar que esas mismas empresas vendan su tecnología en el exterior.",
+      "foto": {
+        "archivo": "assets/fotos/oblea.webp",
+        "alt": "Oblea de semiconductor siendo procesada",
+        "credito": "Foto: Purdue Engineering · CC BY 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CNBC", "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html", "fecha": "19 nov 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Un estudio de Enverus halla que el 90% de la huella hídrica de la IA se consume en las centrales eléctricas, no en los centros de datos",
+      "entradilla": "Un informe de Enverus Intelligence Research publicado el 24 de noviembre calcula que usar un modelo de lenguaje de frontera por valor de 25 dólares al mes consume en total cerca de 1,9 galones de agua, y que casi el 90% de esa agua se gasta en la central eléctrica que genera la electricidad, no en el propio centro de datos. El estudio estima también que un campus de centros de datos moderno a gran escala consume unos 32.100 galones de agua por acre al mes.",
+      "reaccion": "La conclusión coincide con reportajes recientes sobre Arizona, donde los centros de datos de IA usan relativamente poca agua en sus propias instalaciones pero consumen mucha electricidad, cuya generación sí requiere grandes cantidades de agua. Un estudio de la organización Ceres citado en esa cobertura advierte de que el consumo de agua ligado a la electricidad de los centros de datos podría crecer hasta un 400% si se construyen todos los proyectos ya planeados.",
+      "por_que_importa": "El hallazgo traslada el debate sobre el coste hídrico de la IA desde la refrigeración de los servidores -el blanco habitual de las críticas- hacia la red eléctrica que los alimenta, lo que cambia qué preguntas deberían hacerse los gobiernos antes de autorizar nuevos centros de datos.",
+      "foto": {
+        "archivo": "assets/fotos/red-electrica.webp",
+        "alt": "Torres de alta tensión de la red eléctrica al atardecer",
+        "credito": "Foto: Kkiefuik · CC BY 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "World Oil, con datos de Enverus Intelligence Research", "url": "https://www.worldoil.com/news/2026/11/24/most-of-ai-s-water-footprint-comes-from-the-power-plant-not-the-data-center-enverus-says/", "fecha": "24 nov 2026" }
+    },
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Las acciones de Anthropic cierran por primera vez por debajo de su precio de salida a bolsa, con el primer vencimiento de bloqueo el 15 de diciembre en el horizonte",
+      "entradilla": "Las acciones de Anthropic (ANT) cerraron el martes 24 de noviembre por debajo de su precio de salida a bolsa de 83 dólares, con una caída del 6,5% esa sesión, y acumulan ya cerca de un 30% de pérdida desde su debut en el Nasdaq el 19 de noviembre. La inversora Cathie Wood compró acciones durante la caída, según informaron varios medios financieros.",
+      "reaccion": "La mayoría de analistas que cubren el valor mantienen una recomendación de compra -Wedbush con un precio objetivo de 120 dólares, Oppenheimer con 150 y Canaccord con 135-, aunque Seaport Research se mantiene neutral por dudas sobre el crecimiento de ingresos. Varios medios atribuyen parte de las ventas al nerviosismo tras el vaivén bursátil de Nvidia por el caso Huang y a la victoria demócrata en las elecciones de mitad de mandato, vista como una amenaza para la expansión de los centros de datos.",
+      "por_que_importa": "El primer vencimiento del periodo de bloqueo, el 15 de diciembre, liberará hasta cerca de 300 millones de acciones que sus primeros inversores podrán vender por primera vez, una prueba de fuego para saber si el mercado sigue confiando en las valoraciones del sector de la IA incluso en la empresa que acaba de protagonizar la mayor salida a bolsa del año.",
+      "foto": {
+        "archivo": "assets/fotos/san-francisco.webp",
+        "alt": "Puente Golden Gate y el horizonte de San Francisco",
+        "credito": "Foto: Daniel L. Lu (user:dllu) · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "CNBC", "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html", "fecha": "24 nov 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Donald Trump · presidente de EE. UU.",
+      "que": "Celebró la reincorporación de Jensen Huang como consejero delegado de Nvidia y confirmó que intervino personalmente ante el consejo para lograrlo, llamándolo un «tesoro nacional».",
+      "cuando": "23 nov 2026",
+      "fuente": "CNBC / NBC News"
+    },
+    {
+      "quien": "Hakeem Jeffries · líder de la minoría demócrata en la Cámara de Representantes",
+      "que": "Prometió que el Congreso «no se dejará disuadir» de investigar a fondo a Nvidia y un posible abuso de poder del secretario de Comercio, Howard Lutnick.",
+      "cuando": "23 nov 2026",
+      "fuente": "The Hill"
+    },
+    {
+      "quien": "Don Bacon · representante republicano por Nebraska",
+      "que": "Calificó de «inexplicable» que Nvidia quisiera recuperar a Huang como consejero delegado, mostrando que las críticas a la reincorporación cruzaron los dos partidos.",
+      "cuando": "23 nov 2026",
+      "fuente": "CBS News"
+    },
+    {
+      "quien": "Jay Jones · fiscal general de Virginia",
+      "que": "Acusó a xAI de anteponer el crecimiento y el compromiso de los usuarios a la seguridad al retirar salvaguardas de Grok, y de «engañar al público» al respecto.",
+      "cuando": "23 nov 2026",
+      "fuente": "Departamento de Justicia de Oregón / OPB"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: Nvidia vive dos sesiones de montaña rusa por el caso Huang, y la robótica humanoide china atrae un nuevo gran cheque.",
+    "items": [
+      {
+        "empresa": "Nvidia",
+        "que": "Sus acciones subieron un 31% el lunes 23 de noviembre tras la reincorporación de Jensen Huang como consejero delegado, para caer un 7% al día siguiente en medio de la incertidumbre sobre la investigación interna y las próximas comparecencias ante el Congreso.",
+        "cuando": "23-24 nov 2026",
+        "fuente": "CNBC"
+      },
+      {
+        "empresa": "Simplexity Robotics",
+        "que": "La start-up china de robots humanoides capta 100 millones de dólares en una ronda liderada por Ant Group, que la valora en 1.600 millones de dólares, con Tencent entre los inversores que repiten.",
+        "cuando": "24 nov 2026",
+        "fuente": "DigiTimes"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "Según Enverus, usar un modelo de lenguaje de frontera por valor de 25 dólares al mes consume cerca de 1,9 galones de agua si se cuenta toda la cadena, incluida la generada en la central eléctrica; casi el 90% de esa agua se gasta antes de llegar al centro de datos.",
+    "Entre los 879.868 chips de IA que, según reveló el Congreso de EE. UU., Washington autorizó exportar a China, figuran 75.000 para Alibaba, 150.000 para Tencent, 43.000 para Baidu y 4.000 para el fabricante de coches eléctricos BYD."
+  ],
+  "glosario": {
+    "termino": "Loop Transformer",
+    "definicion": "Arquitectura de modelo de lenguaje que, en vez de añadir más capas de red neuronal para hacerlo más grande, reutiliza varias veces las mismas capas durante el cálculo para razonar con más profundidad sin aumentar tanto su tamaño. La china Z.ai la estrenó con GLM-5.4 en noviembre de 2026."
+  }
+}
