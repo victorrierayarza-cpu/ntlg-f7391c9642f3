@@ -2,6 +2,11 @@
   "titulo_periodico": "La Inteligencia",
   "ediciones": [
     {
+      "fecha": "2026-11-27",
+      "titulo": "Meta pierde a su jefe de infraestructura y ficha a un exdirectivo de AWS, la UE empezará a exigir desde el 2 de diciembre marcar el contenido generado por IA, OpenAI prueba un sistema de cómputo confidencial para proteger los datos de sus clientes, Google DeepMind usa IA para demostrar que el cifrado de Signal es seguro, los inversores exigen más garantías a la deuda de los centros de datos de IA, y Arizona abre una investigación penal a OpenAI por una posible infiltración de bancos",
+      "prueba": false
+    },
+    {
       "fecha": "2026-11-25",
       "titulo": "Nvidia reincorpora a Jensen Huang como consejero delegado tras la presión de Trump y desata la ira bipartidista del Congreso, Virginia y Oregón demandan a xAI por las imágenes sexuales de Grok, la china Z.ai presenta su modelo «Loop Transformer» GLM-5.4, el Congreso revela que EE. UU. aprobó 879.868 chips de IA para China, un estudio de Enverus halla que el 90% de la huella hídrica de la IA se gasta en las centrales eléctricas, y las acciones de Anthropic caen por primera vez por debajo de su precio de salida a bolsa",
       "prueba": false

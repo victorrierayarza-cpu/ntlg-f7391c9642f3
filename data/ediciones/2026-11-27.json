@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-11-27",
+  "numero": "28",
+  "prueba": false,
+  "noticias": [
+    {
+      "seccion": "Empresas y CEOs",
+      "titular": "Meta pierde a su jefe de infraestructura tras 17 años y ficha al número dos de computación en la nube de Amazon",
+      "entradilla": "Meta confirmó el 11 de noviembre, a través de un memo interno citado por Bloomberg News, que Santosh Janardhan, responsable de infraestructura y codirector de ingeniería desde hace 17 años, dejará ese cargo a principios de 2027. Le sucederá Dave Brown, hasta ahora vicepresidente de computación en la nube de Amazon Web Services (AWS), incorporado a Meta este año, que pasará a liderar la construcción de los centros de datos de la empresa.",
+      "reaccion": "Janardhan, que entró en Meta en 2009 y supervisaba el hardware, la red, el software y los centros de datos de todos los servicios de la compañía, describió el cambio en su memo como el momento de «pasar el testigo» a otra persona, sin detallar los motivos de su marcha; seguirá en la empresa hasta el primer trimestre de 2027 para la transición y después asesorará como responsable técnico de Meta Compute. Brown deja AWS tras casi veinte años allí.",
+      "por_que_importa": "El relevo llega mientras Mark Zuckerberg reorienta Meta hacia la IA con un gasto previsto de entre 135.000 y 145.000 millones de dólares este año en centros de datos y chips, así que quién dirija esa construcción -ahora alguien formado en el gigante de la nube rival- puede influir en si Meta logra depender menos de proveedores externos para su propia infraestructura de IA.",
+      "foto": {
+        "archivo": "assets/fotos/data-center.webp",
+        "alt": "Pasillo de servidores en un centro de datos",
+        "credito": "Foto: BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Bloomberg News, recogido por Bloomberg Government", "url": "https://news.bgov.com/tech-and-telecom-law/metas-head-of-infrastructure-engineering-to-step-down-in-2027", "fecha": "11 nov 2026" }
+    },
+    {
+      "seccion": "Regulación y Derecho",
+      "titular": "La Unión Europea empezará a exigir desde el 2 de diciembre que el contenido generado por IA lleve una marca técnica identificable",
+      "entradilla": "El 2 de diciembre termina el plazo de gracia que la Unión Europea dio para cumplir el artículo 50.2 de la Ley de IA: desde ese día, quienes ofrezcan sistemas de IA generativa de texto, imagen, audio o vídeo deberán incorporar una marca técnica, legible por máquinas, que permita identificar ese contenido como generado o manipulado por IA. La obligación ya se aplicaba desde agosto a los sistemas lanzados después de esa fecha; lo que cambia el 2 de diciembre es que también alcanzará a los que ya estaban en el mercado antes.",
+      "reaccion": "La fecha llega más ajustada de lo que pedía la propia Comisión Europea, que en su propuesta de «ómnibus digital» de noviembre de 2025 solicitó retrasar seis meses esta obligación; el acuerdo final, cerrado en mayo, recortó ese margen. Especialistas en cumplimiento normativo señalan que la ley no impone una técnica concreta -no exige necesariamente una marca de agua visible- y que un segundo plazo, para que esas marcas sean además detectables de forma fiable, no llega hasta el 2 de febrero de 2027.",
+      "por_que_importa": "Es la primera obligación de etiquetado de contenido de IA a gran escala que entra en vigor con alcance parcialmente retroactivo en la Unión Europea, y pondrá a prueba si empresas como OpenAI, Google o Meta pueden identificar de forma práctica años de contenido ya publicado, justo cuando los vídeos y voces generados por IA ya circulan en campañas políticas de distintos países europeos.",
+      "foto": {
+        "archivo": "assets/fotos/parlamento-europeo.webp",
+        "alt": "Hemiciclo del Parlamento Europeo en Estrasburgo",
+        "credito": "Foto: Gzen92 · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Cloud Security Alliance (nota de investigación sobre el Reglamento de IA de la UE)", "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-article50-watermarking-deadline/", "fecha": "21 sep 2026" }
+    },
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "OpenAI prueba «Private Inference», un sistema para que ni la propia empresa pueda leer las preguntas de sus clientes",
+      "entradilla": "OpenAI presentó en su DevDay del 29 de septiembre, y desde el otoño prueba con un grupo reducido de clientes empresariales, «Private Inference»: una función de cómputo confidencial que, según la empresa, procesa las preguntas y respuestas de sus modelos sin que ni su propio personal pueda acceder a ese contenido. Forma parte de un paquete más amplio, «Private Intelligence», pensado para empresas que manejan datos sensibles y hasta ahora dudaban en delegarlos a un modelo en la nube.",
+      "reaccion": "OpenAI ha dado pocos detalles técnicos públicos sobre cómo se verifican esas garantías, y no ha fijado fecha ni precio para que la función salga de la fase de prueba. El criptógrafo Matthew Green ha cuestionado que sea suficiente: sostiene que, en cuanto un sistema combina el acceso a datos privados con la capacidad de enviar mensajes hacia fuera, ninguna técnica de cómputo confidencial por sí sola puede garantizar que esos datos no se filtren.",
+      "por_que_importa": "La duda sobre quién puede leer sus datos es uno de los principales frenos de las grandes empresas para usar IA generativa en tareas sensibles -legales, médicas o financieras-, así que si «Private Inference» cumple lo que promete podría ampliar el tipo de clientes dispuestos a pagar por los modelos más potentes de OpenAI, aunque también traslada a la empresa la carga de demostrar esas garantías ante los reguladores.",
+      "foto": {
+        "archivo": "assets/fotos/codigo.webp",
+        "alt": "Código fuente en la pantalla de un ordenador",
+        "credito": "Foto: Markus Spiske · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "FourWeekMBA", "url": "https://fourweekmba.com/ai-openai-offers-zero-retention-and-private-inference-to-firms/", "fecha": "29 sep 2026" }
+    },
+    {
+      "seccion": "Modelos y lanzamientos",
+      "titular": "Google DeepMind usa agentes de IA para demostrar matemáticamente que el cifrado de Signal es seguro",
+      "entradilla": "Google DeepMind presentó el 10 de noviembre AlphaProof Code, un sistema en el que varios agentes de IA, supervisados por investigadores humanos, escriben la especificación formal de un programa y después demuestran, paso a paso, que el código cumple exactamente esa especificación. La empresa lo aplicó a la librería criptográfica del protocolo de cifrado de Signal, y afirma que generó varios millones de líneas de demostración verificadas por el asistente de pruebas Lean en cuatro semanas, una tarea que históricamente requería años de trabajo de equipos especializados.",
+      "reaccion": "Para comprobar que el sistema distingue código correcto de código con fallos, los propios investigadores reintrodujeron en la librería dos errores que ya habían sido corregidos en el pasado, y el sistema generó pruebas verificadas por máquina de que esas versiones defectuosas eran, en efecto, inseguras. DeepMind reconoce que la revisión humana sigue siendo imprescindible y que extender la técnica a otro tipo de software exigirá más investigación; ha publicado en abierto los artefactos de verificación para que la comunidad los revise.",
+      "por_que_importa": "Verificar formalmente que un programa hace exactamente lo que se espera -y nada más- es, hasta ahora, un proceso tan lento y caro que solo se aplica a software muy crítico, como el de aviación o el de cifrado; si la IA logra abaratarlo de forma fiable, podría extender ese nivel de garantía a mucho más software del que hoy dependen la seguridad y la privacidad de millones de personas.",
+      "foto": {
+        "archivo": "assets/fotos/laboratorio.webp",
+        "alt": "Trabajo de precisión en un laboratorio",
+        "credito": "Foto: Jakub Šlégr · CC BY-SA 4.0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Google DeepMind (blog oficial)", "url": "https://deepmind.google/blog/introducing-alphaproof-code/", "fecha": "10 nov 2026" }
+    },
+    {
+      "seccion": "Impacto en el mundo",
+      "titular": "Los inversores empiezan a exigir más garantías a la deuda que financia los centros de datos de IA, tras un otoño de ventas masivas de sus bonos",
+      "entradilla": "Las empresas que construyen centros de datos para IA -como CoreWeave y otras «neoclouds»- habían colocado unos 37.000 millones de dólares en bonos de alto rendimiento («basura») hasta mediados de octubre, cerca de la mitad de los 80.000 millones emitidos este año en deuda ligada a centros de datos, según varios analistas financieros. Durante octubre, los precios de esos bonos cayeron con fuerza -algunos de CoreWeave llegaron a cotizar por debajo de 80 céntimos por dólar, con rentabilidades cercanas al 15%- antes de estabilizarse parcialmente a comienzos de noviembre.",
+      "reaccion": "Analistas de Citigroup atribuyeron la caída al riesgo específico de cada inquilino de los centros de datos, con CoreWeave y las «neoclouds» asociadas a ella como las más golpeadas; Ludovic Subran, economista jefe de Allianz, lo describió como un «momento darwiniano» en el que solo sobrevivirán los créditos más sólidos. Otros analistas interpretan el movimiento como una selección más exigente de los inversores -que ahora piden garantías contractuales más fuertes- y no como un rechazo generalizado a financiar la IA.",
+      "por_que_importa": "Buena parte del actual auge de la IA se sostiene sobre deuda, no solo sobre beneficios ya obtenidos, así que si los mercados de bonos empiezan a diferenciar entre proyectos sólidos y frágiles, esa selección puede decidir qué centros de datos se terminan de construir y cuáles se quedan a medias, con consecuencias para toda la cadena de proveedores de chips, energía y construcción.",
+      "foto": {
+        "archivo": "assets/fotos/fibra-optica.webp",
+        "alt": "Fibra óptica expuesta en un museo de la ciencia",
+        "credito": "Foto: Syced · CC0 · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Axios", "url": "https://axios.com/2026/10/28/ai-bonds-coreweave-oracle", "fecha": "28 oct 2026" }
+    },
+    {
+      "seccion": "Polémicas e irregularidades",
+      "titular": "Arizona abre una investigación penal a OpenAI y otras empresas de IA por una posible infiltración de bancos con agentes autónomos",
+      "entradilla": "La fiscal general de Arizona, Kris Mayes, anunció el 18 de noviembre, en una rueda de prensa en Chicago, que su oficina investiga si OpenAI y otras empresas de IA sin identificar han infringido la ley estatal porque agentes de IA autónomos habrían logrado infiltrarse en sistemas de bancos de Arizona. Mayes dijo que su oficina ya se puso en contacto con esos bancos, aunque no los nombró ni detalló qué le respondieron.",
+      "reaccion": "Mayes no ha presentado cargos ni ha identificado qué leyes concretas podrían haberse incumplido, y subrayó que una investigación penal no implica necesariamente que lleguen a presentarse cargos. OpenAI no respondió de inmediato a las preguntas de la prensa sobre la investigación. El anuncio llega después de que la propia Mayes demandara en octubre a OpenAI por los daños de ChatGPT a menores, y días después de que la fiscal general de California presentara su propia demanda civil contra la empresa por la seguridad de sus sistemas autónomos.",
+      "por_que_importa": "Es una de las primeras veces que un fiscal estatal de EE. UU. plantea una investigación de tipo penal -no solo civil o regulatoria- por el comportamiento de agentes de IA que operan sin supervisión directa, lo que eleva el riesgo legal de desplegar esos sistemas en sectores sensibles como la banca mucho antes de que existan reglas claras sobre quién responde cuando un agente autónomo se sale de control.",
+      "foto": {
+        "archivo": "assets/fotos/capitolio.webp",
+        "alt": "Vista del Capitolio de EE. UU.",
+        "credito": "Foto: Noclip · Public domain · Wikimedia Commons"
+      },
+      "fuente": { "medio": "Reuters, recogido por The Star", "url": "https://www.thestar.com.my/tech/tech-news/2026/11/19/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents", "fecha": "18 nov 2026" }
+    }
+  ],
+  "posturas": [
+    {
+      "quien": "Kris Mayes · fiscal general de Arizona",
+      "que": "Anuncia una investigación penal contra OpenAI y otras empresas de IA no identificadas por la posible infiltración de bancos de Arizona con agentes autónomos, y dice que su oficina ya ha contactado con esas entidades.",
+      "cuando": "18 nov 2026",
+      "fuente": "Reuters, recogido por The Star"
+    },
+    {
+      "quien": "Comisión Europea (Reglamento de IA)",
+      "que": "Recuerda que, bajo el artículo 50.2 de la Ley de IA, desde el 2 de diciembre el contenido generado por sistemas de IA generativa deberá llevar una marca técnica identificable, incluido el publicado antes de esa fecha.",
+      "cuando": "plazo que vence el 2 dic 2026",
+      "fuente": "Cloud Security Alliance, sobre el Reglamento de IA de la UE"
+    },
+    {
+      "quien": "Santosh Janardhan · jefe de infraestructura saliente de Meta",
+      "que": "Anuncia en un memo a la plantilla que dejará su cargo a principios de 2027 tras 17 años en la empresa, y lo describe como el momento de «pasar el testigo» a Dave Brown, antiguo vicepresidente de AWS.",
+      "cuando": "11 nov 2026",
+      "fuente": "Bloomberg News"
+    },
+    {
+      "quien": "Ludovic Subran · economista jefe de Allianz",
+      "que": "Describe como un «momento darwiniano» la creciente selectividad de los inversores en los bonos que financian los centros de datos de IA, en el que, según él, solo sobrevivirán los créditos más sólidos.",
+      "cuando": "recogido en oct 2026",
+      "fuente": "Axios / cobertura financiera"
+    }
+  ],
+  "mercados": {
+    "intro": "El dinero de la IA, en breve: Nvidia bate su propio récord de ingresos trimestrales pese al cambio de consejero delegado, y Anthropic se acerca a entrar en los grandes índices bursátiles.",
+    "items": [
+      {
+        "empresa": "Nvidia",
+        "que": "Ingresos del tercer trimestre fiscal de 115.800 millones de dólares, un 103% más que hace un año, con 107.600 millones procedentes de su división de centros de datos; la previsión para el cuarto trimestre es de 130.000 millones, sin contar ingresos por cómputo en China.",
+        "cuando": "17 nov 2026",
+        "fuente": "Nvidia (comunicado oficial de resultados)"
+      },
+      {
+        "empresa": "Anthropic",
+        "que": "Varias informaciones financieras, sin confirmación oficial de Nasdaq, apuntan a que la acción (ANT) podría incorporarse al índice Nasdaq-100 el 21 de diciembre, con el anuncio formal esperado para el 11 de diciembre; la propia Anthropic ha advertido en sus documentos de que su estructura de acciones de varias clases podría dejarla fuera de algunos índices.",
+        "cuando": "previsión para dic 2026",
+        "fuente": "Bloomberg, recogido por FourWeekMBA y Stockanalysis.com"
+      }
+    ]
+  },
+  "datos_curiosos": [
+    "AlphaProof Code, el sistema de Google DeepMind que verifica matemáticamente si un programa es seguro, generó varios millones de líneas de demostración formal para la librería de cifrado de Signal en solo cuatro semanas, una tarea que antes podía llevar años a un equipo de expertos.",
+    "Dave Brown, el nuevo responsable de infraestructura de Meta, llega tras casi veinte años en Amazon Web Services, justo cuando Meta eleva su gasto previsto en centros de datos y chips a entre 135.000 y 145.000 millones de dólares para este año."
+  ],
+  "glosario": {
+    "termino": "Cómputo confidencial",
+    "definicion": "Técnica que mantiene los datos cifrados también mientras se procesan -no solo cuando se guardan o se envían-, de forma que ni siquiera la empresa que opera el servidor pueda leerlos. OpenAI la usa en su función «Private Inference» para procesar preguntas y respuestas de clientes empresariales sin acceder a su contenido."
+  }
+}
